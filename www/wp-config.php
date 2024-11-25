@@ -20,22 +20,35 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress' );
+/** The name of the database for WordPress */
+define('DB_NAME', getenv('DB_NAME'));
 
-/** Database username */
-define( 'DB_USER', 'karl' );
+/** MySQL database username */
+define('DB_USER', getenv('DB_USER'));
 
-/** Database password */
-define( 'DB_PASSWORD', 'Aa3345678' );
+/** MySQL database password */
+define('DB_PASSWORD', getenv('DB_PASSWORD'));
 
-/** Database hostname */
-define( 'DB_HOST', 'local.bgmotion.com.tw:3333' );
+/** MySQL hostname (使用 Cloud SQL 連接名稱) */
+define('DB_HOST', getenv('DB_HOST'));
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+
+/** 設定 WordPress 是否允許檔案寫入 (GAE 不建議寫入本地檔案系統) */
+define('FS_METHOD', 'direct');
+
+/** 設定暫存目錄 */
+define('WP_TEMP_DIR', '/tmp');
+
+
+define('UPLOADS', 'static/uploads');
+
+
+
 
 /**#@+
  * Authentication unique keys and salts.
@@ -101,8 +114,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
-
-
 // 更改網址
 define('WP_HOME','https://wpjs-442309.de.r.appspot.com');
 define('WP_SITEURL','https://wpjs-442309.de.r.appspot.com');
+
+
+$_SERVER['HTTPS'] = 'on';

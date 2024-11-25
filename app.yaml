@@ -1,10 +1,17 @@
-runtime: nodejs20
+runtime: php83  # 選擇 PHP 8.3 執行環境
 
-instance_class: F1
-automatic_scaling:
-  max_instances: 1
-  min_instances: 1
+instance_class: F1  # 指定實例類型 (依需求調整)
+entrypoint: php -S 0.0.0.0:8080 -t www/
 
-error_handlers:
-  error_code:
-    timeout: 60s
+env_variables:
+  # WordPress 與 Cloud SQL 的相關設定
+  DB_NAME: 'wordpress'
+  DB_USER: 'karl'
+  DB_PASSWORD: 'Aa3345678'
+  DB_HOST: 'local.bgmotion.com.tw:3333'
+
+handlers:
+  # 讓 WordPress 正常處理請求
+  - url: /.*
+    script: auto
+    secure: always
