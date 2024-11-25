@@ -1,0 +1,1257 @@
+{
+    "key": "group_61ca93dda564e",
+    "title": "Styling Options",
+    "fields": [
+        {
+            "key": "field_61d36e31c210c",
+            "label": "Colors",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_61d37114c2111",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Basic default color schemes options. If you want change color of individual elements please use Elementor Builder ->  Widget -> Style section.",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5b68d509665d9",
+            "label": "Accent Color #1",
+            "name": "accent_color1",
+            "type": "color_picker",
+            "instructions": "Primary accent color (buttons, links, hover, theme color, etc). Default is: #F5C332",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d36bcfc210a",
+            "label": "Accent Color #2",
+            "name": "accent_color2",
+            "type": "color_picker",
+            "instructions": "Secondary accent color (circles, lines, figures, etc). Default is: #F2F3F5",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d36efdc210e",
+            "label": "Text Color #1",
+            "name": "text_color1",
+            "type": "color_picker",
+            "instructions": "Primary text color (headings). Default is: #231E41",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d36f03c210f",
+            "label": "Text Color #2",
+            "name": "text_color2",
+            "type": "color_picker",
+            "instructions": "Secondary text color (description, paragraphs, text, etc). Default is: #6F6F87",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d3723862ec2",
+            "label": "Background Color #1",
+            "name": "bg_color1",
+            "type": "color_picker",
+            "instructions": "Primary background white color. Default is: #FFFFFF",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d3728662ec3",
+            "label": "Background Color #2",
+            "name": "bg_color2",
+            "type": "color_picker",
+            "instructions": "Secondary background grey color. Default is: #F9FAFC",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d36ebdc210d",
+            "label": "Typography",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_61d3719dc2112",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Basic default typography options. If you want change typography of individual elements please use Elementor Builder ->  Widget -> Style section.",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d37b221baea",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Basic Text<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5eea66ad5ad1e",
+            "label": "Font Size",
+            "name": "text_font_size",
+            "type": "number",
+            "instructions": "Base text font size in px. Default is: 16",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d379f4313c0",
+            "label": "Font Weight",
+            "name": "text_font_weight",
+            "type": "number",
+            "instructions": "Base text font weight from 100 to 900. Default is: 400",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_5b68d188906fd",
+            "label": "Font Family",
+            "name": "text_font_family",
+            "type": "ui_google_font",
+            "instructions": "Base text font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37a92313c2",
+            "label": "Letter Spacing",
+            "name": "text_letter_spacing",
+            "type": "number",
+            "instructions": "Base text letter spacing in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d37b501baeb",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Heading #1<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5eea66185ad1d",
+            "label": "Font Size",
+            "name": "heading1_font_size",
+            "type": "number",
+            "instructions": "Heading & Title font size in px. Default is: 72",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d37b951baed",
+            "label": "Font Weight",
+            "name": "heading1_font_weight",
+            "type": "number",
+            "instructions": "Heading & Title font weight from 100 to 900. Default is: 600",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_5b68cfc4906fc",
+            "label": "Font Family",
+            "name": "heading1_font_family",
+            "type": "ui_google_font",
+            "instructions": "Heading & Title font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37c011baee",
+            "label": "Letter Spacing",
+            "name": "heading1_letter_spacing",
+            "type": "number",
+            "instructions": "Heading & Title letter spacing in px. Default is: -3",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d37b7d1baec",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Heading #2<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d376e1e25fd",
+            "label": "Font Size",
+            "name": "heading2_font_size",
+            "type": "number",
+            "instructions": "Heading & Title font size in px. Default is: 40",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d37c271baef",
+            "label": "Font Weight",
+            "name": "heading2_font_weight",
+            "type": "number",
+            "instructions": "Heading & Title font weight from 100 to 900. Default is: 600",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_61d376e7e25fe",
+            "label": "Font Family",
+            "name": "heading2_font_family",
+            "type": "ui_google_font",
+            "instructions": "Heading & Title font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37c451baf0",
+            "label": "Letter Spacing",
+            "name": "heading2_letter_spacing",
+            "type": "number",
+            "instructions": "Heading & Title letter spacing in px. Default is: -2",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d37c4f1baf1",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Heading #3<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d37849e2600",
+            "label": "Font Size",
+            "name": "heading3_font_size",
+            "type": "number",
+            "instructions": "Heading & Title font size in px. Default is: 22",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d37c871baf3",
+            "label": "Font Weight",
+            "name": "heading3_font_weight",
+            "type": "number",
+            "instructions": "Heading & Title font weight from 100 to 900. Default is: 600",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_61d3782fe25ff",
+            "label": "Font Family",
+            "name": "heading3_font_family",
+            "type": "ui_google_font",
+            "instructions": "Heading & Title font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37c801baf2",
+            "label": "Letter Spacing",
+            "name": "heading3_letter_spacing",
+            "type": "number",
+            "instructions": "Heading & Title letter spacing in px. Default is: -1",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d37cc21baf4",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Heading #4<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d37872e2602",
+            "label": "Font Size",
+            "name": "heading4_font_size",
+            "type": "number",
+            "instructions": "Heading & Title font size in px. Default is: 16",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d37cd31baf6",
+            "label": "Font Weight",
+            "name": "heading4_font_weight",
+            "type": "number",
+            "instructions": "Heading & Title font weight from 100 to 900. Default is: 600",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_61d37861e2601",
+            "label": "Font Family",
+            "name": "heading4_font_family",
+            "type": "ui_google_font",
+            "instructions": "Heading & Title font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37cce1baf5",
+            "label": "Letter Spacing",
+            "name": "heading4_letter_spacing",
+            "type": "number",
+            "instructions": "Heading & Title letter spacing in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d37d061baf7",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Menu<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5eea67685ad1f",
+            "label": "Font Size",
+            "name": "menu_font_size",
+            "type": "number",
+            "instructions": "Menu Items font size in px. Default is: 16",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d37d191baf8",
+            "label": "Font Weight",
+            "name": "menu_font_weight",
+            "type": "number",
+            "instructions": "Menu items font weight from 100 to 900. Default is: 400",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_5eea67ef5ad21",
+            "label": "Font Family",
+            "name": "menu_font_family",
+            "type": "ui_google_font",
+            "instructions": "Menu Items font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d37d1e1baf9",
+            "label": "Letter Spacing",
+            "name": "menu_letter_spacing",
+            "type": "number",
+            "instructions": "Menu Items letter spacing in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d3805da90f7",
+            "label": "Buttons",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_61d384b9e53ec",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Basic default buttons options. If you want change button styles of individual elements please use Elementor Builder ->  Widget -> Style section.",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d38099a90f9",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Colors<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d38349a9101",
+            "label": "Text Color",
+            "name": "btn_text_color",
+            "type": "color_picker",
+            "instructions": "Button text color. Default is: #231E41",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d383aea9102",
+            "label": "Background Color",
+            "name": "btn_bg_color",
+            "type": "color_picker",
+            "instructions": "Button background color. Default is: #F5C332",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d380d5a90fa",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Typography<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d380e4a90fb",
+            "label": "Font Size",
+            "name": "btn_font_size",
+            "type": "number",
+            "instructions": "Button text font size in px. Default is: 14",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "20",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d380eda90fc",
+            "label": "Font Weight",
+            "name": "btn_font_weight",
+            "type": "number",
+            "instructions": "Button text font weight from 100 to 900. Default is: 400",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "20",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_61d380f3a90fd",
+            "label": "Font Family",
+            "name": "btn_font_family",
+            "type": "ui_google_font",
+            "instructions": "Button text font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "20",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d38119a90fe",
+            "label": "Letter Spacing",
+            "name": "btn_letter_spacing",
+            "type": "number",
+            "instructions": "Button text letter spacing in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "20",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_62e071a806766",
+            "label": "Text Transform",
+            "name": "btn_transform",
+            "type": "button_group",
+            "instructions": "Button text transform. Default is: Normal",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "20",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "normal": "Normal",
+                "uppercase": "Uppercase"
+            },
+            "allow_null": 0,
+            "default_value": "",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_61d38067a90f8",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Border<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d382fba9100",
+            "label": "Border Radius",
+            "name": "btn_border_radius",
+            "type": "number",
+            "instructions": "Button border radius in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 1000,
+            "step": ""
+        },
+        {
+            "key": "field_62e0710506764",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Height<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_62e0712106765",
+            "label": "Height",
+            "name": "btn_height",
+            "type": "number",
+            "instructions": "Button height in px. Default is: 55",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 150,
+            "step": ""
+        },
+        {
+            "key": "field_61d5295613b81",
+            "label": "Breadcrumbs",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_61d5299713b82",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Basic default breadcrumbs options. If you want change breadcrumbs styles of individual page or section please use Elementor Builder ->  Widget -> Style section.",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d529c113b83",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Colors<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d529d613b84",
+            "label": "Text Color",
+            "name": "brc_text_color",
+            "type": "color_picker",
+            "instructions": "Breadcrumbs text color. Default is: #231E41",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d529da13b85",
+            "label": "Background Color",
+            "name": "brc_bg_color",
+            "type": "color_picker",
+            "instructions": "Breadcrumbs background color. Default is: #F5C332",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_61d52a7e13b87",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Typography<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d52a9313b88",
+            "label": "Font Size",
+            "name": "brc_font_size",
+            "type": "number",
+            "instructions": "Breadcrumbs text font size in px. Default is: 14",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": 300,
+            "step": ""
+        },
+        {
+            "key": "field_61d52a9d13b89",
+            "label": "Font Weight",
+            "name": "brc_font_weight",
+            "type": "number",
+            "instructions": "Breadcrumbs text font weight from 100 to 900. Default is: 500",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 100,
+            "max": 900,
+            "step": 100
+        },
+        {
+            "key": "field_61d52aa513b8a",
+            "label": "Font Family",
+            "name": "brc_font_family",
+            "type": "ui_google_font",
+            "instructions": "Breadcrumbs text font family. Default is: 'Rubik'",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "font_size": 14
+        },
+        {
+            "key": "field_61d52aab13b8b",
+            "label": "Letter Spacing",
+            "name": "brc_letter_spacing",
+            "type": "number",
+            "instructions": "Breadcrumbs text letter spacing in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 100,
+            "step": ""
+        },
+        {
+            "key": "field_61d52b3813b8c",
+            "label": "",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Border<\/h3>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_61d52b4913b8e",
+            "label": "Border Radius",
+            "name": "brc_border_radius",
+            "type": "number",
+            "instructions": "Breadcrumbs border radius in px. Default is: 0",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 0,
+            "max": 1000,
+            "step": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "styling-theme-options"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1659957358
+}

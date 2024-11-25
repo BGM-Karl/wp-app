@@ -1,0 +1,99 @@
+@use '../../utils' as *;
+
+.reservation {
+
+  &-wrapper {
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    background-color: var(--rr-common-white);
+
+    @media #{$xl, $lg, $md, $sm, $xs} {
+      flex-direction: column;
+      gap: 70px;
+      justify-content: center;
+    }
+
+    @media #{$xs} {
+      gap: 50px;
+    }
+  }
+
+  &__content {
+    max-width: 514px;
+    margin-left: 100px;
+    line-height: 0;
+
+    @media #{$xl, $lg, $md, $sm, $xs} {
+      padding: 80px 30px 0;
+      text-align: center;
+      max-width: 100%;
+      margin-left: 0;
+    }
+
+    @media #{$xs} {
+      padding: 60px 20px 0;
+    }
+
+    .rr-btn-solid {
+      display: inline-block;
+      padding: 16px 31px;
+
+      @media #{$xs} {
+        padding: 14px 20px;
+      }
+    }
+  }
+
+  &__media {
+    position: relative;
+    margin-left: auto;
+
+    @media #{$xl, $lg, $md, $sm, $xs} {
+      margin-right: auto;
+    }
+
+    .image-1 {
+      @media #{$lg, $md, $sm} {
+        padding-left: 95px;
+      }
+      @media #{$xs} {
+        width: 380px;
+        padding-left: 60px;
+      }
+    }
+
+    &-small-thumb {
+      position: absolute;
+      left: -95px;
+      bottom: 109px;
+
+      @media #{$xs} {
+        bottom: 55px;
+      }
+
+      @media #{$lg, $md, $sm, $xs} {
+        left: 0;
+      }
+
+      img {
+
+        @media #{$xs} {
+          width: 160px;
+          height: 200px;
+        }
+      }
+
+      &::after {
+        content: "";
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+        position: absolute;
+        border: 8px solid var(--rr-common-white);
+      }
+    }
+  }
+}

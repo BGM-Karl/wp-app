@@ -1,0 +1,122 @@
+@use '../../utils' as *;
+
+.discount {
+
+  .custom-container {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 370px auto 370px;
+    grid-template-rows: 396px;
+
+    @media #{$xxxl} {
+      grid-template-columns: 300px auto 300px;
+      grid-template-rows: 350px;
+    }
+    @media #{$xxl} {
+      grid-template-columns: 290px auto 290px;
+      grid-template-rows: 320px;
+    }
+    @media #{$xl} {
+      grid-template-columns: 270px auto 270px;
+      grid-template-rows: 320px;
+    }
+    @media #{$lg, $md, $sm, $xs} {
+      grid-template-columns: 1fr;
+      grid-template-rows: inherit;
+    }
+  }
+
+  &__item {
+
+    &-contact {
+      background-color: #1A1A1A;
+    }
+
+    &-media {
+      width: 100%;
+      height: 100%;
+      background-position: center;
+      object-fit: cover;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      @media #{$lg, $md} {
+        height: 400px;
+      }
+      @media #{$sm, $xs} {
+        height: 300px;
+      }
+      @media #{$xxs} {
+        height: 250px;
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-text {
+      padding: 50px;
+
+      @media #{$xxxl, $xxl, $xl} {
+        padding: 30px 20px;
+      }
+      @media #{$lg, $md, $sm} {
+        padding: 50px;
+      }
+      @media #{$xs} {
+        padding: 40px 30px;
+      }
+
+      h6 {
+        color: var(--rr-common-white);
+        text-transform: uppercase;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      p {
+        color: var(--rr-common-white);
+      }
+
+      .btn-book {
+        font-size: 16px;
+        font-weight: var(--rr-fw-sbold);
+        text-transform: uppercase;
+        border: 1px solid var(--rr-common-white);
+        padding: 10px 26.5px;
+        color: var(--rr-common-white);
+
+        &:hover {
+          background: var(--rr-theme-primary);
+          border-color: var(--rr-theme-primary);
+        }
+      }
+
+      &__contact-info {
+        list-style: none;
+
+        li {
+          color: var(--rr-common-white);
+          &:nth-last-child(2) {
+            margin-top: 30px;
+          }
+
+          a {
+            color: var(--rr-common-white);
+
+            &:hover {
+              opacity: .8;
+            }
+          }
+        }
+      }
+    }
+  }
+}

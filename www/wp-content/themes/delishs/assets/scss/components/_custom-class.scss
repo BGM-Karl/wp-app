@@ -1,0 +1,43 @@
+@use "../utils" as *;
+
+/*----------------------------------------*/
+/*  2.1 custom color
+/*----------------------------------------*/
+.color-theme-primary { color: var(--rr-theme-primary) }
+.color--rr-theme-secondary { color: var(--rr-theme-secondary) }
+.color-white { color: var(--rr-common-white) }
+
+/*----------------------------------------*/
+/*  2.. font weight
+/*----------------------------------------*/
+.rr-fw-medium { font-weight: var(--rr-fw-medium) }
+.rr-fw-regular {font-weight: var(--rr-fw-regular) }
+.rr-fw-sbold {font-weight: var(--rr-fw-sbold) }
+.rr-fw-black {font-weight: var(--rr-fw-black) }
+
+/*----------------------------------------*/
+/*  2.. font family
+/*----------------------------------------*/
+.rr-ff-heading { font-family: var(--rr-ff-heading) }
+.rr-ff-body { font-family: var(--rr-ff-body) }
+
+/*----------------------------------------*/
+/*  2.. body
+/*----------------------------------------*/
+.body {
+    font-size: var(--rr-fs-body);
+    line-height: var(--rr-lh-body);
+}
+
+/*----------------------------------------*/
+/*  2.. background
+/*----------------------------------------*/
+.white-bg {  background-color: var(--rr-common-white);}
+.black-bg {background-color: var(--rr-common-black);}
+.theme-bg-primary { background-color: var(--rr-theme-primary); }
+.theme-bg-secondary { background-color: var(--rr-theme-secondary); }
+
+.section-bg-1 { background: #FAF4EE; }
+.section-bg-2 { background: #F6F6F6; }
+.section-bg-3 { background: #F8F8F8; }
+.section-bg-4 { background: #F6F6F7; }

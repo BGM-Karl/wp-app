@@ -1,0 +1,1694 @@
+# Copyright (C) 2022 starbelly-plugin
+# This file is distributed under the same license as the starbelly-plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: starbelly-plugin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/elementor/functions.php:70
+msgid "Starbelly Theme"
+msgstr ""
+
+#: src/inc/custom-post-types.php:8, src/inc/custom-post-types.php:21
+msgid "Header & Footer"
+msgstr ""
+
+#: src/inc/custom-post-types.php:9
+msgid "Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:10, src/inc/custom-post-types.php:12
+msgid "Add New Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:11, src/inc/custom-post-types.php:142
+msgid "Add New"
+msgstr ""
+
+#: src/inc/custom-post-types.php:13
+msgid "All Templates"
+msgstr ""
+
+#: src/inc/custom-post-types.php:14
+msgid "Edit Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:15
+msgid "View Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:16
+msgid "Search Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:17
+msgid "No Templates Found"
+msgstr ""
+
+#: src/inc/custom-post-types.php:18
+msgid "No Templates Found in Trash"
+msgstr ""
+
+#: src/inc/custom-post-types.php:22
+msgid "Add a Template"
+msgstr ""
+
+#: src/inc/custom-post-types.php:61, src/inc/custom-post-types.php:62, src/inc/custom-post-types.php:63, src/inc/custom-post-types.php:76, src/inc/custom-post-types.php:77, src/elementor/widgets/gallery.php:18
+msgid "Gallery"
+msgstr ""
+
+#: src/inc/custom-post-types.php:64
+msgid "Parent Image:"
+msgstr ""
+
+#: src/inc/custom-post-types.php:65
+msgid "All Images"
+msgstr ""
+
+#: src/inc/custom-post-types.php:66
+msgid "View Image"
+msgstr ""
+
+#: src/inc/custom-post-types.php:67
+msgid "Add New Image"
+msgstr ""
+
+#: src/inc/custom-post-types.php:68
+msgid "New Image"
+msgstr ""
+
+#: src/inc/custom-post-types.php:69
+msgid "Edit Image"
+msgstr ""
+
+#: src/inc/custom-post-types.php:70
+msgid "Update Image"
+msgstr ""
+
+#: src/inc/custom-post-types.php:71
+msgid "Search Images"
+msgstr ""
+
+#: src/inc/custom-post-types.php:72
+msgid "No images found"
+msgstr ""
+
+#: src/inc/custom-post-types.php:73
+msgid "No images found in Trash"
+msgstr ""
+
+#: src/inc/custom-post-types.php:103, src/inc/custom-post-types.php:104, src/inc/custom-post-types.php:113, src/inc/custom-post-types.php:116
+msgid "Gallery Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:105
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:106
+msgid "All Gallery Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:107
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:108
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: src/inc/custom-post-types.php:109
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:110
+msgid "Update Gallery Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:111
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:112
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: src/inc/custom-post-types.php:135, src/inc/custom-post-types.php:136, src/inc/custom-post-types.php:150, src/inc/custom-post-types.php:151
+msgid "Restaurant Menu"
+msgstr ""
+
+#: src/inc/custom-post-types.php:137
+msgid "Restaurant"
+msgstr ""
+
+#: src/inc/custom-post-types.php:138
+msgid "Parent Menu Item:"
+msgstr ""
+
+#: src/inc/custom-post-types.php:139
+msgid "All Menu Items"
+msgstr ""
+
+#: src/inc/custom-post-types.php:140
+msgid "View Menu Item"
+msgstr ""
+
+#: src/inc/custom-post-types.php:141
+msgid "Add New Menu Item"
+msgstr ""
+
+#: src/inc/custom-post-types.php:143
+msgid "Edit Menu Item"
+msgstr ""
+
+#: src/inc/custom-post-types.php:144
+msgid "Update Menu Item"
+msgstr ""
+
+#: src/inc/custom-post-types.php:145
+msgid "Search Menu Item"
+msgstr ""
+
+#: src/inc/custom-post-types.php:146
+msgid "No Menu Item found"
+msgstr ""
+
+#: src/inc/custom-post-types.php:147
+msgid "No Menu Item found in Trash"
+msgstr ""
+
+#: src/inc/custom-post-types.php:176, src/inc/custom-post-types.php:177, src/inc/custom-post-types.php:189
+msgid "Restaurant Menu Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:178
+msgid "Search Menu Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:179
+msgid "All Menu Categories"
+msgstr ""
+
+#: src/inc/custom-post-types.php:180
+msgid "Parent Menu Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:181
+msgid "Parent Menu Category:"
+msgstr ""
+
+#: src/inc/custom-post-types.php:182
+msgid "Edit Menu Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:183
+msgid "Update Menu Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:184
+msgid "Add New Menu Category"
+msgstr ""
+
+#: src/inc/custom-post-types.php:185
+msgid "New Menu Category Name"
+msgstr ""
+
+#: src/inc/custom-post-types.php:186, src/elementor/widgets/blog-carousel.php:127, src/elementor/widgets/categories.php:18, src/elementor/widgets/gallery.php:124, src/elementor/widgets/products-carousel.php:127, src/elementor/widgets/products-grid.php:124, src/elementor/widgets/products-grid.php:134, src/elementor/widgets/products-list.php:39, src/elementor/widgets/products-list.php:158, src/elementor/widgets/products-list.php:166, src/elementor/widgets/restaurant-menu-carousel.php:117, src/elementor/widgets/restaurant-menu-carousel.php:127, src/elementor/widgets/restaurant-menu-grid.php:124, src/elementor/widgets/restaurant-menu-grid.php:134, src/elementor/widgets/restaurant-menu-list.php:39, src/elementor/widgets/restaurant-menu-list.php:158, src/elementor/widgets/restaurant-menu-list.php:166
+msgid "Categories"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:29, src/elementor/widgets/intro-reservation.php:205
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:52, src/acf-ext/acf-fa/acf-font-awesome-font-v5.php:71, src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:83
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:79
+msgid "Allow Null?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:83, src/acf-ext/acf-cf7/acf-cf7-v5.php:94, src/elementor/widgets/about-us.php:122, src/elementor/widgets/about-us.php:134, src/elementor/widgets/blog-carousel.php:220, src/elementor/widgets/blog-carousel.php:231, src/elementor/widgets/blog-carousel.php:242, src/elementor/widgets/blog-carousel.php:253, src/elementor/widgets/blog-carousel.php:264, src/elementor/widgets/blog-carousel.php:275, src/elementor/widgets/blog-carousel.php:286, src/elementor/widgets/blog-carousel.php:306, src/elementor/widgets/blog-grid.php:227, src/elementor/widgets/blog-grid.php:238, src/elementor/widgets/blog-grid.php:249, src/elementor/widgets/blog-grid.php:260, src/elementor/widgets/blog-grid.php:271, src/elementor/widgets/blog-grid.php:282, src/elementor/widgets/blog-grid.php:293, src/elementor/widgets/cta2.php:128, src/elementor/widgets/cta2.php:180, src/elementor/widgets/cta2.php:191, src/elementor/widgets/features.php:96, src/elementor/widgets/features.php:108, src/elementor/widgets/features.php:120, src/elementor/widgets/footer-social-links.php:49, src/elementor/widgets/header-buttons.php:49, src/elementor/widgets/hero-banner.php:170, src/elementor/widgets/hero-banner.php:237, src/elementor/widgets/hero-banner.php:249, src/elementor/widgets/hero-banner.php:315, src/elementor/widgets/hero-banner.php:367, src/elementor/widgets/hero-banner.php:378, src/elementor/widgets/intro-reservation.php:96, src/elementor/widgets/intro-reservation.php:118, src/elementor/widgets/intro-reservation.php:144, src/elementor/widgets/intro-reservation.php:170, src/elementor/widgets/intro.php:156, src/elementor/widgets/products-carousel.php:220, src/elementor/widgets/products-carousel.php:231, src/elementor/widgets/products-carousel.php:242, src/elementor/widgets/products-carousel.php:253, src/elementor/widgets/products-carousel.php:264, src/elementor/widgets/products-carousel.php:275, src/elementor/widgets/products-carousel.php:286, src/elementor/widgets/products-carousel.php:297, src/elementor/widgets/products-grid.php:227, src/elementor/widgets/products-grid.php:238, src/elementor/widgets/products-grid.php:249, src/elementor/widgets/products-grid.php:260, src/elementor/widgets/products-grid.php:271, src/elementor/widgets/products-grid.php:282, src/elementor/widgets/products-grid.php:293, src/elementor/widgets/products-grid.php:304, src/elementor/widgets/products-list.php:242, src/elementor/widgets/products-list.php:253, src/elementor/widgets/products-list.php:264, src/elementor/widgets/products-list.php:275, src/elementor/widgets/products-list.php:286, src/elementor/widgets/products-list.php:297, src/elementor/widgets/products-list.php:308, src/elementor/widgets/products-list.php:319, src/elementor/widgets/promo-video.php:111, src/elementor/widgets/promo-video.php:155, src/elementor/widgets/promo.php:74, src/elementor/widgets/restaurant-menu-carousel.php:220, src/elementor/widgets/restaurant-menu-carousel.php:231, src/elementor/widgets/restaurant-menu-carousel.php:242, src/elementor/widgets/restaurant-menu-carousel.php:253, src/elementor/widgets/restaurant-menu-carousel.php:264, src/elementor/widgets/restaurant-menu-carousel.php:275, src/elementor/widgets/restaurant-menu-grid.php:227, src/elementor/widgets/restaurant-menu-grid.php:238, src/elementor/widgets/restaurant-menu-grid.php:249, src/elementor/widgets/restaurant-menu-grid.php:260, src/elementor/widgets/restaurant-menu-grid.php:271, src/elementor/widgets/restaurant-menu-grid.php:282, src/elementor/widgets/restaurant-menu-list.php:242, src/elementor/widgets/restaurant-menu-list.php:253, src/elementor/widgets/restaurant-menu-list.php:264, src/elementor/widgets/restaurant-menu-list.php:275, src/elementor/widgets/restaurant-menu-list.php:286, src/elementor/widgets/restaurant-menu-list.php:297
+msgid "Yes"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:84, src/acf-ext/acf-cf7/acf-cf7-v5.php:95, src/elementor/widgets/about-us.php:123, src/elementor/widgets/about-us.php:135, src/elementor/widgets/blog-carousel.php:221, src/elementor/widgets/blog-carousel.php:232, src/elementor/widgets/blog-carousel.php:243, src/elementor/widgets/blog-carousel.php:254, src/elementor/widgets/blog-carousel.php:265, src/elementor/widgets/blog-carousel.php:276, src/elementor/widgets/blog-carousel.php:287, src/elementor/widgets/blog-carousel.php:307, src/elementor/widgets/blog-grid.php:228, src/elementor/widgets/blog-grid.php:239, src/elementor/widgets/blog-grid.php:250, src/elementor/widgets/blog-grid.php:261, src/elementor/widgets/blog-grid.php:272, src/elementor/widgets/blog-grid.php:283, src/elementor/widgets/blog-grid.php:294, src/elementor/widgets/blog-grid.php:318, src/elementor/widgets/cta2.php:129, src/elementor/widgets/cta2.php:181, src/elementor/widgets/cta2.php:192, src/elementor/widgets/features.php:97, src/elementor/widgets/features.php:109, src/elementor/widgets/features.php:121, src/elementor/widgets/footer-social-links.php:50, src/elementor/widgets/gallery.php:201, src/elementor/widgets/header-buttons.php:50, src/elementor/widgets/hero-banner.php:171, src/elementor/widgets/hero-banner.php:238, src/elementor/widgets/hero-banner.php:250, src/elementor/widgets/hero-banner.php:316, src/elementor/widgets/hero-banner.php:368, src/elementor/widgets/hero-banner.php:379, src/elementor/widgets/intro-reservation.php:97, src/elementor/widgets/intro-reservation.php:119, src/elementor/widgets/intro-reservation.php:145, src/elementor/widgets/intro-reservation.php:171, src/elementor/widgets/intro.php:157, src/elementor/widgets/products-carousel.php:221, src/elementor/widgets/products-carousel.php:232, src/elementor/widgets/products-carousel.php:243, src/elementor/widgets/products-carousel.php:254, src/elementor/widgets/products-carousel.php:265, src/elementor/widgets/products-carousel.php:276, src/elementor/widgets/products-carousel.php:287, src/elementor/widgets/products-carousel.php:298, src/elementor/widgets/products-grid.php:228, src/elementor/widgets/products-grid.php:239, src/elementor/widgets/products-grid.php:250, src/elementor/widgets/products-grid.php:261, src/elementor/widgets/products-grid.php:272, src/elementor/widgets/products-grid.php:283, src/elementor/widgets/products-grid.php:294, src/elementor/widgets/products-grid.php:305, src/elementor/widgets/products-grid.php:328, src/elementor/widgets/products-list.php:243, src/elementor/widgets/products-list.php:254, src/elementor/widgets/products-list.php:265, src/elementor/widgets/products-list.php:276, src/elementor/widgets/products-list.php:287, src/elementor/widgets/products-list.php:298, src/elementor/widgets/products-list.php:309, src/elementor/widgets/products-list.php:320, src/elementor/widgets/products-list.php:341, src/elementor/widgets/promo-video.php:112, src/elementor/widgets/promo-video.php:156, src/elementor/widgets/promo.php:75, src/elementor/widgets/restaurant-menu-carousel.php:221, src/elementor/widgets/restaurant-menu-carousel.php:232, src/elementor/widgets/restaurant-menu-carousel.php:243, src/elementor/widgets/restaurant-menu-carousel.php:254, src/elementor/widgets/restaurant-menu-carousel.php:265, src/elementor/widgets/restaurant-menu-carousel.php:276, src/elementor/widgets/restaurant-menu-grid.php:228, src/elementor/widgets/restaurant-menu-grid.php:239, src/elementor/widgets/restaurant-menu-grid.php:250, src/elementor/widgets/restaurant-menu-grid.php:261, src/elementor/widgets/restaurant-menu-grid.php:272, src/elementor/widgets/restaurant-menu-grid.php:283, src/elementor/widgets/restaurant-menu-grid.php:306, src/elementor/widgets/restaurant-menu-list.php:243, src/elementor/widgets/restaurant-menu-list.php:254, src/elementor/widgets/restaurant-menu-list.php:265, src/elementor/widgets/restaurant-menu-list.php:276, src/elementor/widgets/restaurant-menu-list.php:287, src/elementor/widgets/restaurant-menu-list.php:298, src/elementor/widgets/restaurant-menu-list.php:319
+msgid "No"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:90
+msgid "Select Multiple?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:110
+msgid "Disable Forms?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:111
+msgid "User will not be able to select these forms"
+msgstr ""
+
+#: src/acf-ext/acf-fa/acf-font-awesome-font-v5.php:50
+msgid "Font Awesome Font"
+msgstr ""
+
+#: src/acf-ext/acf-fa/acf-font-awesome-font-v5.php:114
+msgid "- None -"
+msgstr ""
+
+#: src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:62
+msgid "Google Font"
+msgstr ""
+
+#: src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:126
+msgid "- Default -"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:18
+msgid "About Us"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:39, src/elementor/widgets/cta.php:39, src/elementor/widgets/cta2.php:39, src/elementor/widgets/faq.php:40, src/elementor/widgets/features.php:39, src/elementor/widgets/footer-social-links.php:39, src/elementor/widgets/header-buttons.php:39, src/elementor/widgets/header-menu.php:40, src/elementor/widgets/hero-banner.php:39, src/elementor/widgets/hero-banner.php:401, src/elementor/widgets/promo-video.php:39, src/elementor/widgets/section-heading.php:93, src/elementor/widgets/section-heading.php:96
+msgid "Content"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:47, src/elementor/widgets/about-us.php:50, src/elementor/widgets/blog-carousel.php:39, src/elementor/widgets/blog-carousel.php:47, src/elementor/widgets/blog-carousel.php:50, src/elementor/widgets/blog-carousel.php:184, src/elementor/widgets/blog-carousel.php:227, src/elementor/widgets/blog-carousel.php:381, src/elementor/widgets/blog-grid.php:39, src/elementor/widgets/blog-grid.php:47, src/elementor/widgets/blog-grid.php:50, src/elementor/widgets/blog-grid.php:191, src/elementor/widgets/blog-grid.php:234, src/elementor/widgets/blog-grid.php:425, src/elementor/widgets/categories.php:39, src/elementor/widgets/categories.php:47, src/elementor/widgets/categories.php:50, src/elementor/widgets/categories.php:123, src/elementor/widgets/categories.php:200, src/elementor/widgets/cta.php:47, src/elementor/widgets/cta.php:50, src/elementor/widgets/cta2.php:47, src/elementor/widgets/cta2.php:50, src/elementor/widgets/faq.php:49, src/elementor/widgets/features.php:47, src/elementor/widgets/features.php:50, src/elementor/widgets/gallery.php:161, src/elementor/widgets/hero-banner.php:57, src/elementor/widgets/hero-banner.php:60, src/elementor/widgets/hero-banner.php:199, src/elementor/widgets/hero-banner.php:212, src/elementor/widgets/hero-banner.php:225, src/elementor/widgets/intro-reservation.php:40, src/elementor/widgets/intro-reservation.php:58, src/elementor/widgets/intro-reservation.php:61, src/elementor/widgets/intro-reservation.php:193, src/elementor/widgets/intro.php:39, src/elementor/widgets/intro.php:109, src/elementor/widgets/intro.php:112, src/elementor/widgets/intro.php:190, src/elementor/widgets/products-carousel.php:39, src/elementor/widgets/products-carousel.php:47, src/elementor/widgets/products-carousel.php:50, src/elementor/widgets/products-carousel.php:184, src/elementor/widgets/products-carousel.php:238, src/elementor/widgets/products-carousel.php:355, src/elementor/widgets/products-grid.php:191, src/elementor/widgets/products-grid.php:245, src/elementor/widgets/products-list.php:206, src/elementor/widgets/products-list.php:260, src/elementor/widgets/promo-video.php:57, src/elementor/widgets/promo-video.php:60, src/elementor/widgets/promo.php:82, src/elementor/widgets/restaurant-menu-carousel.php:39, src/elementor/widgets/restaurant-menu-carousel.php:47, src/elementor/widgets/restaurant-menu-carousel.php:50, src/elementor/widgets/restaurant-menu-carousel.php:184, src/elementor/widgets/restaurant-menu-carousel.php:238, src/elementor/widgets/restaurant-menu-carousel.php:333, src/elementor/widgets/restaurant-menu-grid.php:191, src/elementor/widgets/restaurant-menu-grid.php:245, src/elementor/widgets/restaurant-menu-list.php:206, src/elementor/widgets/restaurant-menu-list.php:260, src/elementor/widgets/section-heading.php:63, src/elementor/widgets/section-heading.php:66, src/elementor/widgets/team.php:40, src/elementor/widgets/team.php:48, src/elementor/widgets/team.php:51, src/elementor/widgets/team.php:178, src/elementor/widgets/team.php:181, src/elementor/widgets/team.php:226, src/elementor/widgets/team.php:229, src/elementor/widgets/team.php:274, src/elementor/widgets/team.php:277, src/elementor/widgets/team.php:322, src/elementor/widgets/team.php:325, src/elementor/widgets/team.php:370, src/elementor/widgets/team.php:373, src/elementor/widgets/team.php:418, src/elementor/widgets/team.php:421, src/elementor/widgets/team.php:479, src/elementor/widgets/testimonials-grid.php:39, src/elementor/widgets/testimonials-grid.php:47, src/elementor/widgets/testimonials-grid.php:50, src/elementor/widgets/testimonials-grid.php:123, src/elementor/widgets/testimonials-grid.php:126, src/elementor/widgets/testimonials-grid.php:176, src/elementor/widgets/testimonials.php:39, src/elementor/widgets/testimonials.php:47, src/elementor/widgets/testimonials.php:50, src/elementor/widgets/testimonials.php:123, src/elementor/widgets/testimonials.php:126, src/elementor/widgets/testimonials.php:176
+msgid "Title"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:49, src/elementor/widgets/blog-carousel.php:49, src/elementor/widgets/blog-grid.php:49, src/elementor/widgets/categories.php:49, src/elementor/widgets/categories.php:125, src/elementor/widgets/categories.php:126, src/elementor/widgets/cta.php:49, src/elementor/widgets/cta2.php:49, src/elementor/widgets/faq.php:51, src/elementor/widgets/faq.php:52, src/elementor/widgets/features.php:49, src/elementor/widgets/hero-banner.php:59, src/elementor/widgets/hero-banner.php:198, src/elementor/widgets/hero-banner.php:211, src/elementor/widgets/hero-banner.php:224, src/elementor/widgets/intro-reservation.php:60, src/elementor/widgets/intro-reservation.php:192, src/elementor/widgets/intro.php:111, src/elementor/widgets/products-carousel.php:49, src/elementor/widgets/promo-video.php:59, src/elementor/widgets/promo.php:84, src/elementor/widgets/promo.php:85, src/elementor/widgets/restaurant-menu-carousel.php:49, src/elementor/widgets/section-heading.php:65, src/elementor/widgets/team.php:50, src/elementor/widgets/team.php:180, src/elementor/widgets/team.php:228, src/elementor/widgets/team.php:276, src/elementor/widgets/team.php:324, src/elementor/widgets/team.php:372, src/elementor/widgets/team.php:420, src/elementor/widgets/testimonials-grid.php:49, src/elementor/widgets/testimonials-grid.php:125, src/elementor/widgets/testimonials.php:49, src/elementor/widgets/testimonials.php:125
+msgid "Enter title"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:57, src/elementor/widgets/blog-carousel.php:73, src/elementor/widgets/blog-carousel.php:76, src/elementor/widgets/blog-grid.php:73, src/elementor/widgets/blog-grid.php:76, src/elementor/widgets/categories.php:73, src/elementor/widgets/categories.php:76, src/elementor/widgets/categories.php:132, src/elementor/widgets/categories.php:135, src/elementor/widgets/cta.php:86, src/elementor/widgets/cta2.php:86, src/elementor/widgets/faq.php:58, src/elementor/widgets/faq.php:81, src/elementor/widgets/hero-banner.php:82, src/elementor/widgets/hero-banner.php:85, src/elementor/widgets/intro-reservation.php:84, src/elementor/widgets/intro-reservation.php:87, src/elementor/widgets/intro.php:134, src/elementor/widgets/intro.php:137, src/elementor/widgets/products-carousel.php:73, src/elementor/widgets/products-carousel.php:76, src/elementor/widgets/promo-video.php:67, src/elementor/widgets/promo.php:91, src/elementor/widgets/promo.php:94, src/elementor/widgets/restaurant-menu-carousel.php:73, src/elementor/widgets/restaurant-menu-carousel.php:76, src/elementor/widgets/section-heading.php:83, src/elementor/widgets/section-heading.php:86, src/elementor/widgets/team.php:74, src/elementor/widgets/team.php:77, src/elementor/widgets/testimonials-grid.php:73, src/elementor/widgets/testimonials-grid.php:76, src/elementor/widgets/testimonials-grid.php:132, src/elementor/widgets/testimonials-grid.php:135, src/elementor/widgets/testimonials.php:73, src/elementor/widgets/testimonials.php:76, src/elementor/widgets/testimonials.php:132, src/elementor/widgets/testimonials.php:135
+msgid "Description"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:59, src/elementor/widgets/cta.php:88, src/elementor/widgets/cta2.php:88, src/elementor/widgets/promo-video.php:69, src/elementor/widgets/section-heading.php:85
+msgid "Enter your description"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:60, src/elementor/widgets/cta.php:89, src/elementor/widgets/cta2.php:89, src/elementor/widgets/promo-video.php:70
+msgid "Type your description here"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:67
+msgid "Signature"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:80, src/elementor/widgets/about-us.php:88, src/elementor/widgets/categories.php:113, src/elementor/widgets/cta.php:148, src/elementor/widgets/cta.php:156, src/elementor/widgets/cta2.php:214, src/elementor/widgets/cta2.php:222, src/elementor/widgets/features.php:75, src/elementor/widgets/features.php:83, src/elementor/widgets/hero-banner.php:94, src/elementor/widgets/hero-banner.php:115, src/elementor/widgets/intro-reservation.php:108, src/elementor/widgets/intro-reservation.php:128, src/elementor/widgets/promo-video.php:87, src/elementor/widgets/promo.php:48, src/elementor/widgets/team.php:114, src/elementor/widgets/testimonials-grid.php:113, src/elementor/widgets/testimonials.php:113
+msgid "Image"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:99
+msgid "Years (Num)"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:102, src/elementor/widgets/features.php:133
+msgid "Enter num"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:103
+msgid "Num"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:110
+msgid "Years (Label)"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:112
+msgid "Enter label"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:113, src/elementor/widgets/cta2.php:107, src/elementor/widgets/cta2.php:110, src/elementor/widgets/cta2.php:111, src/elementor/widgets/hero-banner.php:294, src/elementor/widgets/hero-banner.php:297, src/elementor/widgets/hero-banner.php:298
+msgid "Label"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:120, src/elementor/widgets/features.php:94
+msgid "Image Square"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:132, src/elementor/widgets/features.php:106, src/elementor/widgets/hero-banner.php:247, src/elementor/widgets/intro-reservation.php:168, src/elementor/widgets/promo-video.php:109, src/elementor/widgets/promo.php:70
+msgid "Image Circles"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:146, src/elementor/widgets/blog-carousel.php:332, src/elementor/widgets/blog-grid.php:353, src/elementor/widgets/hero-banner.php:261, src/elementor/widgets/products-carousel.php:307, src/elementor/widgets/products-grid.php:363, src/elementor/widgets/products-list.php:364, src/elementor/widgets/restaurant-menu-carousel.php:285, src/elementor/widgets/restaurant-menu-grid.php:341, src/elementor/widgets/restaurant-menu-list.php:342
+msgid "Background"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:154, src/elementor/widgets/blog-carousel.php:340, src/elementor/widgets/blog-grid.php:361, src/elementor/widgets/hero-banner.php:269, src/elementor/widgets/products-carousel.php:315, src/elementor/widgets/products-grid.php:371, src/elementor/widgets/products-list.php:372, src/elementor/widgets/restaurant-menu-carousel.php:293, src/elementor/widgets/restaurant-menu-grid.php:349, src/elementor/widgets/restaurant-menu-list.php:350
+msgid "Background Figures"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:158, src/elementor/widgets/blog-carousel.php:344, src/elementor/widgets/blog-grid.php:365, src/elementor/widgets/hero-banner.php:273, src/elementor/widgets/products-carousel.php:319, src/elementor/widgets/products-grid.php:375, src/elementor/widgets/products-list.php:377, src/elementor/widgets/restaurant-menu-carousel.php:297, src/elementor/widgets/restaurant-menu-grid.php:353, src/elementor/widgets/restaurant-menu-list.php:355
+msgid "Circle"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:159, src/elementor/widgets/blog-carousel.php:345, src/elementor/widgets/blog-grid.php:366, src/elementor/widgets/hero-banner.php:274, src/elementor/widgets/products-carousel.php:320, src/elementor/widgets/products-grid.php:376, src/elementor/widgets/products-list.php:378, src/elementor/widgets/restaurant-menu-carousel.php:298, src/elementor/widgets/restaurant-menu-grid.php:354, src/elementor/widgets/restaurant-menu-list.php:356
+msgid "Rect"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:160, src/elementor/widgets/blog-carousel.php:347, src/elementor/widgets/blog-grid.php:367, src/elementor/widgets/hero-banner.php:275, src/elementor/widgets/products-carousel.php:322, src/elementor/widgets/products-grid.php:377, src/elementor/widgets/products-list.php:379, src/elementor/widgets/restaurant-menu-carousel.php:300, src/elementor/widgets/restaurant-menu-grid.php:355, src/elementor/widgets/restaurant-menu-list.php:357
+msgid "None"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:170, src/elementor/widgets/cta.php:253, src/elementor/widgets/cta2.php:332, src/elementor/widgets/features.php:209, src/elementor/widgets/promo-video.php:167
+msgid "Content Styles"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:178, src/elementor/widgets/blog-carousel.php:389, src/elementor/widgets/blog-carousel.php:474, src/elementor/widgets/blog-grid.php:433, src/elementor/widgets/blog-grid.php:485, src/elementor/widgets/categories.php:208, src/elementor/widgets/categories.php:293, src/elementor/widgets/cta.php:261, src/elementor/widgets/cta2.php:340, src/elementor/widgets/faq.php:89, src/elementor/widgets/features.php:217, src/elementor/widgets/features.php:260, src/elementor/widgets/features2.php:110, src/elementor/widgets/hero-banner.php:430, src/elementor/widgets/intro-reservation.php:307, src/elementor/widgets/intro.php:231, src/elementor/widgets/products-carousel.php:363, src/elementor/widgets/products-carousel.php:460, src/elementor/widgets/products-grid.php:431, src/elementor/widgets/products-list.php:421, src/elementor/widgets/products-list.php:485, src/elementor/widgets/promo-video.php:175, src/elementor/widgets/promo.php:151, src/elementor/widgets/restaurant-menu-carousel.php:341, src/elementor/widgets/restaurant-menu-carousel.php:438, src/elementor/widgets/restaurant-menu-grid.php:409, src/elementor/widgets/restaurant-menu-list.php:399, src/elementor/widgets/restaurant-menu-list.php:463, src/elementor/widgets/section-heading.php:113, src/elementor/widgets/team.php:487, src/elementor/widgets/testimonials-grid.php:184, src/elementor/widgets/testimonials-grid.php:269, src/elementor/widgets/testimonials.php:184, src/elementor/widgets/testimonials.php:269
+msgid "Title Color"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:191, src/elementor/widgets/blog-carousel.php:402, src/elementor/widgets/blog-carousel.php:487, src/elementor/widgets/blog-grid.php:446, src/elementor/widgets/blog-grid.php:498, src/elementor/widgets/categories.php:221, src/elementor/widgets/categories.php:306, src/elementor/widgets/cta.php:274, src/elementor/widgets/cta2.php:353, src/elementor/widgets/features.php:230, src/elementor/widgets/features.php:273, src/elementor/widgets/features2.php:123, src/elementor/widgets/hero-banner.php:443, src/elementor/widgets/intro-reservation.php:320, src/elementor/widgets/intro.php:244, src/elementor/widgets/products-carousel.php:376, src/elementor/widgets/products-carousel.php:473, src/elementor/widgets/products-grid.php:444, src/elementor/widgets/products-list.php:434, src/elementor/widgets/products-list.php:498, src/elementor/widgets/promo-video.php:188, src/elementor/widgets/promo.php:164, src/elementor/widgets/restaurant-menu-carousel.php:354, src/elementor/widgets/restaurant-menu-carousel.php:451, src/elementor/widgets/restaurant-menu-grid.php:422, src/elementor/widgets/restaurant-menu-list.php:412, src/elementor/widgets/restaurant-menu-list.php:476, src/elementor/widgets/team.php:500, src/elementor/widgets/testimonials-grid.php:197, src/elementor/widgets/testimonials-grid.php:282, src/elementor/widgets/testimonials.php:197, src/elementor/widgets/testimonials.php:282
+msgid "Title Typography"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:199, src/elementor/widgets/blog-carousel.php:410, src/elementor/widgets/blog-carousel.php:495, src/elementor/widgets/blog-grid.php:454, src/elementor/widgets/blog-grid.php:506, src/elementor/widgets/categories.php:229, src/elementor/widgets/categories.php:314, src/elementor/widgets/cta.php:282, src/elementor/widgets/cta2.php:361, src/elementor/widgets/faq.php:110, src/elementor/widgets/features.php:281, src/elementor/widgets/features2.php:131, src/elementor/widgets/hero-banner.php:451, src/elementor/widgets/intro-reservation.php:328, src/elementor/widgets/intro.php:252, src/elementor/widgets/products-carousel.php:384, src/elementor/widgets/products-carousel.php:481, src/elementor/widgets/products-grid.php:452, src/elementor/widgets/products-list.php:442, src/elementor/widgets/products-list.php:506, src/elementor/widgets/promo-video.php:196, src/elementor/widgets/promo.php:172, src/elementor/widgets/restaurant-menu-carousel.php:362, src/elementor/widgets/restaurant-menu-carousel.php:459, src/elementor/widgets/restaurant-menu-grid.php:430, src/elementor/widgets/restaurant-menu-list.php:420, src/elementor/widgets/restaurant-menu-list.php:484, src/elementor/widgets/section-heading.php:155, src/elementor/widgets/team.php:508, src/elementor/widgets/testimonials-grid.php:205, src/elementor/widgets/testimonials-grid.php:290, src/elementor/widgets/testimonials.php:205, src/elementor/widgets/testimonials.php:290
+msgid "Description Color"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:211, src/elementor/widgets/blog-carousel.php:423, src/elementor/widgets/blog-carousel.php:508, src/elementor/widgets/blog-grid.php:467, src/elementor/widgets/blog-grid.php:519, src/elementor/widgets/categories.php:242, src/elementor/widgets/categories.php:327, src/elementor/widgets/cta.php:294, src/elementor/widgets/cta2.php:373, src/elementor/widgets/features.php:294, src/elementor/widgets/features2.php:144, src/elementor/widgets/hero-banner.php:464, src/elementor/widgets/intro-reservation.php:341, src/elementor/widgets/intro.php:265, src/elementor/widgets/products-carousel.php:397, src/elementor/widgets/products-carousel.php:494, src/elementor/widgets/products-grid.php:465, src/elementor/widgets/products-list.php:455, src/elementor/widgets/products-list.php:519, src/elementor/widgets/promo-video.php:208, src/elementor/widgets/promo.php:185, src/elementor/widgets/restaurant-menu-carousel.php:375, src/elementor/widgets/restaurant-menu-carousel.php:472, src/elementor/widgets/restaurant-menu-grid.php:443, src/elementor/widgets/restaurant-menu-list.php:433, src/elementor/widgets/restaurant-menu-list.php:497, src/elementor/widgets/team.php:521, src/elementor/widgets/testimonials-grid.php:218, src/elementor/widgets/testimonials-grid.php:303, src/elementor/widgets/testimonials.php:218, src/elementor/widgets/testimonials.php:303
+msgid "Description Typography"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:220
+msgid "Years Num Color"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:232
+msgid "Years Num Typography"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:241
+msgid "Years Label Color"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:253
+msgid "Years Label Typography"
+msgstr ""
+
+#: src/elementor/widgets/about-us.php:297, src/elementor/widgets/about-us.php:348
+msgid "image"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:18
+msgid "Blog Carousel"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:57, src/elementor/widgets/blog-grid.php:57, src/elementor/widgets/categories.php:57, src/elementor/widgets/cta.php:57, src/elementor/widgets/cta2.php:57, src/elementor/widgets/features.php:57, src/elementor/widgets/hero-banner.php:67, src/elementor/widgets/intro-reservation.php:68, src/elementor/widgets/intro.php:119, src/elementor/widgets/products-carousel.php:57, src/elementor/widgets/restaurant-menu-carousel.php:57, src/elementor/widgets/section-heading.php:47, src/elementor/widgets/team.php:58, src/elementor/widgets/testimonials-grid.php:57, src/elementor/widgets/testimonials.php:57
+msgid "Title Tag"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:61, src/elementor/widgets/blog-grid.php:61, src/elementor/widgets/categories.php:61, src/elementor/widgets/cta.php:61, src/elementor/widgets/cta.php:76, src/elementor/widgets/cta2.php:61, src/elementor/widgets/cta2.php:76, src/elementor/widgets/features.php:61, src/elementor/widgets/hero-banner.php:71, src/elementor/widgets/intro-reservation.php:72, src/elementor/widgets/intro.php:123, src/elementor/widgets/products-carousel.php:61, src/elementor/widgets/restaurant-menu-carousel.php:61, src/elementor/widgets/section-heading.php:51, src/elementor/widgets/team.php:62, src/elementor/widgets/testimonials-grid.php:61, src/elementor/widgets/testimonials.php:61
+msgid "H1"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:62, src/elementor/widgets/blog-grid.php:62, src/elementor/widgets/categories.php:62, src/elementor/widgets/cta.php:62, src/elementor/widgets/cta.php:77, src/elementor/widgets/cta2.php:62, src/elementor/widgets/cta2.php:77, src/elementor/widgets/features.php:62, src/elementor/widgets/hero-banner.php:72, src/elementor/widgets/intro-reservation.php:73, src/elementor/widgets/intro.php:124, src/elementor/widgets/products-carousel.php:62, src/elementor/widgets/restaurant-menu-carousel.php:62, src/elementor/widgets/section-heading.php:52, src/elementor/widgets/team.php:63, src/elementor/widgets/testimonials-grid.php:62, src/elementor/widgets/testimonials.php:62
+msgid "H2"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:63, src/elementor/widgets/blog-grid.php:63, src/elementor/widgets/categories.php:63, src/elementor/widgets/cta.php:63, src/elementor/widgets/cta.php:78, src/elementor/widgets/cta2.php:63, src/elementor/widgets/cta2.php:78, src/elementor/widgets/features.php:63, src/elementor/widgets/hero-banner.php:73, src/elementor/widgets/intro-reservation.php:74, src/elementor/widgets/intro.php:125, src/elementor/widgets/products-carousel.php:63, src/elementor/widgets/restaurant-menu-carousel.php:63, src/elementor/widgets/section-heading.php:53, src/elementor/widgets/team.php:64, src/elementor/widgets/testimonials-grid.php:63, src/elementor/widgets/testimonials.php:63
+msgid "H3"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:64, src/elementor/widgets/blog-grid.php:64, src/elementor/widgets/categories.php:64, src/elementor/widgets/features.php:64, src/elementor/widgets/intro-reservation.php:75, src/elementor/widgets/products-carousel.php:64, src/elementor/widgets/restaurant-menu-carousel.php:64, src/elementor/widgets/section-heading.php:54, src/elementor/widgets/team.php:65, src/elementor/widgets/testimonials-grid.php:64, src/elementor/widgets/testimonials.php:64
+msgid "H4"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:65, src/elementor/widgets/blog-grid.php:65, src/elementor/widgets/categories.php:65, src/elementor/widgets/cta.php:64, src/elementor/widgets/cta2.php:64, src/elementor/widgets/features.php:65, src/elementor/widgets/hero-banner.php:74, src/elementor/widgets/intro-reservation.php:76, src/elementor/widgets/intro.php:126, src/elementor/widgets/products-carousel.php:65, src/elementor/widgets/restaurant-menu-carousel.php:65, src/elementor/widgets/section-heading.php:55, src/elementor/widgets/team.php:66, src/elementor/widgets/testimonials-grid.php:65, src/elementor/widgets/testimonials.php:65
+msgid "DIV"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:75, src/elementor/widgets/blog-grid.php:75, src/elementor/widgets/categories.php:75, src/elementor/widgets/categories.php:134, src/elementor/widgets/hero-banner.php:84, src/elementor/widgets/intro-reservation.php:86, src/elementor/widgets/intro.php:136, src/elementor/widgets/products-carousel.php:75, src/elementor/widgets/promo.php:93, src/elementor/widgets/restaurant-menu-carousel.php:75, src/elementor/widgets/team.php:76, src/elementor/widgets/testimonials-grid.php:75, src/elementor/widgets/testimonials-grid.php:134, src/elementor/widgets/testimonials.php:75, src/elementor/widgets/testimonials.php:134
+msgid "Enter description"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:83, src/elementor/widgets/categories.php:83, src/elementor/widgets/products-carousel.php:83, src/elementor/widgets/promo.php:100, src/elementor/widgets/restaurant-menu-carousel.php:83, src/elementor/widgets/team.php:84, src/elementor/widgets/testimonials-grid.php:83, src/elementor/widgets/testimonials.php:83
+msgid "Button (label)"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:86, src/elementor/widgets/blog-grid.php:316, src/elementor/widgets/blog-grid.php:326, src/elementor/widgets/categories.php:86, src/elementor/widgets/cta2.php:384, src/elementor/widgets/gallery.php:199, src/elementor/widgets/hero-banner.php:507, src/elementor/widgets/products-carousel.php:86, src/elementor/widgets/products-grid.php:327, src/elementor/widgets/promo-video.php:123, src/elementor/widgets/promo-video.php:131, src/elementor/widgets/promo-video.php:135, src/elementor/widgets/promo.php:103, src/elementor/widgets/restaurant-menu-carousel.php:86, src/elementor/widgets/restaurant-menu-grid.php:305, src/elementor/widgets/team.php:87, src/elementor/widgets/testimonials-grid.php:86, src/elementor/widgets/testimonials.php:86
+msgid "Button"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:93, src/elementor/widgets/categories.php:93, src/elementor/widgets/gallery.php:222, src/elementor/widgets/products-carousel.php:93, src/elementor/widgets/products-grid.php:349, src/elementor/widgets/promo.php:109, src/elementor/widgets/restaurant-menu-carousel.php:93, src/elementor/widgets/restaurant-menu-grid.php:327, src/elementor/widgets/team.php:94, src/elementor/widgets/testimonials-grid.php:93, src/elementor/widgets/testimonials.php:93
+msgid "Button (link)"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:104, src/elementor/widgets/blog-carousel.php:466, src/elementor/widgets/blog-grid.php:111, src/elementor/widgets/blog-grid.php:477, src/elementor/widgets/categories.php:104, src/elementor/widgets/categories.php:151, src/elementor/widgets/categories.php:285, src/elementor/widgets/faq.php:68, src/elementor/widgets/features.php:158, src/elementor/widgets/features.php:196, src/elementor/widgets/features2.php:39, src/elementor/widgets/features2.php:77, src/elementor/widgets/gallery.php:111, src/elementor/widgets/gallery.php:301, src/elementor/widgets/products-carousel.php:104, src/elementor/widgets/products-carousel.php:440, src/elementor/widgets/products-grid.php:111, src/elementor/widgets/products-grid.php:411, src/elementor/widgets/products-list.php:137, src/elementor/widgets/products-list.php:465, src/elementor/widgets/promo.php:39, src/elementor/widgets/promo.php:118, src/elementor/widgets/promo.php:131, src/elementor/widgets/restaurant-menu-carousel.php:104, src/elementor/widgets/restaurant-menu-carousel.php:418, src/elementor/widgets/restaurant-menu-grid.php:111, src/elementor/widgets/restaurant-menu-grid.php:389, src/elementor/widgets/restaurant-menu-list.php:137, src/elementor/widgets/restaurant-menu-list.php:443, src/elementor/widgets/team.php:105, src/elementor/widgets/team.php:443, src/elementor/widgets/team.php:564, src/elementor/widgets/testimonials-grid.php:104, src/elementor/widgets/testimonials-grid.php:261, src/elementor/widgets/testimonials.php:104, src/elementor/widgets/testimonials.php:261
+msgid "Items"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:112, src/elementor/widgets/blog-grid.php:119, src/elementor/widgets/blog-grid.php:134, src/elementor/widgets/gallery.php:119, src/elementor/widgets/gallery.php:132, src/elementor/widgets/products-carousel.php:112, src/elementor/widgets/products-grid.php:119, src/elementor/widgets/products-list.php:154, src/elementor/widgets/restaurant-menu-carousel.php:112, src/elementor/widgets/restaurant-menu-grid.php:119, src/elementor/widgets/restaurant-menu-list.php:154
+msgid "Source"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:116, src/elementor/widgets/blog-grid.php:123, src/elementor/widgets/gallery.php:123, src/elementor/widgets/gallery.php:418, src/elementor/widgets/products-carousel.php:116, src/elementor/widgets/products-grid.php:123, src/elementor/widgets/restaurant-menu-carousel.php:116, src/elementor/widgets/restaurant-menu-grid.php:123
+msgid "All"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:117, src/elementor/widgets/blog-grid.php:124, src/elementor/widgets/products-carousel.php:117
+msgid "Taxonomy (Categories)"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:118, src/elementor/widgets/blog-grid.php:125, src/elementor/widgets/products-carousel.php:118
+msgid "Taxonomy (Tags)"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:119, src/elementor/widgets/blog-grid.php:126, src/elementor/widgets/products-carousel.php:119, src/elementor/widgets/products-grid.php:126, src/elementor/widgets/restaurant-menu-carousel.php:119, src/elementor/widgets/restaurant-menu-grid.php:126
+msgid "Custom"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:141, src/elementor/widgets/blog-grid.php:148, src/elementor/widgets/products-carousel.php:141, src/elementor/widgets/products-grid.php:125, src/elementor/widgets/products-grid.php:148, src/elementor/widgets/restaurant-menu-carousel.php:118, src/elementor/widgets/restaurant-menu-carousel.php:141, src/elementor/widgets/restaurant-menu-grid.php:125, src/elementor/widgets/restaurant-menu-grid.php:148
+msgid "Tags"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:155, src/elementor/widgets/blog-grid.php:162
+msgid "Custom Posts"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:169, src/elementor/widgets/blog-grid.php:176, src/elementor/widgets/gallery.php:146, src/elementor/widgets/products-carousel.php:169, src/elementor/widgets/products-grid.php:176, src/elementor/widgets/products-list.php:191, src/elementor/widgets/restaurant-menu-carousel.php:169, src/elementor/widgets/restaurant-menu-grid.php:176, src/elementor/widgets/restaurant-menu-list.php:191
+msgid "Number of Items"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:179, src/elementor/widgets/blog-grid.php:186, src/elementor/widgets/gallery.php:156, src/elementor/widgets/products-carousel.php:179, src/elementor/widgets/products-grid.php:186, src/elementor/widgets/products-list.php:201, src/elementor/widgets/restaurant-menu-carousel.php:179, src/elementor/widgets/restaurant-menu-grid.php:186, src/elementor/widgets/restaurant-menu-list.php:201
+msgid "Sorting By"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:183, src/elementor/widgets/blog-carousel.php:260, src/elementor/widgets/blog-grid.php:190, src/elementor/widgets/blog-grid.php:267, src/elementor/widgets/gallery.php:160, src/elementor/widgets/intro-reservation.php:610, src/elementor/widgets/products-carousel.php:183, src/elementor/widgets/products-grid.php:190, src/elementor/widgets/products-list.php:205, src/elementor/widgets/restaurant-menu-carousel.php:183, src/elementor/widgets/restaurant-menu-grid.php:190, src/elementor/widgets/restaurant-menu-list.php:205
+msgid "Date"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:185, src/elementor/widgets/blog-grid.php:192, src/elementor/widgets/gallery.php:162, src/elementor/widgets/products-carousel.php:185, src/elementor/widgets/products-grid.php:192, src/elementor/widgets/products-list.php:207, src/elementor/widgets/restaurant-menu-carousel.php:185, src/elementor/widgets/restaurant-menu-grid.php:192, src/elementor/widgets/restaurant-menu-list.php:207
+msgid "Random"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:186, src/elementor/widgets/blog-carousel.php:194, src/elementor/widgets/blog-grid.php:193, src/elementor/widgets/blog-grid.php:201, src/elementor/widgets/gallery.php:163, src/elementor/widgets/gallery.php:171, src/elementor/widgets/products-carousel.php:186, src/elementor/widgets/products-carousel.php:194, src/elementor/widgets/products-grid.php:193, src/elementor/widgets/products-grid.php:201, src/elementor/widgets/products-list.php:208, src/elementor/widgets/products-list.php:216, src/elementor/widgets/restaurant-menu-carousel.php:186, src/elementor/widgets/restaurant-menu-carousel.php:194, src/elementor/widgets/restaurant-menu-grid.php:193, src/elementor/widgets/restaurant-menu-grid.php:201, src/elementor/widgets/restaurant-menu-list.php:208, src/elementor/widgets/restaurant-menu-list.php:216
+msgid "Order"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:198, src/elementor/widgets/blog-grid.php:205, src/elementor/widgets/gallery.php:88, src/elementor/widgets/gallery.php:175, src/elementor/widgets/products-carousel.php:198, src/elementor/widgets/products-grid.php:88, src/elementor/widgets/products-grid.php:205, src/elementor/widgets/products-list.php:76, src/elementor/widgets/products-list.php:220, src/elementor/widgets/restaurant-menu-carousel.php:198, src/elementor/widgets/restaurant-menu-grid.php:88, src/elementor/widgets/restaurant-menu-grid.php:205, src/elementor/widgets/restaurant-menu-list.php:76, src/elementor/widgets/restaurant-menu-list.php:220
+msgid "ASC"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:199, src/elementor/widgets/blog-grid.php:206, src/elementor/widgets/gallery.php:89, src/elementor/widgets/gallery.php:176, src/elementor/widgets/products-carousel.php:199, src/elementor/widgets/products-grid.php:89, src/elementor/widgets/products-grid.php:206, src/elementor/widgets/products-list.php:77, src/elementor/widgets/products-list.php:221, src/elementor/widgets/restaurant-menu-carousel.php:199, src/elementor/widgets/restaurant-menu-grid.php:89, src/elementor/widgets/restaurant-menu-grid.php:206, src/elementor/widgets/restaurant-menu-list.php:77, src/elementor/widgets/restaurant-menu-list.php:221
+msgid "DESC"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:209, src/elementor/widgets/blog-grid.php:216, src/elementor/widgets/products-carousel.php:209, src/elementor/widgets/products-grid.php:216, src/elementor/widgets/products-list.php:231, src/elementor/widgets/restaurant-menu-carousel.php:209, src/elementor/widgets/restaurant-menu-grid.php:216, src/elementor/widgets/restaurant-menu-list.php:231
+msgid "Item Settings"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:216, src/elementor/widgets/blog-grid.php:223, src/elementor/widgets/products-carousel.php:216, src/elementor/widgets/products-grid.php:223, src/elementor/widgets/products-list.php:238, src/elementor/widgets/restaurant-menu-carousel.php:216, src/elementor/widgets/restaurant-menu-grid.php:223, src/elementor/widgets/restaurant-menu-list.php:238
+msgid "Featured Image"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:217, src/elementor/widgets/blog-carousel.php:228, src/elementor/widgets/blog-grid.php:224, src/elementor/widgets/blog-grid.php:235, src/elementor/widgets/restaurant-menu-carousel.php:217, src/elementor/widgets/restaurant-menu-carousel.php:239, src/elementor/widgets/restaurant-menu-grid.php:224, src/elementor/widgets/restaurant-menu-grid.php:246, src/elementor/widgets/restaurant-menu-list.php:239, src/elementor/widgets/restaurant-menu-list.php:261
+msgid "Whether to display title of the menu item type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:238, src/elementor/widgets/blog-grid.php:245, src/elementor/widgets/products-carousel.php:249, src/elementor/widgets/products-grid.php:256, src/elementor/widgets/products-list.php:271, src/elementor/widgets/restaurant-menu-carousel.php:249, src/elementor/widgets/restaurant-menu-grid.php:256, src/elementor/widgets/restaurant-menu-list.php:271
+msgid "Excerpt"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:239, src/elementor/widgets/blog-grid.php:246, src/elementor/widgets/restaurant-menu-carousel.php:250, src/elementor/widgets/restaurant-menu-grid.php:257, src/elementor/widgets/restaurant-menu-list.php:272
+msgid "Whether to display excerpt (short description) of the menu item type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:249, src/elementor/widgets/blog-grid.php:256
+msgid "Details"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:250, src/elementor/widgets/blog-grid.php:257
+msgid "Whether to display details of the post type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:261, src/elementor/widgets/blog-grid.php:268
+msgid "Whether to display date of the post type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:271, src/elementor/widgets/blog-grid.php:278
+msgid "Author"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:272, src/elementor/widgets/blog-grid.php:279
+msgid "Whether to display author of the post type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:282, src/elementor/widgets/blog-grid.php:289, src/elementor/widgets/products-carousel.php:282, src/elementor/widgets/products-carousel.php:293, src/elementor/widgets/products-grid.php:289, src/elementor/widgets/products-grid.php:300, src/elementor/widgets/products-list.php:304, src/elementor/widgets/products-list.php:315
+msgid "Readmore"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:283, src/elementor/widgets/blog-grid.php:290
+msgid "Whether to display readmore button of the post type."
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:296, src/elementor/widgets/blog-carousel.php:304, src/elementor/widgets/blog-carousel.php:551, src/elementor/widgets/products-carousel.php:227, src/elementor/widgets/products-grid.php:234, src/elementor/widgets/products-list.php:249, src/elementor/widgets/restaurant-menu-carousel.php:227, src/elementor/widgets/restaurant-menu-grid.php:234, src/elementor/widgets/restaurant-menu-list.php:249
+msgid "Badge"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:316
+msgid "Badge (text)"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:319
+msgid "Text"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:320
+msgid "Popular"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:346, src/elementor/widgets/products-carousel.php:321, src/elementor/widgets/restaurant-menu-carousel.php:299
+msgid "Rect 2"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:357, src/elementor/widgets/products-carousel.php:332, src/elementor/widgets/restaurant-menu-carousel.php:310
+msgid "Carousel Settings"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:365, src/elementor/widgets/blog-grid.php:385, src/elementor/widgets/categories.php:185, src/elementor/widgets/products-carousel.php:340, src/elementor/widgets/products-grid.php:395, src/elementor/widgets/products-list.php:397, src/elementor/widgets/restaurant-menu-carousel.php:318, src/elementor/widgets/restaurant-menu-grid.php:373, src/elementor/widgets/restaurant-menu-list.php:375, src/elementor/widgets/team.php:464
+msgid "Items per Row"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:369, src/elementor/widgets/blog-grid.php:390, src/elementor/widgets/categories.php:189
+msgid "2"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:370, src/elementor/widgets/blog-grid.php:391, src/elementor/widgets/products-carousel.php:344, src/elementor/widgets/restaurant-menu-carousel.php:322
+msgid "3"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:371, src/elementor/widgets/categories.php:190, src/elementor/widgets/products-carousel.php:345, src/elementor/widgets/restaurant-menu-carousel.php:323
+msgid "4"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:431, src/elementor/widgets/categories.php:250, src/elementor/widgets/intro-reservation.php:437, src/elementor/widgets/products-carousel.php:405, src/elementor/widgets/products-grid.php:528, src/elementor/widgets/promo-video.php:250, src/elementor/widgets/promo.php:193, src/elementor/widgets/promo.php:205, src/elementor/widgets/restaurant-menu-carousel.php:383, src/elementor/widgets/restaurant-menu-grid.php:506, src/elementor/widgets/team.php:529, src/elementor/widgets/testimonials-grid.php:226, src/elementor/widgets/testimonials.php:226
+msgid "Button Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:443, src/elementor/widgets/categories.php:262, src/elementor/widgets/products-carousel.php:417, src/elementor/widgets/products-grid.php:540, src/elementor/widgets/promo-video.php:262, src/elementor/widgets/restaurant-menu-carousel.php:395, src/elementor/widgets/restaurant-menu-grid.php:518, src/elementor/widgets/team.php:541, src/elementor/widgets/testimonials-grid.php:238, src/elementor/widgets/testimonials.php:238
+msgid "Button BG Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:456, src/elementor/widgets/categories.php:275, src/elementor/widgets/cta2.php:441, src/elementor/widgets/hero-banner.php:564, src/elementor/widgets/intro-reservation.php:462, src/elementor/widgets/products-carousel.php:430, src/elementor/widgets/products-grid.php:553, src/elementor/widgets/promo-video.php:274, src/elementor/widgets/promo.php:218, src/elementor/widgets/restaurant-menu-carousel.php:408, src/elementor/widgets/restaurant-menu-grid.php:531, src/elementor/widgets/team.php:554, src/elementor/widgets/testimonials-grid.php:251, src/elementor/widgets/testimonials.php:251
+msgid "Button Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:516, src/elementor/widgets/blog-grid.php:527
+msgid "Date Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:528, src/elementor/widgets/blog-carousel.php:559, src/elementor/widgets/blog-grid.php:539
+msgid "Date BG Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-carousel.php:541, src/elementor/widgets/blog-grid.php:552
+msgid "Date Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:18
+msgid "Blog (Grid)"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:83, src/elementor/widgets/footer-social-links.php:59, src/elementor/widgets/header-buttons.php:71, src/elementor/widgets/header-menu.php:70, src/elementor/widgets/products-list.php:97, src/elementor/widgets/restaurant-menu-list.php:97
+msgid "Alignment"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:87, src/elementor/widgets/footer-social-links.php:63, src/elementor/widgets/header-buttons.php:75, src/elementor/widgets/header-menu.php:74, src/elementor/widgets/products-list.php:101, src/elementor/widgets/restaurant-menu-list.php:101
+msgid "Left"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:91, src/elementor/widgets/footer-social-links.php:67, src/elementor/widgets/header-buttons.php:79, src/elementor/widgets/header-menu.php:78, src/elementor/widgets/products-list.php:105, src/elementor/widgets/restaurant-menu-list.php:105
+msgid "Center"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:95, src/elementor/widgets/footer-social-links.php:71, src/elementor/widgets/header-buttons.php:83, src/elementor/widgets/header-menu.php:82, src/elementor/widgets/products-list.php:109, src/elementor/widgets/restaurant-menu-list.php:109
+msgid "Right"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:303, src/elementor/widgets/blog-grid.php:562, src/elementor/widgets/gallery.php:186, src/elementor/widgets/products-grid.php:314, src/elementor/widgets/products-grid.php:520, src/elementor/widgets/products-list.php:329, src/elementor/widgets/restaurant-menu-grid.php:292, src/elementor/widgets/restaurant-menu-grid.php:498, src/elementor/widgets/restaurant-menu-list.php:307
+msgid "Pagination"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:311, src/elementor/widgets/gallery.php:194, src/elementor/widgets/products-grid.php:322, src/elementor/widgets/products-list.php:337, src/elementor/widgets/restaurant-menu-grid.php:300, src/elementor/widgets/restaurant-menu-list.php:315
+msgid "Pagination Type"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:315, src/elementor/widgets/gallery.php:198, src/elementor/widgets/products-grid.php:326, src/elementor/widgets/restaurant-menu-grid.php:304
+msgid "Pages"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:317, src/elementor/widgets/gallery.php:200
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:328, src/elementor/widgets/gallery.php:211, src/elementor/widgets/products-grid.php:338, src/elementor/widgets/products-list.php:351, src/elementor/widgets/promo-video.php:134, src/elementor/widgets/restaurant-menu-grid.php:316, src/elementor/widgets/restaurant-menu-list.php:329
+msgid "Enter button"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:329, src/elementor/widgets/gallery.php:212, src/elementor/widgets/products-grid.php:339, src/elementor/widgets/products-list.php:352, src/elementor/widgets/restaurant-menu-grid.php:317, src/elementor/widgets/restaurant-menu-list.php:330
+msgid "All Posts"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:339, src/elementor/widgets/categories.php:142, src/elementor/widgets/cta.php:108, src/elementor/widgets/cta.php:133, src/elementor/widgets/cta2.php:117, src/elementor/widgets/hero-banner.php:304, src/elementor/widgets/promo-video.php:142
+msgid "Link"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:377, src/elementor/widgets/categories.php:164, src/elementor/widgets/gallery.php:236, src/elementor/widgets/products-grid.php:387, src/elementor/widgets/products-list.php:389, src/elementor/widgets/restaurant-menu-grid.php:365, src/elementor/widgets/restaurant-menu-list.php:367, src/elementor/widgets/team.php:456
+msgid "Settings"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:389
+msgid "1"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:399
+msgid "Masonry"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:401, src/elementor/widgets/blog-grid.php:413, src/elementor/widgets/cta.php:98, src/elementor/widgets/cta.php:123, src/elementor/widgets/cta.php:169, src/elementor/widgets/cta.php:181, src/elementor/widgets/cta.php:193, src/elementor/widgets/cta.php:205, src/elementor/widgets/cta.php:217, src/elementor/widgets/cta.php:229, src/elementor/widgets/cta.php:241, src/elementor/widgets/cta2.php:248, src/elementor/widgets/cta2.php:260, src/elementor/widgets/cta2.php:272, src/elementor/widgets/cta2.php:284, src/elementor/widgets/cta2.php:296, src/elementor/widgets/cta2.php:308, src/elementor/widgets/cta2.php:320, src/elementor/widgets/gallery.php:58, src/elementor/widgets/gallery.php:99, src/elementor/widgets/header-buttons.php:61, src/elementor/widgets/products-grid.php:58, src/elementor/widgets/products-grid.php:99, src/elementor/widgets/products-list.php:87, src/elementor/widgets/products-list.php:125, src/elementor/widgets/restaurant-menu-grid.php:58, src/elementor/widgets/restaurant-menu-grid.php:99, src/elementor/widgets/restaurant-menu-list.php:87, src/elementor/widgets/restaurant-menu-list.php:125, src/elementor/widgets/team.php:145, src/elementor/widgets/team.php:157, src/elementor/widgets/team.php:205, src/elementor/widgets/team.php:253, src/elementor/widgets/team.php:301, src/elementor/widgets/team.php:349, src/elementor/widgets/team.php:397
+msgid "Show"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:402, src/elementor/widgets/blog-grid.php:414, src/elementor/widgets/cta.php:99, src/elementor/widgets/cta.php:124, src/elementor/widgets/cta.php:170, src/elementor/widgets/cta.php:182, src/elementor/widgets/cta.php:194, src/elementor/widgets/cta.php:206, src/elementor/widgets/cta.php:218, src/elementor/widgets/cta.php:230, src/elementor/widgets/cta.php:242, src/elementor/widgets/cta2.php:249, src/elementor/widgets/cta2.php:261, src/elementor/widgets/cta2.php:273, src/elementor/widgets/cta2.php:285, src/elementor/widgets/cta2.php:297, src/elementor/widgets/cta2.php:309, src/elementor/widgets/cta2.php:321, src/elementor/widgets/gallery.php:59, src/elementor/widgets/gallery.php:100, src/elementor/widgets/header-buttons.php:62, src/elementor/widgets/products-grid.php:59, src/elementor/widgets/products-grid.php:100, src/elementor/widgets/products-list.php:88, src/elementor/widgets/products-list.php:126, src/elementor/widgets/restaurant-menu-grid.php:59, src/elementor/widgets/restaurant-menu-grid.php:100, src/elementor/widgets/restaurant-menu-list.php:88, src/elementor/widgets/restaurant-menu-list.php:126, src/elementor/widgets/team.php:146, src/elementor/widgets/team.php:158, src/elementor/widgets/team.php:206, src/elementor/widgets/team.php:254, src/elementor/widgets/team.php:302, src/elementor/widgets/team.php:350, src/elementor/widgets/team.php:398
+msgid "Hide"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:411
+msgid "Sidebar"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:570
+msgid "Pagination Links Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:583
+msgid "Pagination Links Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:591
+msgid "More Button Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:603
+msgid "More Button BG Color"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:616
+msgid "More Button Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:850
+msgid "Prev"
+msgstr ""
+
+#: src/elementor/widgets/blog-grid.php:851
+msgid "Next"
+msgstr ""
+
+#: src/elementor/widgets/categories.php:172
+msgid "Card Style"
+msgstr ""
+
+#: src/elementor/widgets/categories.php:176
+msgid "Style 1"
+msgstr ""
+
+#: src/elementor/widgets/categories.php:177
+msgid "Style 2"
+msgstr ""
+
+#: src/elementor/widgets/categories.php:335, src/elementor/widgets/products-carousel.php:448, src/elementor/widgets/products-grid.php:419, src/elementor/widgets/products-list.php:473, src/elementor/widgets/promo.php:139, src/elementor/widgets/restaurant-menu-carousel.php:426, src/elementor/widgets/restaurant-menu-grid.php:397, src/elementor/widgets/restaurant-menu-list.php:451
+msgid "Item BG Color"
+msgstr ""
+
+#: src/elementor/widgets/categories.php:347
+msgid "Item Circle BG Color"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:18
+msgid "Call to Action"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:72, src/elementor/widgets/cta2.php:72
+msgid "Title Style"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:96
+msgid "Google Play Link"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:110, src/elementor/widgets/cta.php:135, src/elementor/widgets/promo-video.php:145, src/elementor/widgets/team.php:192, src/elementor/widgets/team.php:240, src/elementor/widgets/team.php:288, src/elementor/widgets/team.php:336, src/elementor/widgets/team.php:384, src/elementor/widgets/team.php:432
+msgid "Enter URL"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:111, src/elementor/widgets/cta.php:136, src/elementor/widgets/team.php:193, src/elementor/widgets/team.php:241, src/elementor/widgets/team.php:289, src/elementor/widgets/team.php:337, src/elementor/widgets/team.php:385, src/elementor/widgets/team.php:433
+msgid "https://bslthemes.com/"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:121
+msgid "App Store Link"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:167, src/elementor/widgets/cta2.php:246
+msgid "Circle #1"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:179, src/elementor/widgets/cta2.php:258
+msgid "Circle #2"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:191, src/elementor/widgets/cta2.php:270
+msgid "Circle #3"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:203, src/elementor/widgets/cta2.php:282
+msgid "Circle #4"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:215, src/elementor/widgets/cta2.php:306
+msgid "Illustration #1"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:227, src/elementor/widgets/cta2.php:318
+msgid "Illustration #2"
+msgstr ""
+
+#: src/elementor/widgets/cta.php:239
+msgid "Illustration #3"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:18
+msgid "Call to Action 2"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:98, src/elementor/widgets/cta2.php:201, src/elementor/widgets/hero-banner.php:285, src/elementor/widgets/hero-banner.php:388
+msgid "Buttons"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:126, src/elementor/widgets/hero-banner.php:313, src/elementor/widgets/team.php:167, src/elementor/widgets/team.php:215, src/elementor/widgets/team.php:263, src/elementor/widgets/team.php:311, src/elementor/widgets/team.php:359, src/elementor/widgets/team.php:407
+msgid "Icon"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:137, src/elementor/widgets/hero-banner.php:324
+msgid "Icon Element"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:141, src/elementor/widgets/hero-banner.php:328
+msgid "File"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:142, src/elementor/widgets/hero-banner.php:329
+msgid "Font Awesome"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:152, src/elementor/widgets/hero-banner.php:339
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:164, src/elementor/widgets/hero-banner.php:351
+msgid "Icon File"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:178, src/elementor/widgets/hero-banner.php:365
+msgid "Transparent"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:189, src/elementor/widgets/hero-banner.php:376
+msgid "Second Style"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:233
+msgid "Image Style"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:237
+msgid "Reserved"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:238
+msgid "Burger"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:294
+msgid "Circle #5"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:392, src/elementor/widgets/hero-banner.php:515
+msgid "Button 1 Color"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:404, src/elementor/widgets/hero-banner.php:527
+msgid "Button 1 BG Color"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:416, src/elementor/widgets/hero-banner.php:539
+msgid "Button 2 Color"
+msgstr ""
+
+#: src/elementor/widgets/cta2.php:428, src/elementor/widgets/hero-banner.php:551
+msgid "Button 2 BG Color"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:19
+msgid "Faq"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:60, src/elementor/widgets/faq.php:61, src/elementor/widgets/features.php:146
+msgid "Enter text"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:102, src/elementor/widgets/section-heading.php:126
+msgid "Title Typography:"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:123, src/elementor/widgets/section-heading.php:168
+msgid "Description Typography:"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:131
+msgid "Title Icon Color"
+msgstr ""
+
+#: src/elementor/widgets/faq.php:143
+msgid "Title Icon BG Color"
+msgstr ""
+
+#: src/elementor/widgets/features.php:18
+msgid "Features"
+msgstr ""
+
+#: src/elementor/widgets/features.php:118
+msgid "Image Label"
+msgstr ""
+
+#: src/elementor/widgets/features.php:130
+msgid "Label (num)"
+msgstr ""
+
+#: src/elementor/widgets/features.php:143
+msgid "Label (text)"
+msgstr ""
+
+#: src/elementor/widgets/features.php:240, src/elementor/widgets/features2.php:90
+msgid "Items Styles"
+msgstr ""
+
+#: src/elementor/widgets/features.php:248, src/elementor/widgets/features2.php:98
+msgid "Num Color"
+msgstr ""
+
+#: src/elementor/widgets/features.php:304
+msgid "Image Styles"
+msgstr ""
+
+#: src/elementor/widgets/features.php:312
+msgid "Label Color"
+msgstr ""
+
+#: src/elementor/widgets/features.php:325
+msgid "Label Typography"
+msgstr ""
+
+#: src/elementor/widgets/features2.php:18
+msgid "Features 2"
+msgstr ""
+
+#: src/elementor/widgets/footer-social-links.php:18, src/elementor/widgets/footer-social-links.php:87
+msgid "Footer Social Links"
+msgstr ""
+
+#: src/elementor/widgets/footer-social-links.php:47
+msgid "Social Links"
+msgstr ""
+
+#: src/elementor/widgets/footer-social-links.php:95
+msgid "Link Color"
+msgstr ""
+
+#: src/elementor/widgets/footer-social-links.php:107
+msgid "Link Hover Color"
+msgstr ""
+
+#: src/elementor/widgets/footer-social-links.php:120
+msgid "Link Typography:"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:39, src/elementor/widgets/gallery.php:259, src/elementor/widgets/products-grid.php:39, src/elementor/widgets/restaurant-menu-grid.php:39
+msgid "Filters"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:48
+msgid "Filters show only with pagination \"Infinite Scrolling\" or \"No\""
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:56, src/elementor/widgets/products-grid.php:56, src/elementor/widgets/restaurant-menu-grid.php:56
+msgid "Show Filters"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:68, src/elementor/widgets/products-grid.php:68, src/elementor/widgets/products-list.php:56, src/elementor/widgets/restaurant-menu-grid.php:68, src/elementor/widgets/restaurant-menu-list.php:56
+msgid "Categories Orderby"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:72, src/elementor/widgets/products-grid.php:72, src/elementor/widgets/products-list.php:60, src/elementor/widgets/restaurant-menu-grid.php:72, src/elementor/widgets/restaurant-menu-list.php:60, src/elementor/widgets/team.php:124, src/elementor/widgets/team.php:127, src/elementor/widgets/testimonials-grid.php:141, src/elementor/widgets/testimonials-grid.php:145, src/elementor/widgets/testimonials.php:141, src/elementor/widgets/testimonials.php:145
+msgid "Name"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:73, src/elementor/widgets/products-grid.php:73, src/elementor/widgets/products-list.php:61, src/elementor/widgets/restaurant-menu-grid.php:73, src/elementor/widgets/restaurant-menu-list.php:61
+msgid "ID"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:74, src/elementor/widgets/products-grid.php:74, src/elementor/widgets/products-list.php:62, src/elementor/widgets/restaurant-menu-grid.php:74, src/elementor/widgets/restaurant-menu-list.php:62
+msgid "Count"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:75, src/elementor/widgets/products-grid.php:75, src/elementor/widgets/products-list.php:63, src/elementor/widgets/restaurant-menu-grid.php:75, src/elementor/widgets/restaurant-menu-list.php:63
+msgid "Slug"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:76, src/elementor/widgets/products-grid.php:76, src/elementor/widgets/products-list.php:64, src/elementor/widgets/restaurant-menu-grid.php:76, src/elementor/widgets/restaurant-menu-list.php:64
+msgid "Selected"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:84, src/elementor/widgets/products-grid.php:84, src/elementor/widgets/products-list.php:72, src/elementor/widgets/restaurant-menu-grid.php:84, src/elementor/widgets/restaurant-menu-list.php:72
+msgid "Categories Order"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:97, src/elementor/widgets/products-grid.php:97, src/elementor/widgets/products-list.php:85, src/elementor/widgets/restaurant-menu-grid.php:97, src/elementor/widgets/restaurant-menu-list.php:85
+msgid "Category Count"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:209, src/elementor/widgets/products-grid.php:336, src/elementor/widgets/products-list.php:349, src/elementor/widgets/restaurant-menu-grid.php:314, src/elementor/widgets/restaurant-menu-list.php:327
+msgid "Button (title)"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:244
+msgid "Show per Row"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:248, src/elementor/widgets/products-grid.php:399, src/elementor/widgets/products-list.php:401, src/elementor/widgets/restaurant-menu-grid.php:377, src/elementor/widgets/restaurant-menu-list.php:379
+msgid "2 Items"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:249, src/elementor/widgets/products-grid.php:400, src/elementor/widgets/products-list.php:402, src/elementor/widgets/restaurant-menu-grid.php:378, src/elementor/widgets/restaurant-menu-list.php:380, src/elementor/widgets/team.php:468
+msgid "3 Items"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:267
+msgid "Color"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:279
+msgid "Active Color"
+msgstr ""
+
+#: src/elementor/widgets/gallery.php:309
+msgid "Item Zoom BG Color"
+msgstr ""
+
+#: src/elementor/widgets/header-buttons.php:18
+msgid "Header Buttons"
+msgstr ""
+
+#: src/elementor/widgets/header-buttons.php:47
+msgid "Shop Info Button"
+msgstr ""
+
+#: src/elementor/widgets/header-buttons.php:59
+msgid "Show Shopping Cart"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:19, src/elementor/widgets/header-menu.php:98
+msgid "Header Menu"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:48
+msgid "Select Layout"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:52, src/elementor/widgets/promo.php:62
+msgid "Horizontal"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:60
+msgid "Select Menu"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:106
+msgid "Menu Item Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:118
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:131
+msgid "Menu Item Typography:"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:139
+msgid "Submenu BG Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:151
+msgid "Submenu Border Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:163
+msgid "Submenu Item Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:175
+msgid "Submenu Item Hover Color"
+msgstr ""
+
+#: src/elementor/widgets/header-menu.php:188
+msgid "Submenu Item Typography:"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:18
+msgid "Hero Banner"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:47, src/elementor/widgets/hero-banner.php:50, src/elementor/widgets/intro-reservation.php:48, src/elementor/widgets/intro-reservation.php:51, src/elementor/widgets/intro.php:99, src/elementor/widgets/intro.php:102, src/elementor/widgets/promo-video.php:47, src/elementor/widgets/promo-video.php:50, src/elementor/widgets/section-heading.php:73, src/elementor/widgets/section-heading.php:76
+msgid "Subtitle"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:49, src/elementor/widgets/intro-reservation.php:50, src/elementor/widgets/intro.php:101, src/elementor/widgets/promo-video.php:49
+msgid "Enter subtitle"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:102, src/elementor/widgets/intro.php:47
+msgid "Layout"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:106
+msgid "Layout 1"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:107
+msgid "Layout 2"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:126
+msgid "Image #1"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:140, src/elementor/widgets/intro-reservation.php:154
+msgid "Image #2"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:154
+msgid "Image #3"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:168
+msgid "Dialogs"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:183
+msgid "Smile #1"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:185
+msgid "Enter smile"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:186
+msgid ":)"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:196
+msgid "Title #1"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:209
+msgid "Smile #2"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:222
+msgid "Title #2"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:235
+msgid "Image Icons"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:409, src/elementor/widgets/intro-reservation.php:274, src/elementor/widgets/intro.php:198, src/elementor/widgets/promo-video.php:217, src/elementor/widgets/section-heading.php:134
+msgid "Subtitle Color"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:422, src/elementor/widgets/intro-reservation.php:299, src/elementor/widgets/intro.php:223, src/elementor/widgets/promo-video.php:241
+msgid "Subtitle Typography"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:472
+msgid "Dialogs Color"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:485
+msgid "Dialogs Typography"
+msgstr ""
+
+#: src/elementor/widgets/hero-banner.php:493
+msgid "Dialogs BG Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:19
+msgid "Reservation Intro"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:94, src/elementor/widgets/intro.php:146, src/elementor/widgets/intro.php:154, src/elementor/widgets/intro.php:275
+msgid "Breadcrumbs"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:116
+msgid "Image Show"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:142
+msgid "Image #2 Show"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:182, src/elementor/widgets/intro-reservation.php:351
+msgid "Form"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:190
+msgid "Form Title"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:200
+msgid "Reservation Type"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:206
+msgid "OpenTable Form"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:214
+msgid "Select CF7 Form"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:228
+msgid "OpenTable ID"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:231
+msgid "Enter OpenTable ID"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:242
+msgid "OpenTable Language"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:247
+msgid "English-US"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:248
+msgid "Français-CA"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:249
+msgid "Deutsch-DE"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:250
+msgid "Español-MX"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:251
+msgid "日本語-JP"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:252
+msgid "Nederlands-NL"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:253
+msgid "Italiano-IT"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:266, src/elementor/widgets/section-heading.php:39, src/elementor/widgets/section-heading.php:105
+msgid "Heading"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:286, src/elementor/widgets/intro.php:210, src/elementor/widgets/promo-video.php:229
+msgid "Subtitle BG Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:359
+msgid "Form Background Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:371
+msgid "Form Border Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:383
+msgid "Form Title Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:396
+msgid "Form Title Typography"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:404
+msgid "Form Input Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:416
+msgid "Form Input BG Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:429
+msgid "Form Input Typography"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:449
+msgid "Button Background Color"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:655
+msgid "You haven't added OpenTable ID"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:583
+msgid "Person"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:584, src/elementor/widgets/intro-reservation.php:585, src/elementor/widgets/intro-reservation.php:586, src/elementor/widgets/intro-reservation.php:587, src/elementor/widgets/intro-reservation.php:588, src/elementor/widgets/intro-reservation.php:589, src/elementor/widgets/intro-reservation.php:590, src/elementor/widgets/intro-reservation.php:591, src/elementor/widgets/intro-reservation.php:592, src/elementor/widgets/intro-reservation.php:593, src/elementor/widgets/intro-reservation.php:594, src/elementor/widgets/intro-reservation.php:595, src/elementor/widgets/intro-reservation.php:596, src/elementor/widgets/intro-reservation.php:597, src/elementor/widgets/intro-reservation.php:598, src/elementor/widgets/intro-reservation.php:599, src/elementor/widgets/intro-reservation.php:600, src/elementor/widgets/intro-reservation.php:601, src/elementor/widgets/intro-reservation.php:602
+msgid "People"
+msgstr ""
+
+#: src/elementor/widgets/intro-reservation.php:603
+msgid "Larger party"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:18
+msgid "Intro"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:51
+msgid "Minimal"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:52
+msgid "Default"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:60
+msgid "Title Value"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:64, src/elementor/widgets/intro.php:77, src/elementor/widgets/intro.php:90
+msgid "Dynamic"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:65, src/elementor/widgets/intro.php:78, src/elementor/widgets/intro.php:91
+msgid "Static"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:73
+msgid "Subtitle Value"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:86
+msgid "Description Value"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:168
+msgid "Section Background"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:176
+msgid "BG Color"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:283
+msgid "Background Color"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:295
+msgid "Background Link Color"
+msgstr ""
+
+#: src/elementor/widgets/intro.php:308
+msgid "Background Link Typography"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:18
+msgid "Map (mapbox)"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:39
+msgid "Map"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:47
+msgid "Long"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:50
+msgid "Enter long value"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:51
+msgid "70.123"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:58
+msgid "Lat"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:61
+msgid "Enter lat value"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:62
+msgid "50.123"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:69
+msgid "Zoom"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:81
+msgid "Map Styling"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:89
+msgid "Lock Button Color"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:101
+msgid "Lock Button BG Color"
+msgstr ""
+
+#: src/elementor/widgets/mapbox.php:113
+msgid "Marker BG Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:18
+msgid "Products (Carousel)"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:155
+msgid "Custom Products"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:217, src/elementor/widgets/products-carousel.php:239, src/elementor/widgets/products-grid.php:224, src/elementor/widgets/products-grid.php:246, src/elementor/widgets/products-list.php:239, src/elementor/widgets/products-list.php:261
+msgid "Whether to display title of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:228, src/elementor/widgets/products-grid.php:235, src/elementor/widgets/products-list.php:250
+msgid "Whether to display badge of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:250, src/elementor/widgets/products-grid.php:257, src/elementor/widgets/products-list.php:272
+msgid "Whether to display excerpt (short description) of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:260, src/elementor/widgets/products-grid.php:267, src/elementor/widgets/products-list.php:282, src/elementor/widgets/restaurant-menu-carousel.php:260, src/elementor/widgets/restaurant-menu-grid.php:267, src/elementor/widgets/restaurant-menu-list.php:282
+msgid "Price"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:261, src/elementor/widgets/products-grid.php:268, src/elementor/widgets/products-list.php:283
+msgid "Whether to display price of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:271, src/elementor/widgets/products-grid.php:278, src/elementor/widgets/products-list.php:293, src/elementor/widgets/restaurant-menu-carousel.php:271, src/elementor/widgets/restaurant-menu-grid.php:278, src/elementor/widgets/restaurant-menu-list.php:293, src/elementor/widgets/testimonials-grid.php:151, src/elementor/widgets/testimonials.php:151
+msgid "Rating"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:272, src/elementor/widgets/products-grid.php:279, src/elementor/widgets/products-list.php:294
+msgid "Whether to display rating of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:283, src/elementor/widgets/products-grid.php:290, src/elementor/widgets/products-list.php:305
+msgid "Whether to display readmore button of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:294, src/elementor/widgets/products-grid.php:301, src/elementor/widgets/products-list.php:316
+msgid "Whether to display add to cart button of the product type."
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:502, src/elementor/widgets/products-grid.php:473, src/elementor/widgets/products-list.php:527, src/elementor/widgets/restaurant-menu-carousel.php:480, src/elementor/widgets/restaurant-menu-grid.php:451, src/elementor/widgets/restaurant-menu-list.php:505
+msgid "Price Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:514, src/elementor/widgets/products-grid.php:485, src/elementor/widgets/products-list.php:539, src/elementor/widgets/restaurant-menu-carousel.php:492, src/elementor/widgets/restaurant-menu-grid.php:463, src/elementor/widgets/restaurant-menu-list.php:517
+msgid "Price BG Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:527, src/elementor/widgets/products-grid.php:498, src/elementor/widgets/products-list.php:552, src/elementor/widgets/restaurant-menu-carousel.php:505, src/elementor/widgets/restaurant-menu-grid.php:476, src/elementor/widgets/restaurant-menu-list.php:530
+msgid "Price Typography"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:535
+msgid "Readmore BG Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:547
+msgid "Add to Cart Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:559
+msgid "Add to Cart BG Color"
+msgstr ""
+
+#: src/elementor/widgets/products-carousel.php:572
+msgid "Add to Cart Typography"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:18
+msgid "Products Grid"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:48, src/elementor/widgets/restaurant-menu-grid.php:48
+msgid "Filters show only with [Pagination -> No]"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:162, src/elementor/widgets/restaurant-menu-carousel.php:155, src/elementor/widgets/restaurant-menu-grid.php:162
+msgid "Custom Menu Items"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:401, src/elementor/widgets/products-list.php:403, src/elementor/widgets/restaurant-menu-grid.php:379, src/elementor/widgets/restaurant-menu-list.php:381, src/elementor/widgets/team.php:469
+msgid "4 Items"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:506, src/elementor/widgets/products-list.php:560, src/elementor/widgets/restaurant-menu-carousel.php:513, src/elementor/widgets/restaurant-menu-grid.php:484, src/elementor/widgets/restaurant-menu-list.php:538, src/elementor/widgets/testimonials-grid.php:332, src/elementor/widgets/testimonials.php:332
+msgid "Rating Color"
+msgstr ""
+
+#: src/elementor/widgets/products-grid.php:757, src/elementor/widgets/restaurant-menu-grid.php:729
+msgid "All dishes"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:18
+msgid "Products List"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:48, src/elementor/widgets/restaurant-menu-list.php:48
+msgid "All categories and additional categories fields you can edit in <a href=\"%s\" target=\"_blank\">Restaurant -> Categories</a>"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:123, src/elementor/widgets/restaurant-menu-list.php:123
+msgid "Category Description"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:146, src/elementor/widgets/restaurant-menu-list.php:146
+msgid "All restaurant menu items and additional item fields you can edit in <a href=\"%s\" target=\"_blank\">Restaurant -> Menu Items</a>"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:180, src/elementor/widgets/restaurant-menu-list.php:180
+msgid "Exclude Custom Menu Items"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:376, src/elementor/widgets/restaurant-menu-list.php:354
+msgid "Auto"
+msgstr ""
+
+#: src/elementor/widgets/products-list.php:413, src/elementor/widgets/restaurant-menu-list.php:391
+msgid "Category"
+msgstr ""
+
+#: src/elementor/widgets/promo-video.php:18
+msgid "Promo Video"
+msgstr ""
+
+#: src/elementor/widgets/promo-video.php:79
+msgid "Image & Video"
+msgstr ""
+
+#: src/elementor/widgets/promo-video.php:98
+msgid "Youtube Video (URL)"
+msgstr ""
+
+#: src/elementor/widgets/promo-video.php:101, src/elementor/widgets/promo-video.php:102
+msgid "https://www.youtube.com/watch?v=F3zw1Gvn4Mk"
+msgstr ""
+
+#: src/elementor/widgets/promo-video.php:153
+msgid "Open Video Popup?"
+msgstr ""
+
+#: src/elementor/widgets/promo.php:18
+msgid "Promo"
+msgstr ""
+
+#: src/elementor/widgets/promo.php:58
+msgid "Image Orientation"
+msgstr ""
+
+#: src/elementor/widgets/promo.php:63
+msgid "Vertical"
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-carousel.php:18
+msgid "Restaurant Menu Carousel"
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-carousel.php:228, src/elementor/widgets/restaurant-menu-grid.php:235, src/elementor/widgets/restaurant-menu-list.php:250
+msgid "Whether to display badge of the menu item type."
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-carousel.php:261, src/elementor/widgets/restaurant-menu-grid.php:268, src/elementor/widgets/restaurant-menu-list.php:283
+msgid "Whether to display price of the menu item type."
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-carousel.php:272, src/elementor/widgets/restaurant-menu-grid.php:279, src/elementor/widgets/restaurant-menu-list.php:294
+msgid "Whether to display rating of the menu item type."
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-grid.php:18
+msgid "Restaurant Menu Grid"
+msgstr ""
+
+#: src/elementor/widgets/restaurant-menu-list.php:18
+msgid "Restaurant Menu List"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:18
+msgid "Section Heading"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:75
+msgid "Enter your subtitle"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:95
+msgid "Enter your content"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:147
+msgid "Subtitle Typography:"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:176
+msgid "Content Color"
+msgstr ""
+
+#: src/elementor/widgets/section-heading.php:189
+msgid "Content Typography:"
+msgstr ""
+
+#: src/elementor/widgets/team.php:19
+msgid "Team"
+msgstr ""
+
+#: src/elementor/widgets/team.php:126, src/elementor/widgets/testimonials-grid.php:144, src/elementor/widgets/testimonials.php:144
+msgid "Enter name"
+msgstr ""
+
+#: src/elementor/widgets/team.php:133, src/elementor/widgets/team.php:136
+msgid "Role"
+msgstr ""
+
+#: src/elementor/widgets/team.php:135
+msgid "Enter role"
+msgstr ""
+
+#: src/elementor/widgets/team.php:143
+msgid "Social"
+msgstr ""
+
+#: src/elementor/widgets/team.php:155
+msgid "Social Link #1"
+msgstr ""
+
+#: src/elementor/widgets/team.php:190, src/elementor/widgets/team.php:238, src/elementor/widgets/team.php:286, src/elementor/widgets/team.php:334, src/elementor/widgets/team.php:382, src/elementor/widgets/team.php:430
+msgid "URL"
+msgstr ""
+
+#: src/elementor/widgets/team.php:203
+msgid "Social Link #2"
+msgstr ""
+
+#: src/elementor/widgets/team.php:251
+msgid "Social Link #3"
+msgstr ""
+
+#: src/elementor/widgets/team.php:299
+msgid "Social Link #4"
+msgstr ""
+
+#: src/elementor/widgets/team.php:347
+msgid "Social Link #5"
+msgstr ""
+
+#: src/elementor/widgets/team.php:395
+msgid "Social Link #6"
+msgstr ""
+
+#: src/elementor/widgets/team.php:572, src/elementor/widgets/testimonials-grid.php:311, src/elementor/widgets/testimonials.php:311
+msgid "Name Color"
+msgstr ""
+
+#: src/elementor/widgets/team.php:585, src/elementor/widgets/testimonials-grid.php:324, src/elementor/widgets/testimonials.php:324
+msgid "Name Typography"
+msgstr ""
+
+#: src/elementor/widgets/team.php:593
+msgid "Role Color"
+msgstr ""
+
+#: src/elementor/widgets/team.php:606
+msgid "Role Typography"
+msgstr ""
+
+#: src/elementor/widgets/team.php:614
+msgid "Social Link Color"
+msgstr ""
+
+#: src/elementor/widgets/testimonials-grid.php:18
+msgid "Testimonials Grid"
+msgstr ""
+
+#: src/elementor/widgets/testimonials-grid.php:163, src/elementor/widgets/testimonials.php:163
+msgid "Testimonials Items"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: src/inc/social-share/social-share.php:16
+msgid "Share on "
+msgstr ""
+
+#: src/inc/social-share/social-share.php:21
+msgid "Share:"
+msgstr ""

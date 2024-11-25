@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty-Four package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-21 11:02:58+0000\n"
+"PO-Revision-Date: 2024-08-05 16:46:43+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,16 +23,6 @@ msgstr "Twenty Twenty-Four 的設計目的在於靈活、多功能，並且能�
 msgid "Twenty Twenty-Four"
 msgstr "Twenty Twenty-Four"
 
-#: patterns/text-centered-statement.php
-msgctxt "Pattern description"
-msgid "A centered text statement with a large amount of padding on all sides."
-msgstr "包含大型邊框間距的置中文字聲明。"
-
-#: patterns/hidden-posts-heading.php
-msgctxt "Pattern title"
-msgid "Posts heading"
-msgstr "文章標題"
-
 #: patterns/text-title-left-image-right.php
 msgctxt "Pattern description"
 msgid "A title, a paragraph and a CTA button on the left with an image on the right."
@@ -40,7 +30,7 @@ msgstr "包含右方圖片的標題、段落及行動號召按鈕。"
 
 #: patterns/text-project-details.php
 msgctxt "Pattern description"
-msgid "A text-only section for project details."
+msgid "A text only section for project details."
 msgstr "僅有文字內容區段的專案詳細資料。"
 
 #: patterns/text-feature-grid-3-col.php
@@ -55,22 +45,27 @@ msgstr "Études 的幕後推手"
 
 #: patterns/text-faq.php
 msgctxt "Pattern description"
-msgid "A FAQ section with a large FAQ heading and a group of questions and answers."
-msgstr "包含大型常見問題集標題及問答組。"
+msgid "A FAQ section with a large FAQ heading and list of toggle questions and answers."
+msgstr "包含大型常見問題集標題及問答切換清單的常見問題集區段。"
+
+#: patterns/text-centered-statement.php
+msgctxt "Pattern description"
+msgid "A centered text statement with a large paddings."
+msgstr "包含大型邊框間距的置中文字聲明。"
 
 #: patterns/text-centered-statement-small.php
 msgctxt "Pattern description"
-msgid "A centered italic text statement with compact padding."
+msgid "A centered itallic text statement with compact padding."
 msgstr "包含密集邊框間距的居中斜體文字聲明。"
 
 #: patterns/text-alternating-images.php
 msgctxt "Pattern description"
-msgid "A text section, then a two-column section with text in one column and an image in the other."
-msgstr "文字區段及包含 1 欄文字、1 欄圖片的 2 欄式區段。"
+msgid "A text section, then a two column section with text in one and image in another."
+msgstr "包含 1 欄文字、1 欄圖片的 2 欄式文字區段。"
 
 #: patterns/testimonial-centered.php
 msgctxt "Pattern description"
-msgid "A centered testimonial section with an avatar, name, and job title."
+msgid "A centered testimonial section with a avatar, name, and job title."
 msgstr "包含個人頭像、名字及職稱的置中證言內容區段。"
 
 #: patterns/team-4-col.php
@@ -125,8 +120,8 @@ msgstr "包含內容說明、僅有精選圖片的 4 欄文章區段的作品集
 
 #: patterns/page-home-portfolio-gallery.php
 msgctxt "Pattern description"
-msgid "A portfolio home page that features a gallery."
-msgstr "包含內容精選圖庫的作品集首頁。"
+msgid "A porfolio home page that features a gallery."
+msgstr "包含內容精選圖片的作品集首頁。"
 
 #: patterns/page-home-business.php
 msgctxt "Pattern description"
@@ -1311,7 +1306,6 @@ msgid "Previous: "
 msgstr "上一篇: "
 
 #: patterns/hidden-post-navigation.php:9 patterns/hidden-post-navigation.php:10
-#: patterns/hidden-posts-heading.php:10
 #: patterns/template-index-portfolio.php:16
 msgid "Posts"
 msgstr "文章"

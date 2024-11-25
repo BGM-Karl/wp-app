@@ -1,0 +1,118 @@
+@use "../utils" as *;
+
+/*----------------------------------------*/
+/*  2.6 sectiontitle
+/*----------------------------------------*/
+// Section subtitle 1
+.section {
+
+  &__title-wrapper {
+    position: relative;
+    z-index: 55;
+  }
+
+  &__subtitle {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--rr-common-white);
+    padding: 6px 16px;
+    background: var(--rr-theme-primary);
+    @include border-radius(5px);
+
+    &-2 {
+      font-size: 16px;
+      padding: 6.5px 24.5px;
+      line-height: 26px;
+    }
+  }
+
+  &__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    text-transform: uppercase;
+    color: var(--rr-heading-primary);
+
+    span {
+      position: relative;
+
+      &:after {
+        top: 80px;
+        left: 29%;
+        content: "";
+        width: 45px;
+        height: 13px;
+        position: absolute;
+        background-image: url("../imgs/section-title/shape-1.png");
+        animation: leftRight 1.3S infinite alternate;
+        
+        @media #{$xs, $sm, $md, $lg} {
+          display: none;
+        }
+      }
+    }
+
+    &-white {
+      color: var(--rr-common-white);
+    }
+
+    &-60 {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 60px;
+      line-height: 70px;
+
+      @media #{$lg} {
+        font-size: 52px;
+        line-height:64px;
+      }
+      @media #{$md} {
+        font-size: 50px;
+        line-height:52px;
+      }
+      @media #{$sm} {
+        font-size: 38px;
+        line-height:50px;
+      }
+      @media #{$xs} {
+        font-size: 32px;
+        line-height:44px;
+      }
+    }
+
+    &-line-height-50 {
+      line-height: 50px;
+    }
+
+    @media #{$lg, $md, $sm} {
+      font-size: 38px;
+      line-height:50px;
+    }
+    @media #{$xs} {
+      font-size: 30px;
+      line-height: 42px;
+    }
+    @media #{$xxs} {
+      font-size: 27px;
+      line-height: 37px;
+    }
+  }
+
+  &__p {
+    &-18 {
+      font-size: 18px;
+      line-height: 28px;
+    }
+  }
+}
+
+.title-animation {
+  overflow: hidden;
+}

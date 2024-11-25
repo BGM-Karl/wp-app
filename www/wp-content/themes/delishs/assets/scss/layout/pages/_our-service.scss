@@ -1,0 +1,26 @@
+@use '../../utils' as *;
+
+.our-service {
+  background-position: -6px 5px;
+
+  &__item {
+    padding: 20px;
+
+    &-media {
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-content {
+      padding: 20px;
+      padding-top: 0;
+
+      @media #{$xs} {
+        padding: 9px;
+      }
+    }
+  }
+}

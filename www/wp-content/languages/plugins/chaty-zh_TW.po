@@ -1,0 +1,2471 @@
+# Translation of Plugins - Floating Chat Widget: Contact Chat Icons, Telegram Chat, Line Messenger, WeChat, Email, SMS, Call Button – Chaty - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Floating Chat Widget: Contact Chat Icons, Telegram Chat, Line Messenger, WeChat, Email, SMS, Call Button – Chaty - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-26 07:43:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Floating Chat Widget: Contact Chat Icons, Telegram Chat, Line Messenger, WeChat, Email, SMS, Call Button – Chaty - Stable (latest release)\n"
+
+#: views/admin/popup.php:296
+msgid "Proceed"
+msgstr "繼續"
+
+#: views/admin/popup.php:290 views/admin/popup.php:295
+msgid "Remove Zero"
+msgstr "移除 0"
+
+#: views/admin/popup.php:289
+msgid "You've entered your WhatsApp number with a leading zero. Are you sure the number is correct?"
+msgstr "目前輸入的 WhatsApp 電話號碼開頭為 0。確定這是正確的電話號碼嗎？"
+
+#: views/admin/popup.php:286
+msgid "Leading zero in WhatsApp number"
+msgstr "WhatsApp 電話號碼開頭為 0"
+
+#: views/admin/pro_analytics.php:43
+msgid "click-through rate"
+msgstr "點閱率"
+
+#: views/admin/pro_analytics.php:43
+msgid "Analyze"
+msgstr "分析"
+
+#: views/admin/pro_analytics.php:43
+msgid "%s the number of unique clicks and the %s"
+msgstr "%s有效點擊次數及%s"
+
+#: views/admin/pro_analytics.php:39
+msgid "track"
+msgstr "追蹤"
+
+#: views/admin/pro_analytics.php:39
+msgid "Keep %s of how each widget performs"
+msgstr "%s每個小工具的執行狀況"
+
+#: views/admin/pro_analytics.php:35
+msgid "Discover"
+msgstr "了解"
+
+#: views/admin/pro_analytics.php:35
+msgid "%s the most frequently used channels"
+msgstr "%s最常使用的聯絡管道"
+
+#: views/admin/pro_analytics.php:19
+msgid "Analytics"
+msgstr "分析功能"
+
+#: views/admin/pro_analytics.php:19
+msgid "Unlock Chaty %s 🚀"
+msgstr "獲得 Chaty %s 🚀"
+
+#: views/admin/channel.php:434
+msgid "Allow visitors to pick emoji from the emoji picker and enter them into the message input field"
+msgstr "允許網站訪客從 Emoji 表情符號選擇器中選取表情符號，並將表情符號輸入至訊息輸入欄位。"
+
+#: views/admin/channel.php:422
+msgid "Enable emoji picker"
+msgstr "啟用 Emoji 表情符號選擇器"
+
+#: views/admin/channel.php:408
+msgid "Text input placeholder"
+msgstr "訊息輸入欄位預留文字"
+
+#: includes/class-frontend.php:1242 views/admin/channel.php:404
+msgid "Write your message..."
+msgstr "撰寫訊息..."
+
+#: views/admin/install-chatway.php:341 views/admin/recommended-plugins.php:448
+msgid "Less Than 10"
+msgstr "少於 10"
+
+#: views/admin/install-chatway.php:196 views/admin/recommended-plugins.php:303
+msgid "Installed"
+msgstr "已安裝"
+
+#. translators: %s: Plugin name.
+#: views/admin/install-chatway.php:183 views/admin/recommended-plugins.php:290
+msgid "Network Activate %s"
+msgstr "於多站網路中啟用 %s"
+
+#. translators: %s: Plugin name.
+#: views/admin/install-chatway.php:170 views/admin/recommended-plugins.php:277
+msgid "Activate %s"
+msgstr "啟用 %s"
+
+#: views/admin/install-chatway.php:154 views/admin/recommended-plugins.php:261
+msgid "Cannot Update"
+msgstr "無法更新"
+
+#. translators: %s: Plugin name and version.
+#: views/admin/install-chatway.php:147 views/admin/recommended-plugins.php:254
+msgid "Update %s now"
+msgstr "立即更新 %s"
+
+#: views/admin/install-chatway.php:132 views/admin/recommended-plugins.php:239
+msgid "Cannot Install"
+msgstr "無法安裝"
+
+#. translators: %s: Plugin name and version.
+#: views/admin/install-chatway.php:125 views/admin/recommended-plugins.php:232
+msgid "Install %s now"
+msgstr "立即安裝 %s"
+
+#: views/admin/pro_analytics.php:31
+msgid "What can you use it for?"
+msgstr "分析功能的使用方式"
+
+#: views/admin/customize-widget-section.php:492
+msgid "Blur the background when the widget is in the open state. Useful for drawing the user's attention to the widget."
+msgstr "小工具開啟時，背景會模糊處理。這對使用者將注意力放在小工具上非常有幫助。"
+
+#: views/admin/customize-widget-section.php:481
+msgid "Background blur effect"
+msgstr "背景模糊效果"
+
+#: views/admin/contact-form-feed.php:200 views/admin/contact-form-feed.php:248
+msgid "IP Address"
+msgstr "IP 位址"
+
+#: views/admin/chaty-admin-integration.php:25
+msgid "Upgrade to Pro and connect your Chaty form to the following platforms to automatically receive leads"
+msgstr "升級至 Pro 方案後便能將這個網站的 Chaty 表單連接至以下平台以自動接收潛在客戶"
+
+#: views/admin/channel.php:1287
+msgid "Edit Link"
+msgstr "編輯連結"
+
+#: views/admin/channel.php:1285
+msgid "m.me/coca-cola"
+msgstr "m.me/coca-cola"
+
+#: views/admin/channel.php:1284
+msgid "Did we redirect you to the correct Facebook Messenger link?"
+msgstr "是否已將你重新導向至正確 Facebook Messenger 連結？"
+
+#: views/admin/channel.php:1281
+msgid "Facebook Messenger test"
+msgstr "Facebook Messenger 測試"
+
+#: views/admin/channel.php:1266 views/admin/channel.php:1290
+msgid "Support"
+msgstr "技術支援"
+
+#: views/admin/channel.php:1266 views/admin/channel.php:1290
+msgid "Having trouble? Contact "
+msgstr "如果遇到問題，請聯絡"
+
+#: views/admin/channel.php:1264 views/admin/channel.php:1288
+msgid "Yes, Correct"
+msgstr "是，正確"
+
+#: views/admin/channel.php:1263
+msgid "Edit Number"
+msgstr "編輯電話號碼"
+
+#: views/admin/channel.php:1261
+msgid "+91-7485963214"
+msgstr "+88624125252"
+
+#: views/admin/channel.php:1260
+msgid "Did we redirect you to the correct Whatsapp link for this number?"
+msgstr "是否已將你重新導向至這個電話號碼的正確 WhatsApp 連結？"
+
+#: views/admin/channel.php:1257
+msgid "WhatsApp test"
+msgstr "WhatsApp 測試"
+
+#: views/admin/channel.php:1139
+msgid "QR code heading"
+msgstr "QR 圖碼標題"
+
+#: views/admin/channel.php:1136
+msgid "Scan QR Code"
+msgstr "掃描 QR 圖碼"
+
+#: views/admin/channel.php:1116
+msgid "Heading"
+msgstr "標題"
+
+#: views/admin/channel.php:1113
+msgid "WeChat ID"
+msgstr "WeChat ID"
+
+#: views/admin/channel.php:1109
+msgid "Pro Features"
+msgstr "Pro 版功能"
+
+#: views/admin/channel.php:1008
+msgid "Send leads to Mailchimp/Klaviyo"
+msgstr "將潛在客戶傳送至 Mailchimp/Klaviyo"
+
+#: views/admin/channel.php:984
+msgid "Capture the visitor's IP address when they submit the form."
+msgstr "擷取網站訪客傳送表單時使用的 IP 位址。"
+
+#: views/admin/channel.php:981
+msgid "Capture IP address"
+msgstr "擷取 IP 位址"
+
+#: views/admin/channel.php:774
+msgid "Title background color"
+msgstr "標題背景色彩"
+
+#: views/admin/channel.php:544
+msgid "Add Custom Field"
+msgstr "新增自訂欄位"
+
+#: views/admin/channel.php:395
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: views/admin/channel.php:391
+msgid "Profile image"
+msgstr "個人頭像圖片"
+
+#: views/admin/channel.php:386
+msgid "Add a profile image"
+msgstr "新增個人頭像圖片"
+
+#: views/admin/channel.php:375
+msgid "Nickname"
+msgstr "暱稱"
+
+#: views/admin/channel.php:363 views/admin/channel.php:1128
+msgid "Header Background"
+msgstr "頁首背景"
+
+#: views/admin/channel.php:351
+msgid "Headline"
+msgstr "標題"
+
+#: views/admin/channel.php:348
+msgid "Let's chat on WhatsApp"
+msgstr "在 WhatsApp 上聊天"
+
+#: views/admin/channel.php:335
+msgid "Open the chat widget on page load"
+msgstr "頁面載入時開啟聊天小工具"
+
+#: views/admin/channel.php:311
+msgid "Engage visitors with a WhatsApp-style chat window with a welcome message. Visitors can start conversations by typing messages and  clicking on 'Send' will redirect them to WhatsApp."
+msgstr "使用包含歡迎訊息的 WhatsApp 風格聊天視窗與網站訪客互動。網站訪客可以輸入訊息以開始交談，點擊 [傳送] 便會將他們重新導向至 WhatsApp。"
+
+#: views/admin/channel.php:300
+msgid "Enable WhatsApp Chat Widget"
+msgstr "啟用 WhatsApp 聊天小工具"
+
+#: views/admin/channel.php:247 views/admin/popup.php:290
+msgid "Test"
+msgstr "測試"
+
+#: includes/class-frontend.php:756
+msgid "Show Emojis"
+msgstr "顯示 Emoji 表情符號"
+
+#: admin/class-social-icons.php:250
+msgid "Enter your Viber ID or full phone number that you registered with Viber. Example:+18006927753"
+msgstr "輸入 Viber ID 或用於註冊 Viber 的完整電話號碼。範例: +88624125252"
+
+#: admin/class-admin-base.php:1105
+msgid "Reference Page"
+msgstr "參照頁面"
+
+#: admin/class-admin-base.php:1099
+msgid "Widget"
+msgstr "小工具"
+
+#: admin/class-admin-base.php:1098
+msgid "id"
+msgstr "ID"
+
+#: admin/class-admin-base.php:680
+msgid "Integrations"
+msgstr "整合"
+
+#: includes/class-frontend.php:755
+msgid "Hide WhatsApp Form"
+msgstr "隱藏 WhatsApp 表單"
+
+#: includes/class-frontend.php:753 includes/class-frontend.php:754
+msgid "WhatsApp Message"
+msgstr "WhatsApp 訊息"
+
+#: views/admin/upgrade.php:795
+msgid "Websites"
+msgstr "網站數量"
+
+#: views/admin/upgrade.php:779
+msgid "/2 years"
+msgstr "/2 年"
+
+#: views/admin/upgrade.php:775
+msgid "/lifetime"
+msgstr "/單次"
+
+#: views/admin/upgrade.php:774
+msgid "For lifetime"
+msgstr "單次付款"
+
+#: views/admin/upgrade.php:773
+msgid "Lifetime License 🚀"
+msgstr "永久授權 🚀"
+
+#: views/admin/upgrade.php:686
+msgid "Chaty plugin and all your settings will continue to work as before; however, you will no longer receive plugin updates, including feature additions, improvements, and support."
+msgstr "Chaty 在約期授權過期後，外掛及設定仍會如常執行，但是不會再接收到包含新功能、功能改進等外掛更新及技術支援。"
+
+#: views/admin/upgrade.php:686
+msgid "Of course NOT!"
+msgstr "絕對不會！"
+
+#: views/admin/upgrade.php:685
+msgid "Will Chaty stop working if I don’t renew my license?"
+msgstr "如果沒有續訂約期授權，Chaty 是否會停止執行？"
+
+#: views/admin/upgrade.php:682
+msgid "No. you can use the free plan as long as you want."
+msgstr "沒有任何限制。免費方案可以永久使用。"
+
+#: views/admin/upgrade.php:681
+msgid "Is there a time limit for the free plan?"
+msgstr "免費方案是否有任何使用時間限制？"
+
+#: views/admin/upgrade.php:677
+msgid "You can buy the Pro plan that includes licenses for 5 domains, or the Agency plan that includes licenses for 50 domains (bigger plans are also available)."
+msgstr "購買包含 5 個網域約期授權的 Pro 方案，或是購買包含 50 個網域約期授權的 Agency 方案 (我們也提供更多網域約期授權的付費方案)"
+
+#: views/admin/upgrade.php:676
+msgid "You can install the free Chaty plugin on any website you want"
+msgstr "在任何有需要的網站安裝 Chaty 免費版外掛"
+
+#: views/admin/upgrade.php:674
+msgid "There 2 ways to do it:"
+msgstr "有 2 種方式可以達成這個目的:"
+
+#: views/admin/upgrade.php:673
+msgid "Can I use Chaty plugin on more than 1 domain?"
+msgstr "是否可將 Chaty 用於多個不同網域的網站？"
+
+#: views/admin/upgrade.php:670
+msgid "Once you purchase any paid plan of Chaty, you can use it forever. Support and updates are available for 1 year. You can renew your license yearly to get another year of support and updates."
+msgstr "Chaty 的任何付費方案，都可以永久使用，但是僅提供 1 年期的技術支援及更新。使用者可以續訂年度約期授權，便能獲得新一年的技術支援及更新。"
+
+#: views/admin/upgrade.php:669
+msgid "How long is my paid Chaty plugin license valid for?"
+msgstr "Chaty 的付費約期授權有效期限有多長？"
+
+#: views/admin/upgrade.php:472
+msgid "5 websites"
+msgstr "5 個網站"
+
+#: views/admin/upgrade.php:416
+msgid "1 website"
+msgstr "1 個網站"
+
+#: views/admin/upgrade.php:346 views/admin/upgrade.php:529
+msgid "1000 Websites"
+msgstr "1000 個網站"
+
+#: views/admin/upgrade.php:345 views/admin/upgrade.php:528
+msgid "500 Websites"
+msgstr "500 個網站"
+
+#: views/admin/upgrade.php:344 views/admin/upgrade.php:527
+msgid "50 Websites"
+msgstr "50 個網站"
+
+#: views/admin/upgrade.php:321 views/admin/upgrade.php:452
+msgid "🎉 Best Value"
+msgstr "🎉 最超值"
+
+#: views/admin/upgrade.php:305 views/admin/upgrade.php:453
+msgid "Plus"
+msgstr "Plus"
+
+#: views/admin/upgrade.php:293 views/admin/upgrade.php:309
+#: views/admin/upgrade.php:326 views/admin/upgrade.php:401
+#: views/admin/upgrade.php:457 views/admin/upgrade.php:512
+msgid "Updates & Support for"
+msgstr "更新及技術支援"
+
+#: views/admin/upgrade.php:292 views/admin/upgrade.php:308
+#: views/admin/upgrade.php:325 views/admin/upgrade.php:400
+#: views/admin/upgrade.php:456 views/admin/upgrade.php:511
+#: views/admin/upgrade.php:777 views/admin/upgrade.php:781
+msgid "/mo"
+msgstr " 元"
+
+#: views/admin/upgrade.php:292 views/admin/upgrade.php:308
+#: views/admin/upgrade.php:325 views/admin/upgrade.php:400
+#: views/admin/upgrade.php:456 views/admin/upgrade.php:511
+#: views/admin/upgrade.php:777 views/admin/upgrade.php:781
+msgid "Less than $"
+msgstr "每月低於美金 "
+
+#: views/admin/upgrade.php:291 views/admin/upgrade.php:307
+#: views/admin/upgrade.php:324 views/admin/upgrade.php:399
+#: views/admin/upgrade.php:455 views/admin/upgrade.php:510
+#: views/admin/upgrade.php:778 views/admin/upgrade.php:782
+msgid "Billed Annually"
+msgstr "年度付款"
+
+#: views/admin/upgrade.php:290 views/admin/upgrade.php:306
+#: views/admin/upgrade.php:323 views/admin/upgrade.php:398
+#: views/admin/upgrade.php:454 views/admin/upgrade.php:509
+#: views/admin/upgrade.php:783
+msgid "/year"
+msgstr "/年"
+
+#: views/admin/upgrade.php:289 views/admin/upgrade.php:397
+msgid "Basic"
+msgstr "Basic"
+
+#: views/admin/upgrade.php:203
+msgid "Send contact form leads to email"
+msgstr "將聯絡表單潛在客戶以電子郵件傳送"
+
+#: views/admin/upgrade.php:199
+msgid "Set specific date & time "
+msgstr "設定指定日期及時間 "
+
+#: views/admin/upgrade.php:195
+msgid "Set widget visibility days & hours"
+msgstr "依據營業週間日及時間設定小工具可見度"
+
+#: views/admin/upgrade.php:180
+msgid "Place the widget wherever you like on the screen."
+msgstr "將小工具放置在畫面上需要的位置。"
+
+#: views/admin/upgrade.php:163
+msgid "Chat view pop-up"
+msgstr "交談檢視彈出式視窗"
+
+#: views/admin/trigger-and-target.php:24
+msgid "Weekend"
+msgstr "週末"
+
+#: views/admin/trigger-and-target.php:23
+msgid "Monday to Friday"
+msgstr "星期一至星期五"
+
+#: views/admin/trigger-and-target.php:22
+msgid "Sunday to Thursday"
+msgstr "星期日至星期四"
+
+#: views/admin/trigger-and-target.php:21
+msgid "Saturday"
+msgstr "星期六"
+
+#: views/admin/trigger-and-target.php:20
+msgid "Friday"
+msgstr "星期五"
+
+#: views/admin/trigger-and-target.php:19
+msgid "Thursday"
+msgstr "星期四"
+
+#: views/admin/trigger-and-target.php:18
+msgid "Wednesday"
+msgstr "星期三"
+
+#: views/admin/trigger-and-target.php:17
+msgid "Tuesday"
+msgstr "星期二"
+
+#: views/admin/trigger-and-target.php:16
+msgid "Monday"
+msgstr "星期一"
+
+#: views/admin/trigger-and-target.php:15
+msgid "Sunday"
+msgstr "星期日"
+
+#: views/admin/trigger-and-target.php:14
+msgid "Everyday of week"
+msgstr "每個週間日"
+
+#: views/admin/review-popup.php:72
+msgid "Feel free to connect for questions and suggestions. Thank you for choosing us!"
+msgstr "如果有任何問題及建議，歡迎隨時與我們聯絡，感謝採用我們的外掛。"
+
+#: views/admin/review-popup.php:63
+msgid "Five Stars!"
+msgstr "5 星評等！"
+
+#: views/admin/review-popup.php:54
+msgid "Don't remind me"
+msgstr "不要提醒我"
+
+#: views/admin/review-popup.php:53
+msgid "14 Days"
+msgstr "14 天"
+
+#: views/admin/review-popup.php:52
+msgid "7 Days"
+msgstr "7 天"
+
+#: views/admin/review-popup.php:50
+msgid "Remind me after"
+msgstr "之後提醒我"
+
+#: views/admin/review-popup.php:48
+msgid "Would you like to be reminded in the future?"
+msgstr "是否需要繼續提醒？"
+
+#: views/admin/review-popup.php:41
+msgid "Please write your review here"
+msgstr "請在這裡撰寫評論"
+
+#: views/admin/review-popup.php:40
+msgid "Review (optional)"
+msgstr "撰寫外掛評論 (選填)"
+
+#: views/admin/review-popup.php:34
+msgid "Share Your Experience"
+msgstr "分享使用體驗"
+
+#: views/admin/review-popup.php:31 views/admin/review-popup.php:38
+msgid "rating"
+msgstr "評等"
+
+#: views/admin/review-popup.php:27
+msgid "Can you please show us some love and rate Chaty? It'll really help us spread the word"
+msgstr "請給予外掛評分展現你的支持，這對我們的推廣相當有幫助"
+
+#: views/admin/review-popup.php:26
+msgid "Seems like Chaty is bringing you value 🥳"
+msgstr "Chaty 應該對這個網站有所助益 🥳"
+
+#: views/admin/help.php:12
+msgid "Co-Founder at Premio"
+msgstr "Premio 共同創辦人"
+
+#: views/admin/first-popup.php:91
+msgid "Show me the new lead"
+msgstr "顯示新的潛在客戶"
+
+#: views/admin/first-popup.php:88
+msgid "Upgrade to Chaty Pro 🚀"
+msgstr "升級至 Chaty Pro 🚀"
+
+#: views/admin/first-popup.php:88
+msgid "%1$s to get leads to your email along with advanced triggers & targeting & more cool features"
+msgstr "%1$s 便能使用進階觸發程序及顯示目標對象、更多實用工具，並透過電子郵件獲得潛在客戶。"
+
+#: views/admin/first-popup.php:87
+msgid "Show me"
+msgstr "顯示相關資訊"
+
+#: views/admin/first-popup.php:87
+msgid "You just got your first lead from Chaty. Click on the %1$s button to display your contact form leads"
+msgstr "這個網站從 Chaty 獲得首位潛在客戶。點擊 [%1$s] 按鈕以顯示聯絡表單潛在客戶。"
+
+#: views/admin/first-popup.php:54
+msgid "Close"
+msgstr "關閉"
+
+#: views/admin/first-popup.php:24
+msgid "Congratulations! 🎉"
+msgstr "大功告成！🎉"
+
+#: views/admin/dashboard.php:171
+msgid "Upgrade to Pro today"
+msgstr "立即升級至 Pro 版"
+
+#: views/admin/dashboard.php:169
+msgid "🎨 Customise the widget to display the chat view popup."
+msgstr "🎨 自訂小工具以顯示交談檢視彈出式視窗。"
+
+#: views/admin/dashboard.php:168
+msgid "📈 Unlock analytics about each channel usage and different widgets"
+msgstr "📈 獲得個別聯絡管道使用狀況及不同小工具的分析資料。"
+
+#: views/admin/dashboard.php:167
+msgid "💬 Show multiple agents under a single channel."
+msgstr "💬 在同一個聯絡管道中顯示多位代理人。"
+
+#: views/admin/dashboard.php:166
+msgid "📱 Create multiple widgets for different devices, pages and languages."
+msgstr "📱 為不同裝置、頁面及語言建立多個小工具。"
+
+#: views/admin/dashboard.php:155
+msgid "Gain access to more premium features"
+msgstr "取得付費版功能"
+
+#: views/admin/custom-tags.php:97
+msgid "Shows product percent discount when on sale"
+msgstr "顯示商品特價時的折扣優惠"
+
+#: views/admin/custom-tags.php:96
+msgid "Product discount: "
+msgstr "商品折扣: "
+
+#: views/admin/custom-tags.php:83
+msgid "Shows regular price of the WooCommerce product"
+msgstr "顯示 WooCommerce 商品定價"
+
+#: views/admin/custom-tags.php:82
+msgid "Regular price: "
+msgstr "原價: "
+
+#: views/admin/custom-tags.php:69
+msgid "Shows WooCommerce product price"
+msgstr "顯示 WooCommerce 商品價格"
+
+#: views/admin/custom-tags.php:68
+msgid "Product price: "
+msgstr "商品價格: "
+
+#: views/admin/custom-tags.php:55
+msgid "Shows WooCommerce product SKU"
+msgstr "顯示 WooCommerce 商品 SKU"
+
+#: views/admin/custom-tags.php:54
+msgid "Product SKU: "
+msgstr "商品 SKU: "
+
+#: views/admin/custom-tags.php:41
+msgid "Shows WooCommerce product name"
+msgstr "顯示 WooCommerce 商品名稱"
+
+#: views/admin/custom-tags.php:40
+msgid "WooCommerce product name: "
+msgstr "WooCommerce 商品名稱: "
+
+#: views/admin/custom-tags.php:26
+msgid "Shows page URL"
+msgstr "顯示頁面網址"
+
+#: views/admin/custom-tags.php:25
+msgid "URL: "
+msgstr "網址: "
+
+#: views/admin/custom-tags.php:12
+msgid "Shows page title"
+msgstr "顯示頁面標題"
+
+#: views/admin/custom-tags.php:11
+msgid "Title: "
+msgstr "標題: "
+
+#: views/admin/custom-tags.php:3
+msgid "# Add Properties"
+msgstr "# 新增屬性"
+
+#: views/admin/chaty-popup.php:33
+msgid "Go to Chaty"
+msgstr "開始設定 Chaty"
+
+#: views/admin/chaty-popup.php:27
+msgid "Select chat channels that you'd like to add to your store, and fill out your info. For more info visit our %1$s and check the video."
+msgstr "選取想要新增至網站/商店的聯絡管道，並填寫對應的資訊。如需進一步了解，請造訪外掛的%1$s並觀看教學影片。"
+
+#: views/admin/chaty-popup.php:25
+msgid "Welcome to Chaty"
+msgstr "歡迎使用 Chaty"
+
+#: views/admin/channel.php:1098
+msgid "tags are supported"
+msgstr "標籤已支援"
+
+#: views/admin/channel.php:1098
+msgid "{url} tag grabs the URL of the page"
+msgstr "{url} 會擷取頁面的網址。"
+
+#: views/admin/channel.php:1098
+msgid "{title} tag grabs the page title of the webpage"
+msgstr "{title} 會擷取網頁的頁面標題。"
+
+#: views/admin/channel.php:1026 views/admin/channel.php:1056
+#: views/admin/channel.php:1083
+msgid "Add your own pre-set message that's automatically added to the user's message. You can also use merge tags and add the URL or the title of the current visitor's page. E.g. you can add the current URL of a product to the message so you know which product the visitor is talking about when the visitor messages you"
+msgstr "請在這裡新增會自動加入至使用者訊息的預設訊息。網站管理員可以使用合併標籤，在預設訊息中加入網站訪客目前造訪的頁面網址或標題。舉例來說，網站管理員可以將訪客目前瀏覽的商品的網址加入至訊息中，當網站訪客聯絡站方時，便會知道網站訪客目前提及的是哪一項商品。"
+
+#: views/admin/channel.php:906
+msgid "Get your leads by email, whenever you get a new email you'll get an email notification"
+msgstr "透過電子郵件取得潛在客戶相關資訊。當使用者填寫聯絡表單而收到相關電子郵件時，就會收到電子郵件通知。"
+
+#: views/admin/channel.php:893
+msgid "Your leads will be saved in your local database, you'll be able to find them %1$s here"
+msgstr "這個網站的潛在客戶會儲存於網站資料庫，網站管理員可以在%1$s找到相關資料。"
+
+#: views/admin/channel.php:812
+msgid "Your message was sent successfully"
+msgstr "訊息已成功傳送。"
+
+#: views/admin/channel.php:781
+msgid "Submit Button"
+msgstr "傳送按鈕"
+
+#: views/admin/channel.php:460
+msgid "Enter your email address"
+msgstr "輸入電子郵件地址"
+
+#: views/admin/channel.php:336
+msgid "Open the WhatsApp chat popup on page load, after the user sends a message or closes the window, the window will stay closed to avoid disruption"
+msgstr "頁面載入後開啟 WhatsApp 交談彈出式視窗，這個視窗會在使用者傳送訊息或關閉視窗後保持關閉，以避免瀏覽體驗遭到中斷。"
+
+#: views/admin/admin.php:68
+msgid "3. Triggers and targeting"
+msgstr "3. 觸發程序及顯示目標對象"
+
+#: includes/class-frontend.php:1216 views/admin/channel.php:474
+msgid "Enter your message"
+msgstr "輸入訊息"
+
+#: includes/class-frontend.php:1205 views/admin/channel.php:467
+msgid "Enter your phone number"
+msgstr "輸入電話號碼"
+
+#: includes/class-frontend.php:1203 views/admin/channel.php:466
+msgid "Phone"
+msgstr "電話"
+
+#: includes/class-frontend.php:1194
+msgid "Enter your email"
+msgstr "輸入電子郵件地址"
+
+#: includes/class-frontend.php:1182 views/admin/channel.php:453
+msgid "Enter your name"
+msgstr "輸入名稱"
+
+#: admin/class-admin-base.php:580 views/admin/channel.php:398
+msgid "Remove"
+msgstr "移除"
+
+#: admin/class-admin-base.php:579
+msgid "Please remove the JavaScript from the channels or ask the website's administrator to give you access to add JavaScript."
+msgstr "請從聯絡管道中移除 JavaScript 或要求網站管理員授予新增 JavaScript 的權限。"
+
+#: includes/class-frontend.php:335
+msgid "email address is not valid"
+msgstr "電子郵件地址無效"
+
+#: includes/class-frontend.php:310 includes/class-frontend.php:319
+#: includes/class-frontend.php:329 includes/class-frontend.php:345
+msgid "this field is required"
+msgstr "這個欄位為必填欄位"
+
+#: views/admin/upgrade.php:664
+msgid "Frequently Asked Questions"
+msgstr "常見問題集"
+
+#: views/admin/upgrade.php:658
+msgid "TRUSTED BY LEADING COMPANIES WORLDWIDE"
+msgstr "受到全球領導廠商的信賴"
+
+#: views/admin/upgrade.php:250
+msgid "Lifetime "
+msgstr "永久授權 "
+
+#: views/admin/upgrade.php:235
+msgid "2 years "
+msgstr "2 年 "
+
+#: views/admin/upgrade.php:232 views/admin/upgrade.php:247
+#: views/admin/upgrade.php:262
+msgid "Updates & Support"
+msgstr "更新及技術支援"
+
+#: views/admin/upgrade.php:226
+msgid "(enjoy 30-day money back guarantee on all plans)"
+msgstr "(全部方案均提供 30 天無條件退費保證)"
+
+#: views/admin/upgrade.php:212
+msgid "QR code for WeChat, customizable WhatsApp message, customizable email subject."
+msgstr "WeChat 的 QR 圖碼、自訂 WhatsApp 訊息、自訂電子郵件主旨。"
+
+#: views/admin/upgrade.php:211
+msgid "And more"
+msgstr "其他功能"
+
+#: views/admin/upgrade.php:200
+msgid "Schedule the specific time and date when your Chaty widget appears. Use this feature to offer time-limited coupons, or to start a promotion from a specific date."
+msgstr "啟用這項功能後，便能在指定日期時間顯示 Chaty 小工具，可以利用這項功能提供限時優惠代碼，或在指定日期顯示促銷資訊。"
+
+#: views/admin/upgrade.php:168
+msgid "Unlock analytics data about your Chaty widgets usage. Find out how many of your visitors click on your widgets and chat channels."
+msgstr "啟用這項功能後，便能分析網站上的 Chaty 小工具的使用狀況資料，並能了解有多少網站訪客點擊小工具及聯絡管道。"
+
+#: views/admin/upgrade.php:204
+msgid "You can get the emails from your contact form directly to your emails and change the subject line"
+msgstr "啟用這項功能後，便能從網站聯絡表單直接獲得電子郵件地址，並傳送至指定電子郵件地址及變更電子郵件主旨。"
+
+#: views/admin/upgrade.php:192
+msgid "Show the widget only to visitors who come from specific traffic sources including direct traffic, social networks, search engines, Google Ads, or any other traffic source)"
+msgstr "啟用這項功能後，便能僅針對指定流量來源 (例如直接流量、社交網路服務、搜尋引擎、Google Ads 或其他流量來源) 的訪客顯示小工具。"
+
+#: views/admin/upgrade.php:191
+msgid "Traffic source targeting"
+msgstr "流量來源目標對象"
+
+#: views/admin/trigger-and-target.php:565 views/admin/upgrade.php:188
+msgid "Target your widget to specific countries. You can create different widgets for different countries"
+msgstr "啟用這項功能後，便能針對特定國家/地區的目標對象顯示小工具。網站管理員可以為不同國家地區建立不同的小工具。"
+
+#: views/admin/upgrade.php:184
+msgid "Use this feature to show or hide the widget for specific pages, posts, categories, tags, products, or any URL based on preset rules"
+msgstr "啟用這項功能後，便能依據預先建立的規則在指定頁面、文章、分類、標籤、商品或網址顯示或隱藏小工具。"
+
+#: views/admin/upgrade.php:183
+msgid "Page targeting"
+msgstr "頁面目標對象"
+
+#: views/admin/upgrade.php:208
+msgid "Automatically track clicks on each of your channels on your Google Analytics account"
+msgstr "使用 Google Analytics 自動追蹤網站上每個聯絡管道的點擊。"
+
+#: views/admin/upgrade.php:179
+msgid "Custom location"
+msgstr "自訂位置"
+
+#: views/admin/upgrade.php:156
+msgid "Create different widgets for different pages. Show different icons based on targeting rules. You can also show different channels for mobile and desktop and based on many other rules."
+msgstr "為不同頁面建立不同的小工具，也可以依據目標對象規則顯示不同圖示，還可以依據其他規則在行動裝置及桌面裝置顯示不同聯絡管道。"
+
+#: views/admin/upgrade.php:155
+msgid "Multiple widgets"
+msgstr "使用多個小工具"
+
+#: views/admin/upgrade.php:176
+msgid "Change each channel's background color, upload your own icon, and change the text on hover"
+msgstr "自訂聯絡管道的背景色彩、上傳專屬圖示，或變更游標暫留時的文字。"
+
+#: views/admin/upgrade.php:175
+msgid "Channels customization"
+msgstr "自訂聯絡管道"
+
+#: views/admin/upgrade.php:164
+msgid "Choose between two types of pop-up designs, set pop-up text and color, and use merge tags like the URL and title, or WooCommerce properties like the product name, to customize the behavior of the widget based on visitor interaction."
+msgstr "從 2 種類型的彈出式視窗設計中擇一使用、設定彈出式視窗文字及色彩、使用 {url} 及 {title} 合併標籤、使用 WooCommerce 屬性 (例如商品名稱)，便能依據網站訪客互動方式自訂小工具行為。"
+
+#: views/admin/first-popup.php:31 views/admin/popup.php:213
+msgid "Dynamic chat pop-up"
+msgstr "動態彈出式聯絡視窗"
+
+#: views/admin/upgrade.php:172
+msgid "Choose a background color, change the size of the widget, choose from 3 different widget designs, select a Font Awesome icon or upload your own"
+msgstr "選取背景色彩、變更小工具尺寸、從 3 種小工具設計中擇一使用、選取 Font Awesome 圖示或上傳專屬圖示。"
+
+#: views/admin/upgrade.php:171
+msgid "Widget customization"
+msgstr "自訂小工具"
+
+#: views/admin/upgrade.php:160
+msgid "interesting ways to use Agents functionality"
+msgstr "使用代理人功能的相關案例"
+
+#: views/admin/upgrade.php:160
+msgid "Show multiple agents under a single channel. For example, allow visitors to reach for pre-sales info or support with different channels on WhatsApp. Here are some %1$s"
+msgstr "在同一個聯絡管道顯示多位代理人。舉例來說，這樣可以讓網站訪客透過 WhatsApp 上的不同聯絡管道尋求售前資訊或技術支援。%1$s"
+
+#: views/admin/upgrade.php:159
+msgid "Multiple agents"
+msgstr "多位代理人"
+
+#: views/admin/trigger-and-target.php:598
+msgid "Use this option if you wish to modify your widget additionally. This step is optional."
+msgstr "如果需要修改小工具的外掛，請使用自訂 CSS (選用功能)。"
+
+#: views/admin/customize-widget-section.php:638
+msgid "System Stack is the font that comes preloaded with your operating system. For example, if you are using Mac, you would be able to use mac's native font."
+msgstr "System Stack 代表使用者使用的作業系統預先載入的字型。舉例來說，如果使用者使用 macOS，便會使用 macOS 的原生字型顯示。"
+
+#: views/admin/customize-widget-section.php:455
+msgid "learn more here"
+msgstr "進一步了解"
+
+#: views/admin/customize-widget-section.php:455
+msgid "Enable google analytics tracking on the widget clicks. You can %1$s"
+msgstr "啟用 Google Analytics 追蹤小工具點擊。%1$s"
+
+#: views/admin/customize-widget-section.php:320
+msgid "Change the size of your Chaty widget. S is the smallest and XXL is the largest. You can also set custom sizes (the actual size of the Chaty widget is not reflected on the preview. View the size changes on the actual website)"
+msgstr "這裡可以變更 Chaty 小工具尺寸。[小型] 為最小尺寸，而 [超特大型]為最大尺寸，同時還可以自訂尺寸。變更 Chaty 小工具尺寸在預覽時不會有所改變，請在網站前端檢視小工具尺寸的變更。"
+
+#: views/admin/customize-widget-section.php:181
+msgid "When the page loads, choose the default state of the widget. Choose between hover to open, opened by default or click to open states."
+msgstr "請選取頁面載入後的小工具預設狀態，分別為 [游標暫留開啟視窗]、[預設開啟視窗] 及 [點擊開啟視窗]。"
+
+#: views/admin/channel.php:1151 views/admin/customize-widget-section.php:142
+msgid "Upload"
+msgstr "上傳"
+
+#: views/admin/customize-widget-section.php:141
+msgid "Icons Library"
+msgstr "圖示庫"
+
+#: views/admin/customize-widget-section.php:70
+msgid "Select the icon for your widget or upload a custom icon. Please make sure you upload an image file of the following types: PNG/JPEG/JPG/GIF/SVG. The max file size is up to 100KB"
+msgstr "選取小工具圖示或上傳自訂圖示。如需上傳自訂圖示，圖示格式必須為 PNG、JPEG、JPG、GIF 或 SVG，檔案大小上限為 100KB。"
+
+#: views/admin/channel.php:1207
+msgid "If unchecked, visitors will be redirected to chat with you via the WhatsApp desktop app. Please note if they don't have it installed, they'll be redirected to WhatsApp Web"
+msgstr "如果不啟用這項設定，使用者便會重新導向至透過 WhatsApp 桌面版應用程式與站方聯絡。請注意，如果使用者沒有安裝 WhatsApp 桌面版應用程式，一樣會將使用者重新導向至 WhatsApp 網頁版。"
+
+#: views/admin/channel.php:893 views/admin/channel.php:957
+msgid "here"
+msgstr "這裡"
+
+#: views/admin/channel.php:957
+msgid "Click %1$s to add your website. (please make sure you select V3). After adding your website you'll get your site Key and secret key."
+msgstr "點擊%1$s以新增這個網站 (僅能使用 reCAPTCHA v3)。新增這個網站後，便會取得專屬的網站金鑰及密鑰。"
+
+#: views/admin/channel.php:954
+msgid "Enable reCAPTCHA"
+msgstr "啟用 reCAPTCHA"
+
+#: views/admin/channel.php:740
+msgid "The text that will appear next to your channel when a visitor hovers over it"
+msgstr "網站訪客游標暫留於聯絡管道時，顯示於聯絡管道旁的文字。"
+
+#: views/admin/channel.php:605 views/admin/channel.php:631
+msgid "Learn more here: https://premio.io/help/chaty/how-to-use-chaty-with-different-agents/"
+msgstr "進一步了解: https://premio.io/help/chaty/how-to-use-chaty-with-different-agents/"
+
+#: includes/class-review-box.php:572 views/admin/review-popup.php:44
+#: views/admin/review-popup.php:58
+msgid "Submit"
+msgstr "傳送"
+
+#: includes/class-review-box.php:525
+msgid "Please rate us:"
+msgstr "請為我們進行評等:"
+
+#: includes/class-review-box.php:519
+msgid "Co-founder"
+msgstr "共同創辦人"
+
+#: includes/class-review-box.php:518
+msgid "Gal Dubinski"
+msgstr "Gal Dubinski"
+
+#: includes/class-review-box.php:507
+msgid "matters, please leave a review"
+msgstr "至關重要，請留下使用者評論"
+
+#: includes/class-review-box.php:507
+msgid "feedback"
+msgstr "意見反應"
+
+#: includes/class-review-box.php:507
+msgid "Your"
+msgstr "你的"
+
+#: views/admin/upgrade.php:56 views/admin/upgrade.php:79
+#: views/admin/upgrade.php:102 views/admin/upgrade.php:125
+#: views/admin/upgrade.php:148
+msgid "Lifetime"
+msgstr "永久授權"
+
+#: views/admin/upgrade.php:49 views/admin/upgrade.php:72
+#: views/admin/upgrade.php:95 views/admin/upgrade.php:118
+#: views/admin/upgrade.php:141
+msgid "2 years"
+msgstr "2 年"
+
+#: views/admin/upgrade.php:42 views/admin/upgrade.php:65
+#: views/admin/upgrade.php:88 views/admin/upgrade.php:111
+#: views/admin/upgrade.php:134 views/admin/upgrade.php:231
+msgid "1 year"
+msgstr "1 年"
+
+#: views/admin/trigger-and-target.php:596
+msgid "Custom CSS"
+msgstr "自訂 CSS"
+
+#: views/admin/trigger-and-target.php:579
+msgid "All Countries"
+msgstr "全部國家/地區"
+
+#: views/admin/trigger-and-target.php:563 views/admin/upgrade.php:187
+msgid "Country targeting"
+msgstr "國家/地區目標對象"
+
+#: views/admin/trigger-and-target.php:526
+msgid "Not contains"
+msgstr "不包含"
+
+#: views/admin/trigger-and-target.php:525
+msgid "Contains"
+msgstr "包含"
+
+#: views/admin/trigger-and-target.php:497
+msgid "Specific URL"
+msgstr "指定網址"
+
+#: views/admin/trigger-and-target.php:480
+msgid "Google Ads"
+msgstr "Google Ads"
+
+#: views/admin/trigger-and-target.php:460
+#: views/admin/trigger-and-target.php:482
+msgid "Show the Chaty to visitors who arrived from search engines including: Google, Bing, Yahoo!, Yandex, AOL, Ask, WOW,  WebCrawler, Baidu and more"
+msgstr "對來自搜尋引擎 (如 Google、Bing、Yahoo!、Yandex、AOL、Ask、WOW、WebCrawler 及百度等) 的網站訪客顯示 Chaty 小工具。"
+
+#: views/admin/trigger-and-target.php:458
+msgid "Search engines"
+msgstr "搜尋引擎"
+
+#: views/admin/trigger-and-target.php:438
+msgid "Show the Chaty to visitors who arrived to your website from social networks including: Facebook, Twitter, Pinterest, Instagram, Google+, LinkedIn, Delicious, Tumblr, Dribbble, StumbleUpon, Flickr, Plaxo, Digg and more"
+msgstr "對來自社交網路服務 (如 Facebook、Facebook、Twitter、Pinterest、Instagram、Google+、LinkedIn、Delicious、Tumblr、Dribbble、StumbleUpon、Flickr、Plaxo 及 Digg 等) 的網站訪客顯示 Chaty 小工具。"
+
+#: views/admin/trigger-and-target.php:436
+msgid "Social networks"
+msgstr "社交網路服務"
+
+#: views/admin/trigger-and-target.php:416
+msgid "Show the Chaty to visitors who arrived to your website from direct traffic"
+msgstr "對來自直接流量的網站訪客顯示 Chaty 小工具。"
+
+#: views/admin/trigger-and-target.php:414
+msgid "Direct visit"
+msgstr "直接流量"
+
+#: views/admin/trigger-and-target.php:383
+msgid "Show the widget only to visitors who come from specific traffic sources including direct traffic, social networks, search engines, Google Ads, or any other traffic source."
+msgstr "啟用這項功能後，便能僅針對指定流量來源 (例如直接流量、社交網路服務、搜尋引擎、Google Ads 或其他流量來源) 的訪客顯示小工具。"
+
+#: views/admin/trigger-and-target.php:381
+msgid "Traffic source"
+msgstr "流量來源"
+
+#: views/admin/trigger-and-target.php:175
+msgid "Select Rule"
+msgstr "選取規則"
+
+#: views/admin/trigger-and-target.php:169
+msgid "Don't show on"
+msgstr "不顯示於"
+
+#: views/admin/channel.php:556 views/admin/trigger-and-target.php:168
+msgid "Show on"
+msgstr "顯示於"
+
+#: views/admin/trigger-and-target.php:151
+msgid "Use this feature to show the widget for specific products, posts or on certain posts or pages by excluding or including them in the rules"
+msgstr "啟用這項功能後，便能在規則中透過排除或納入指定商品、文章或指定文章/頁面顯示小工具。"
+
+#: views/admin/trigger-and-target.php:149
+msgid "Show on pages"
+msgstr "顯示於頁面"
+
+#: views/admin/trigger-and-target.php:357
+msgid "GMT"
+msgstr "GMT"
+
+#: views/admin/trigger-and-target.php:352
+msgid "To"
+msgstr "結束時間"
+
+#: views/admin/trigger-and-target.php:347
+msgid "From"
+msgstr "開始時間"
+
+#: views/admin/trigger-and-target.php:338
+msgid "Select Day"
+msgstr "選取週間日"
+
+#: views/admin/trigger-and-target.php:320 views/admin/upgrade.php:196
+msgid "Display the widget on specific days and hours based on your opening days and hours"
+msgstr "啟用這項功能後，便能依據營業週間日及時間顯示小工具。"
+
+#: views/admin/trigger-and-target.php:140
+msgid "Your Chaty widget will first appear to the user according to the selected trigger. After the widget appeared for the first time, it'll always be visible on-load - once the user is aware of the widget, the user expects it to always appear"
+msgstr "網站上的 Chaty 小工具會依據選取的觸發程序顯示給網站訪客。在小工具首次顯示後，便會在頁面載入時持續顯示；網站訪客注意到這個小工具後，便會預期小工具會持續顯示。"
+
+#: views/admin/trigger-and-target.php:138
+msgid "How triggers works?"
+msgstr "觸發程序的運作方式"
+
+#: views/admin/trigger-and-target.php:78
+msgid "Widget turned off"
+msgstr "小工具已關閉"
+
+#: views/admin/trigger-and-target.php:43
+msgid "WooCommerce products on sale"
+msgstr "WooCommerce 特價商品"
+
+#: views/admin/trigger-and-target.php:42
+msgid "WooCommerce products"
+msgstr "WooCommerce 產品"
+
+#: views/admin/trigger-and-target.php:35
+msgid "WordPress Tags"
+msgstr "WordPress 標籤"
+
+#: views/admin/trigger-and-target.php:34
+msgid "WordPress Categories"
+msgstr "WordPress 分類"
+
+#: views/admin/trigger-and-target.php:33
+msgid "WordPress Posts"
+msgstr "WordPress 文章"
+
+#: views/admin/trigger-and-target.php:32
+msgid "WordPress Pages"
+msgstr "WordPress 頁面"
+
+#: views/admin/trigger-and-target.php:31
+msgid "Links ending with"
+msgstr "以指定條件結尾的連結"
+
+#: views/admin/trigger-and-target.php:30
+msgid "Links starting with"
+msgstr "以指定條件開頭的連結"
+
+#: views/admin/trigger-and-target.php:29
+msgid "A specific link"
+msgstr "指定連結"
+
+#: views/admin/trigger-and-target.php:28
+msgid "Link that contain"
+msgstr "包含指定條件的連結"
+
+#: views/admin/trigger-and-target.php:27
+msgid "Homepage"
+msgstr "網站首頁"
+
+#: views/admin/popup.php:255
+msgid "Customize Pop-ups for product pages!"
+msgstr "自訂商品頁面的彈出式視窗"
+
+#: views/admin/popup.php:251
+msgid "Chat view for all your channels!"
+msgstr "全部聯絡管道的交談檢視"
+
+#: views/admin/first-popup.php:64 views/admin/popup.php:242
+msgid "30 days refund"
+msgstr "30 天內退款"
+
+#: views/admin/first-popup.php:63 views/admin/popup.php:241
+msgid "Cancel anytime. No strings attached"
+msgstr "隨時可以取消，沒有任何附加條件"
+
+#: views/admin/popup.php:161
+msgid "Save & Show on my site"
+msgstr "儲存並顯示在這個網站上"
+
+#: views/admin/popup.php:160
+msgid "Just save and keep it off"
+msgstr "僅儲存並保持關閉"
+
+#: views/admin/popup.php:156
+msgid "Chaty is currently turned off, would you like to save and show it on your site?"
+msgstr "Chaty 目前已關閉，是否要儲存並顯示在這個網站上？"
+
+#: views/admin/popup.php:153
+msgid "Chaty is currently off"
+msgstr "Chaty 目前已關閉"
+
+#: views/admin/popup.php:136
+msgid "Select Trigger"
+msgstr "選取觸發程序"
+
+#: views/admin/popup.php:131
+msgid "Please select a trigger before publishing your widget"
+msgstr "在發佈小工具前，請選取至少一個觸發程序。"
+
+#: views/admin/popup.php:128
+msgid "No trigger was selected"
+msgstr "尚未選取任何觸發程序"
+
+#: views/admin/popup.php:111
+msgid "Select Device"
+msgstr "選取裝置"
+
+#: views/admin/popup.php:106
+msgid "Please select mobile/desktop before publishing your widget"
+msgstr "在發佈小工具前，請選取行動/桌面裝置。"
+
+#: views/admin/popup.php:103
+msgid "No device was selected"
+msgstr "尚未選取任何裝置"
+
+#: views/admin/popup.php:85
+msgid "Fill channel details"
+msgstr "填寫聯絡管道詳細資料"
+
+#: views/admin/popup.php:80
+msgid "You need to fill out at least one channel details for Chaty to show up on your website"
+msgstr "必須填寫至少一個聯絡管道的詳細資料，Chaty 的功能才能顯示在這個網站上。"
+
+#: views/admin/popup.php:77
+msgid "Fill out at least one channel details"
+msgstr "請填寫至少一個聯絡管道的詳細資料"
+
+#: views/admin/popup.php:57
+msgid "Select Channel"
+msgstr "選取聯絡管道"
+
+#: views/admin/popup.php:32
+msgid "Change Number"
+msgstr "變更數量"
+
+#: views/admin/popup.php:31 views/admin/popup.php:58 views/admin/popup.php:84
+#: views/admin/popup.php:110 views/admin/popup.php:135
+msgid "Save Anyway"
+msgstr "直接儲存"
+
+#: views/admin/popup.php:27 views/admin/popup.php:53
+msgid "Please select at least one chat channel before publishing your widget"
+msgstr "在發佈小工具前，請選取至少一個聯絡管道。"
+
+#: views/admin/popup.php:24 views/admin/popup.php:50
+msgid "No channel was selected"
+msgstr "沒有選取任何聯絡管道"
+
+#: views/admin/help.php:29
+msgid "Or"
+msgstr "或"
+
+#: views/admin/dashboard.php:382
+msgid "Widget name is required"
+msgstr "[小工具名稱] 欄位為必填欄位"
+
+#: views/admin/dashboard.php:281
+msgid "Delete Widget"
+msgstr "刪除小工具"
+
+#: views/admin/dashboard.php:276
+msgid "Are you sure you want to delete this widget?"
+msgstr "確定要刪除這個小工具？"
+
+#: views/admin/dashboard.php:273
+msgid "Delete Widget?"
+msgstr "刪除小工具"
+
+#: views/admin/dashboard.php:243
+msgid "Enter new name for widget"
+msgstr "輸入小工具名稱"
+
+#: views/admin/dashboard.php:239 views/admin/dashboard.php:254
+msgid "Rename Widget"
+msgstr "重新命名小工具"
+
+#: views/admin/dashboard.php:209
+msgid "Please select a name for your new duplicate widget"
+msgstr "請選取要進行再製的小工具名稱"
+
+#: views/admin/dashboard.php:206
+msgid "Duplicate Widget?"
+msgstr "是否要再製這個小工具？"
+
+#: views/admin/dashboard.php:129
+msgid "Rename"
+msgstr "重新命名"
+
+#: views/admin/dashboard.php:125
+msgid "Duplicate"
+msgstr "再製"
+
+#: views/admin/dashboard.php:112
+msgid "Edit"
+msgstr "編輯"
+
+#: views/admin/customize-widget-section.php:636
+msgid "Font Family"
+msgstr "字型系列"
+
+#: views/admin/customize-widget-section.php:582
+msgid "When the default state is set to \"Opened by default\", the \"Pending messages\" feature doesn't apply because the Chaty widget is already open."
+msgstr "如果 [預設狀態] 設定為 [預設開啟視窗]，由於 Chaty 小工具已開啟，因此無法使用 [待處理的訊息] 功能。"
+
+#: views/admin/customize-widget-section.php:572
+msgid "Increase your click-rate by displaying a pending messages icon near your Chaty widget to let your visitors know that you\"re waiting for them to contact you."
+msgstr "在 Chaty 小工具上顯示待處理的訊息圖示，會增加小工具的點擊率，因為這會讓網站訪客知道站方正在等待訪客的聯絡。"
+
+#: views/admin/customize-widget-section.php:533
+msgid "The attention effect will appear on your site until your website visitors engage with the widget for the first time. After the first engagement, the attention effect will not appear again."
+msgstr "在網站訪客首次與小工具互動前，提示效果會不斷顯示。完成首次互動後，提示效果便不會再次顯示。"
+
+#: views/admin/customize-widget-section.php:430
+#: views/admin/customize-widget-section.php:443
+#: views/admin/customize-widget-section.php:543
+msgid "When the default state is set to \"Opened by default\", the \"Attention effect\" feature doesn't apply because the Chaty widget is already open."
+msgstr "如果 [預設狀態] 設定為 [預設開啟視窗]，由於 Chaty 小工具已開啟，因此無法使用 [提示效果] 功能。"
+
+#: views/admin/customize-widget-section.php:405
+#: views/admin/customize-widget-section.php:411
+msgid "When the default state is set to \"Opened by default\", the \"Show call to action\" feature doesn't apply because the Chaty widget is already open."
+msgstr "如果 [預設狀態] 設定為 [預設開啟視窗]，由於 Chaty 小工具已開啟，因此無法使用 [顯示行動號召] 功能。"
+
+#: views/admin/customize-widget-section.php:390
+msgid "Choose how the CTA button would appear. &quot;Hide after first click&quot; hides the CTA button after the first visit. If you select the second option, the CTA stays visible all the time"
+msgstr "請選取行動號召按鈕的顯示方式。選取 [首次點擊後隱藏] 後，使用者首次點擊瀏覽行動號召後，便會隱藏行動號召按鈕；如果選取 [永遠顯示]，便會持續顯示行動號召按鈕。"
+
+#: views/admin/customize-widget-section.php:378
+msgid "When the default state is set to \"Opened by default\", the \"Call to action\" feature doesn't apply because the Chaty widget is already open."
+msgstr "如果 [預設狀態] 設定為 [預設開啟視窗]，由於 Chaty 小工具已開啟，因此無法使用 [行動號召] 功能。"
+
+#: views/admin/customize-widget-section.php:368
+msgid "Custom widget size"
+msgstr "自訂小工具尺寸"
+
+#: views/admin/customize-widget-section.php:356
+msgid "XXL"
+msgstr "超特大型"
+
+#: views/admin/customize-widget-section.php:352
+msgid "XL"
+msgstr "超大型"
+
+#: views/admin/customize-widget-section.php:348
+msgid "L"
+msgstr "大型"
+
+#: views/admin/customize-widget-section.php:344
+msgid "M"
+msgstr "中型"
+
+#: views/admin/customize-widget-section.php:340
+msgid "S"
+msgstr "小型"
+
+#: views/admin/customize-widget-section.php:318
+msgid "Widget size"
+msgstr "小工具尺寸"
+
+#: views/admin/customize-widget-section.php:228
+msgid "Widget icon color"
+msgstr "小工具圖示色彩"
+
+#: views/admin/customize-widget-section.php:196
+msgid "Opened by default"
+msgstr "預設開啟視窗"
+
+#: views/admin/customize-widget-section.php:195
+msgid "Hover to open"
+msgstr "游標暫留開啟視窗"
+
+#: views/admin/customize-widget-section.php:194
+msgid "Click to open"
+msgstr "點擊開啟視窗"
+
+#: views/admin/customize-widget-section.php:152
+msgid "Position"
+msgstr "小工具位置"
+
+#: views/admin/customize-widget-section.php:68
+msgid "Widget icon"
+msgstr "小工具圖示"
+
+#: views/admin/customize-widget-section.php:60
+msgid "Chat view (Pro)"
+msgstr "交談檢視 (Pro)"
+
+#: views/admin/customize-widget-section.php:46
+msgid "Simple view"
+msgstr "簡易檢視"
+
+#: views/admin/customize-widget-section.php:25
+msgid "Choose between two types of pop-up designs, set pop-up text, color and set a custom behavior of the widget based on visitor interaction."
+msgstr "在 2 種彈出式視窗設計中擇一使用，並依據網站訪客戶互動設定小工具的彈出式視窗文字、色彩及自訂行為。"
+
+#: views/admin/customize-widget-section.php:23
+msgid "Popup Message Design and Behavior"
+msgstr "彈出式訊息設計及行為"
+
+#: views/admin/contact-form-feed.php:365
+msgid "Are you sure you want to delete all Record from the database?"
+msgstr "確定要從資料庫中刪除全部記錄？"
+
+#: views/admin/contact-form-feed.php:355
+msgid "Are you sure you want to delete selected records?"
+msgstr "確定要刪除選取的記錄？"
+
+#: views/admin/contact-form-feed.php:340
+msgid "Are you sure you want to delete Record with ID# "
+msgstr "確定要刪除指定 ID 的記錄？目前 ID: "
+
+#: views/admin/contact-form-feed.php:304
+msgid "Download & Export to CSV"
+msgstr "下載並匯出成 CSV"
+
+#: views/admin/contact-form-feed.php:177
+msgid "Search"
+msgstr "搜尋"
+
+#: views/admin/contact-form-feed.php:170
+msgid "Search:"
+msgstr "搜尋:"
+
+#: views/admin/contact-form-feed.php:163
+msgid "Apply"
+msgstr "套用"
+
+#: views/admin/contact-form-feed.php:29
+msgid "Custom Date"
+msgstr "自訂日期"
+
+#: views/admin/contact-form-feed.php:28
+msgid "All Time"
+msgstr "開始至今"
+
+#: views/admin/contact-form-feed.php:27
+msgid "This Month"
+msgstr "本月"
+
+#: views/admin/contact-form-feed.php:26
+msgid "This Week"
+msgstr "本週"
+
+#: views/admin/contact-form-feed.php:25
+msgid "Last 30 Days"
+msgstr "最近 30 天"
+
+#: views/admin/contact-form-feed.php:24
+msgid "Last 7 Days"
+msgstr "最近 7 天"
+
+#: views/admin/contact-form-feed.php:23
+msgid "Yesterday"
+msgstr "昨天"
+
+#: views/admin/contact-form-feed.php:22
+msgid "Today"
+msgstr "今天"
+
+#: views/admin/channel.php:1223
+msgid "Use Whatsapp Web directly on desktop"
+msgstr "在桌面裝置上直接使用 WhatsApp 網頁版"
+
+#: views/admin/channel.php:1205
+msgid "Whatsapp Web"
+msgstr "WhatsApp 網頁版"
+
+#: views/admin/channel.php:1194
+msgid "Company"
+msgstr "公司"
+
+#: views/admin/channel.php:1188
+msgid "Personal"
+msgstr "個人"
+
+#: views/admin/channel.php:1183
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/admin/channel.php:1169
+msgid "Open In a New Tab"
+msgstr "在新分頁中開啟"
+
+#: views/admin/channel.php:1148
+msgid "Upload QR Code"
+msgstr "上傳 QR 圖碼"
+
+#: views/admin/channel.php:1082
+msgid "Mail Subject"
+msgstr "電子郵件主旨"
+
+#: views/admin/channel.php:1025 views/admin/channel.php:1055
+msgid "Pre Set Message"
+msgstr "預設訊息"
+
+#: views/admin/channel.php:937
+msgid "Email subject"
+msgstr "電子郵件主旨"
+
+#: views/admin/channel.php:930
+msgid "Sender's name"
+msgstr "寄件者名稱"
+
+#: views/admin/channel.php:526
+msgid "Required?"
+msgstr "必填欄位"
+
+#: views/admin/channel.php:320
+msgid "Welcome message"
+msgstr "歡迎訊息"
+
+#: views/admin/admin.php:168
+msgid "Step 3:"
+msgstr "步驟 3:"
+
+#: views/admin/admin.php:158
+msgid "Step 2:"
+msgstr "步驟 2:"
+
+#: views/admin/admin.php:148
+msgid "Step 1:"
+msgstr "步驟 1:"
+
+#: views/admin/admin.php:120
+msgid "Save Widget"
+msgstr "儲存小工具"
+
+#: views/admin/channel.php:869
+msgid "Close after(Seconds)"
+msgstr "聯絡表單關閉延遲時間 (秒)"
+
+#: views/admin/channel.php:855
+msgid "Close the form automatically after a few seconds based on your choice"
+msgstr "依據設定的秒數自動關閉聯絡表單。"
+
+#: views/admin/channel.php:854
+msgid "Close form automatically after submission"
+msgstr "傳送後自動關閉聯絡表單"
+
+#: views/admin/channel.php:843
+msgid "Open in a new tab"
+msgstr "在新分頁中開啟"
+
+#: views/admin/channel.php:832
+msgid "Redirect link"
+msgstr "重新導向連結"
+
+#: views/admin/channel.php:826
+msgid "Redirect visitors after submission"
+msgstr "傳送後將網站訪客重新導向"
+
+#: views/admin/channel.php:814
+msgid "Thank you message"
+msgstr "感謝訊息"
+
+#: views/admin/channel.php:807
+msgid "Button text"
+msgstr "按鈕文字"
+
+#: views/admin/channel.php:788
+msgid "Text color"
+msgstr "文字色彩"
+
+#: views/admin/channel.php:762
+msgid "Contact Form Title"
+msgstr "聯絡表單標題"
+
+#: views/admin/channel.php:738
+msgid "On Hover Text"
+msgstr "游標暫留文字"
+
+#: views/admin/channel.php:722
+msgid "Custom channel"
+msgstr "自訂聯絡管道"
+
+#: views/admin/channel.php:718
+msgid "Channel type"
+msgstr "聯絡管道類型"
+
+#: views/admin/channel.php:698
+msgid "Change Icon"
+msgstr "變更圖示"
+
+#: views/admin/channel.php:689
+msgid "Custom Image"
+msgstr "自訂圖片"
+
+#: views/admin/channel.php:681
+msgid "Icon Appearance"
+msgstr "圖示外觀"
+
+#: views/admin/channel.php:589
+msgid "Show on mobile"
+msgstr "在行動裝置上顯示"
+
+#: views/admin/channel.php:588
+msgid "Hide on mobile"
+msgstr "在行動裝置上隱藏"
+
+#: views/admin/trigger-and-target.php:112
+msgid "Display when visitor is about to leave the page"
+msgstr "網站訪客即將離開頁面時顯示"
+
+#: views/admin/help.php:30
+msgid "Visit our Help Center >>"
+msgstr "造訪線上說明中心 >>"
+
+#: views/admin/dashboard.php:184 views/admin/dashboard.php:218
+msgid "Create Widget"
+msgstr "建立小工具"
+
+#: views/admin/customize-widget-section.php:523
+msgid "Horizontal"
+msgstr "水平排列"
+
+#: views/admin/customize-widget-section.php:518
+msgid "Vertical"
+msgstr "垂直排列"
+
+#: views/admin/contact-form-feed.php:320
+msgid "Your contact form leads will appear here once you get some leads. Please make sure you've added the contact form channel to your Chaty channels in order to collect leads"
+msgstr "網站獲得潛在客戶後，聯絡表單的潛在客戶便會顯示在這裡。請將聯絡表單聯絡管道新增至 Chaty 聯絡管道，以便收集潛在客戶。"
+
+#: views/admin/contact-form-feed.php:310
+msgid "No records are found"
+msgstr "找不到符合條件的記錄。"
+
+#: views/admin/contact-form-feed.php:160
+msgid "Bulk Actions"
+msgstr "批次操作"
+
+#: views/admin/contact-form-feed.php:150
+msgid "Contact Form Leads"
+msgstr "聯絡表單潛在客戶"
+
+#: views/admin/chaty_widget.php:48
+msgid "for different pages on your website or separate call-to-action messages for mobile and desktop"
+msgstr "針對網站不同頁面顯示不同的行動號召訊息，或針對行動裝置或桌面裝置顯示不同的行動號召訊息。"
+
+#: views/admin/chaty_widget.php:47
+msgid "Display different call-to-action messages"
+msgstr "顯示不同的行動號召訊息"
+
+#: views/admin/chaty_widget.php:43
+msgid "and a different widget on your sales pages."
+msgstr "在銷售頁面顯示支援頁面、聯絡頁面及不同小工具。"
+
+#: views/admin/chaty_widget.php:42
+msgid "Show one widget on your support and contact pages"
+msgstr "在網站的不同頁面顯示小工具"
+
+#: views/admin/chaty_widget.php:38
+msgid "This way you can track the results better and have the right person assign to the relevant channel."
+msgstr "這項功能提供更好的追蹤方式，還能將合適的代理人指派至相關聯絡管道。"
+
+#: views/admin/chaty_widget.php:37
+msgid "Display different channels for your landing pages"
+msgstr "依據不同到達網頁顯示不同聯絡管道"
+
+#: views/admin/chaty_widget.php:33
+msgid "On your website (e.g. you can show the Facebook Messenger channel for products in the yourdomain.com/high-end/* category)"
+msgstr "舉例來說，為網站上在 yourdomain.com/high-end/* 分類中的商品顯示 Facebook Messenger 聯絡管道。"
+
+#: views/admin/chaty_widget.php:32
+msgid "Show separate widgets for different products"
+msgstr "依據不同商品顯示不同小工具"
+
+#: views/admin/chaty_widget.php:28
+msgid "You can show different form and buttons based on URL (E.g. WhatsApp message to a French number and call your French phone number)"
+msgstr "網站管理員可以依據不同的網址顯示不同的聯絡表單或聯絡按鈕。舉例來說，使用 WhatsApp 與法國電話號碼聯絡或撥打法國電話號碼。"
+
+#: views/admin/chaty_widget.php:23
+msgid "E.g. the mobile version can have a bigger widget, in a different color and a different position"
+msgstr "舉例來說，在行動裝置上採用較大型的小工具，並使用不同色彩及放置於不同位置。"
+
+#: views/admin/chaty_widget.php:22 views/admin/chaty_widget.php:27
+msgid "Create separate designs for desktop and mobile"
+msgstr "針對桌面裝置及行動裝置採用不同設計"
+
+#: views/admin/channels-section.php:102
+msgid "So many channels to choose from..."
+msgstr "這裡有多個聯絡管道可供選擇使用..."
+
+#: views/admin/channels-section.php:80
+msgid "Custom Channel"
+msgstr "自訂聯絡管道"
+
+#: views/admin/channel.php:903
+msgid "Send leads to your email"
+msgstr "將潛在客戶傳送至指定電子郵件地址"
+
+#: admin/class-social-icons.php:357
+msgid "Microsoft Teams"
+msgstr "Microsoft Teams"
+
+#: admin/class-social-icons.php:349
+msgid "Discord"
+msgstr "Discord"
+
+#: views/admin/update.php:51
+msgid "You can remove yourself from the list whenever you want, no strings attached"
+msgstr "之後隨時可以依據需求從清單中移除，沒有任何附帶條件"
+
+#: views/admin/update.php:48
+msgid "No, I will do it later"
+msgstr "否，稍後再決定"
+
+#: views/admin/update.php:40
+msgid "Sign Up"
+msgstr "註冊"
+
+#: views/admin/update.php:26
+msgid "Be among the first to know about our latest features & what we’re working on. Plus insider offer & flash sales"
+msgstr "在第一時間獲得最新功能及開發藍圖，以及專屬優惠及限時優惠"
+
+#: views/admin/update.php:25
+msgid "Be the first to know product updates, tips & discounts"
+msgstr "第一時間獲得產品更新、使用提示及優惠的相關訊息"
+
+#: views/admin/update.php:22
+msgid "Grow your WordPress or Shopify websites with our plugins"
+msgstr "使用我們開發的外掛協助 WordPress 或 Shopify 網站成長"
+
+#: views/admin/popup.php:175
+msgid "👑 Multiple Agents is a Premium Feature"
+msgstr "👑 [多位代理人] 是付費方案功能"
+
+#: views/admin/first-popup.php:85
+msgid "Congratulations"
+msgstr "太好了"
+
+#: views/admin/chaty-popup.php:27
+msgid "Help Center"
+msgstr "線上說明中心"
+
+#: views/admin/dashboard.php:182
+msgid "Create widgets for WhatsApp, Facebook Messenger, Telegram & 20+ more channels. Adding a new Chaty widget takes a minute - start now  🚀"
+msgstr "建立 WhatsApp、Facebook Messenger、Telegram 等超過 20 種聯絡管道小工具。新增 Chaty 小工具僅需極短時間，立即開始新增小工具吧... 🚀"
+
+#: views/admin/customize-widget-section.php:414
+msgid "Show all the time"
+msgstr "永遠顯示"
+
+#: views/admin/customize-widget-section.php:408
+msgid "Hide after first click"
+msgstr "首次點擊後隱藏"
+
+#: views/admin/customize-widget-section.php:388
+msgid "Call to action behavior"
+msgstr "行動號召行為"
+
+#: views/admin/channel.php:603 views/admin/channel.php:629
+msgid "Add Agents"
+msgstr "新增代理人"
+
+#: views/admin/channel.php:574
+msgid "Show on desktop"
+msgstr "在桌面裝置上顯示"
+
+#: views/admin/channel.php:573
+msgid "Hide on desktop"
+msgstr "在桌面裝置上隱藏"
+
+#: views/admin/admin.php:131
+msgid "Save & View Dashboard"
+msgstr "儲存並檢視 [控制台]"
+
+#: views/admin/admin.php:106
+msgid "Next"
+msgstr "下一步"
+
+#: includes/class-upgrade-box.php:285
+msgid "Remind me in 30 days"
+msgstr "30 天後提醒我"
+
+#: includes/class-upgrade-box.php:284
+msgid "Remind me in 7 days "
+msgstr "7 天後提醒我"
+
+#: includes/class-upgrade-box.php:282
+msgid "Would you like us to remind you about this later? "
+msgstr "需要之後再提醒嗎？"
+
+#: includes/class-upgrade-box.php:272
+msgid "Upgrade now"
+msgstr "立即升級"
+
+#: includes/class-upgrade-box.php:270
+msgid "Upgrade to "
+msgstr "升級至 "
+
+#: includes/class-upgrade-box.php:270
+msgid "%1$s for more customization, option to add agents, widget analytics with more triggers & targeting rules"
+msgstr "%1$s 便能取得更多自訂選項、新增代理人及使用觸發程序及目標對象規則分析小工具。"
+
+#: includes/class-review-box.php:559 includes/class-upgrade-box.php:286
+msgid "Don't remind me about this "
+msgstr "別再提醒我"
+
+#: includes/class-review-box.php:558
+msgid "Remind me in 10 days "
+msgstr "10 天後提醒我"
+
+#: includes/class-review-box.php:557
+msgid "Remind me in 3 days "
+msgstr "3 天後提醒我"
+
+#: includes/class-review-box.php:553
+msgid "Would you like us to remind you about this later?"
+msgstr "需要之後再提醒嗎？"
+
+#: includes/class-review-box.php:541
+msgid "Premio team "
+msgstr "Premio 團隊"
+
+#: includes/class-review-box.php:540
+msgid "Thanks for your support, we really appreciate it!"
+msgstr "感謝你的支持，我們非常感謝。"
+
+#: includes/class-review-box.php:539
+msgid "You are awesome "
+msgstr "好極了 "
+
+#: includes/class-review-box.php:514
+msgid "Hi there, it seems like %1$s is bringing you some value, and that's pretty awesome! Can you please show us some love and rate %2$s on WordPress? It'll only take 2 minutes of your time, and will really help us spread the word"
+msgstr "你好，相信 %1$s 已為網站帶來若干助益，這實在太好了。你是否能撥空在 WordPress 上展現對 %2$s 的支持並撰寫評論？這大約只需要 2 分鐘時間，但是對我們宣傳外掛會大有幫助。"
+
+#: includes/class-affiliate.php:219
+msgid "Don't remind me about this"
+msgstr "別再提醒我"
+
+#: includes/class-affiliate.php:218
+msgid "Remind me in 10 days"
+msgstr "10 天後提醒我"
+
+#: includes/class-affiliate.php:217
+msgid "Remind me in 3 days"
+msgstr "3 天後提醒我"
+
+#: includes/class-affiliate.php:215
+msgid "Would you like us to remind  you about this later?"
+msgstr "需要之後再提醒嗎？"
+
+#: includes/class-affiliate.php:210
+msgid "Tell me more"
+msgstr "進一步了解"
+
+#: includes/class-affiliate.php:207
+msgid "Dismiss"
+msgstr "關閉"
+
+#: includes/class-affiliate.php:206
+msgid "Hi there, you've been using %1$s for a while now. Do you know that %2$s has an affiliate program? Join now and get %3$s"
+msgstr "你好，這個網站使用 %1$s 已有一段時間。%2$s 提供聯盟行銷計畫，立即加入並取得 %3$s"
+
+#: views/admin/help.php:78
+msgid "There is some problem in sending request. Please send us mail on %1$s"
+msgstr "傳送要求時發生問題。請將電子郵件傳送至 %1$s。"
+
+#: admin/class-social-icons.php:284
+msgid "@TikTok_username"
+msgstr "@TikTok 使用者名稱"
+
+#: views/admin/trigger-and-target.php:212
+#: views/admin/trigger-and-target.php:310
+#: views/admin/trigger-and-target.php:373
+#: views/admin/trigger-and-target.php:399
+#: views/admin/trigger-and-target.php:553
+#: views/admin/trigger-and-target.php:589
+msgid "Add Rule"
+msgstr "新增規則"
+
+#: views/admin/trigger-and-target.php:213
+#: views/admin/trigger-and-target.php:307
+#: views/admin/trigger-and-target.php:374
+#: views/admin/trigger-and-target.php:554
+#: views/admin/trigger-and-target.php:590
+msgid "Remove Rules"
+msgstr "移除規則"
+
+#: views/admin/trigger-and-target.php:295
+msgid "End Time"
+msgstr "結束時間"
+
+#: views/admin/trigger-and-target.php:279
+msgid "End Date"
+msgstr "結束日期"
+
+#: views/admin/trigger-and-target.php:281
+msgid "Schedule a date from which the Chaty widget will stop being displayed (the end date is included)"
+msgstr "排程顯示 Chaty 小工具的結束日期 (包含結束日期)。"
+
+#: views/admin/trigger-and-target.php:271
+msgid "Start Time"
+msgstr "開始時間"
+
+#: views/admin/trigger-and-target.php:256
+msgid "Start Date"
+msgstr "開始日期"
+
+#: views/admin/trigger-and-target.php:258
+msgid "Schedule a date from which the Chaty widget will be displayed (the starting date is included)"
+msgstr "排程顯示 Chaty 小工具的開始日期 (包含開始日期)。"
+
+#: views/admin/trigger-and-target.php:247
+msgid "Timezone"
+msgstr "時區"
+
+#: views/admin/trigger-and-target.php:220
+msgid "Date scheduling"
+msgstr "日期排程"
+
+#: views/admin/trigger-and-target.php:222
+msgid "Schedule the specific time and date when your Chaty widget appears."
+msgstr "啟用這項功能後，便能在排程的指定日期/時間顯示小工具。"
+
+#: views/admin/dashboard.php:87
+msgid "Actions"
+msgstr "可用操作"
+
+#: views/admin/dashboard.php:85 views/admin/dashboard.php:102
+#: views/admin/dashboard.php:104
+msgid "Created On"
+msgstr "建立日期"
+
+#: views/admin/dashboard.php:83 views/admin/dashboard.php:99
+msgid "Widget name"
+msgstr "小工具名稱"
+
+#: views/admin/dashboard.php:82
+msgid "Status"
+msgstr "狀態"
+
+#: admin/class-admin-base.php:645 admin/class-admin-base.php:646
+msgid "Dashboard"
+msgstr "控制台"
+
+#: views/admin/customize-widget-section.php:170
+msgid "Custom Position"
+msgstr "自訂位置"
+
+#: views/admin/contact-form-feed.php:161 views/admin/contact-form-feed.php:203
+#: views/admin/dashboard.php:140
+msgid "Delete"
+msgstr "刪除"
+
+#: views/admin/contact-form-feed.php:202 views/admin/contact-form-feed.php:260
+msgid "URL"
+msgstr "網址"
+
+#: admin/class-admin-base.php:1104 views/admin/contact-form-feed.php:201
+#: views/admin/contact-form-feed.php:257
+msgid "Date"
+msgstr "填寫日期"
+
+#: admin/class-admin-base.php:1103 includes/class-frontend.php:1214
+#: views/admin/channel.php:473 views/admin/contact-form-feed.php:199
+#: views/admin/contact-form-feed.php:243
+msgid "Message"
+msgstr "訊息"
+
+#: admin/class-admin-base.php:1100 includes/class-frontend.php:1180
+#: views/admin/channel.php:452 views/admin/channels-section.php:43
+#: views/admin/contact-form-feed.php:196 views/admin/contact-form-feed.php:234
+msgid "Name"
+msgstr "名稱"
+
+#: views/admin/contact-form-feed.php:195 views/admin/contact-form-feed.php:231
+msgid "Widget Name"
+msgstr "小工具名稱"
+
+#: views/admin/contact-form-feed.php:194 views/admin/contact-form-feed.php:228
+msgid "ID"
+msgstr "ID"
+
+#: views/admin/contact-form-feed.php:193
+msgid "Bulk"
+msgstr "批次選取"
+
+#: views/admin/channel.php:764
+msgid "Contact Us"
+msgstr "聯絡我們"
+
+#: views/admin/channel.php:324
+msgid "How can I help you? :)"
+msgstr "你好！有什麼需要協助的地方，請跟我說。:)"
+
+#: admin/class-admin-base.php:706 admin/class-admin-base.php:707
+msgid "Contact form leads"
+msgstr "聯絡表單潛在客戶"
+
+#: views/admin/recommended-plugins.php:476
+msgid "If you hide the recommended plugins page from your menu, it won't appear there again. Are you sure you'd like to do it?"
+msgstr "如果隱藏從外掛選單中隱藏 [建議安裝的外掛] 選單項目，[建議安裝的外掛] 選單項目便不會再次出現。確定要繼續操作嗎？"
+
+#: views/admin/recommended-plugins.php:475
+msgid "Are you sure?"
+msgstr "確定要繼續操作嗎？"
+
+#: views/admin/install-chatway.php:353 views/admin/recommended-plugins.php:460
+msgid "Untested with your version of WordPress"
+msgstr "尚未與這個網站的 WordPress 版本進行相容性測試"
+
+#. translators: %s: Number of installations.
+#: views/admin/install-chatway.php:347 views/admin/recommended-plugins.php:454
+msgid "%s Active Installations"
+msgstr "啟用安裝數: %s"
+
+#. translators: %s: Number of millions.
+#: views/admin/install-chatway.php:337 views/admin/recommended-plugins.php:444
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "超過 %s 百萬"
+
+#. translators: %s: Human-readable time difference.
+#: views/admin/install-chatway.php:328 views/admin/recommended-plugins.php:435
+msgid "%s ago"
+msgstr "%s前"
+
+#: views/admin/install-chatway.php:325 views/admin/recommended-plugins.php:432
+msgid "Last Updated:"
+msgstr "最後更新:"
+
+#: views/admin/install-chatway.php:276 views/admin/recommended-plugins.php:383
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr "這個外掛無法執行於目前版本的 PHP 執行環境。"
+
+#: views/admin/install-chatway.php:267 views/admin/recommended-plugins.php:374
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr "這個外掛無法執行於目前版本的 WordPress。"
+
+#. translators: %s: URL to Update PHP page.
+#: views/admin/install-chatway.php:261 views/admin/install-chatway.php:280
+#: views/admin/recommended-plugins.php:368
+#: views/admin/recommended-plugins.php:387
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">進一步了解更新 PHP 執行環境</a>。"
+
+#. translators: %s: URL to WordPress Updates screen.
+#: views/admin/install-chatway.php:255 views/admin/install-chatway.php:271
+#: views/admin/recommended-plugins.php:362
+#: views/admin/recommended-plugins.php:378
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr "<a href=\"%s\">請更新 WordPress</a>。"
+
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+#: views/admin/install-chatway.php:247 views/admin/recommended-plugins.php:354
+msgid "<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
+msgstr "<a href=\"%1$s\">請更新 WordPress</a>，然後<a href=\"%2$s\" target=\"_blank\">進一步了解更新 PHP 執行環境</a>。"
+
+#: views/admin/install-chatway.php:243 views/admin/recommended-plugins.php:350
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr "這個外掛無法執行於目前版本的 WordPress 及 PHP 執行環境。"
+
+#: views/admin/install-chatway.php:213 views/admin/recommended-plugins.php:320
+msgid "More Details"
+msgstr "更多詳細資料"
+
+#. translators: %s: Plugin name and version.
+#: views/admin/install-chatway.php:211 views/admin/recommended-plugins.php:318
+msgid "More information about %s"
+msgstr "進一步了解 %s 的相關資訊"
+
+#: views/admin/install-chatway.php:181 views/admin/recommended-plugins.php:288
+msgid "Network Activate"
+msgstr "於多站網路中啟用"
+
+#: views/admin/install-chatway.php:168 views/admin/recommended-plugins.php:275
+msgid "Activate"
+msgstr "啟用"
+
+#: views/admin/install-chatway.php:149 views/admin/recommended-plugins.php:256
+msgid "Update Now"
+msgstr "立即更新"
+
+#: views/admin/install-chatway.php:127 views/admin/recommended-plugins.php:234
+msgid "Install Now"
+msgstr "立即安裝"
+
+#. translators: %s: Plugin author.
+#: views/admin/install-chatway.php:101 views/admin/recommended-plugins.php:208
+msgid "By %s"
+msgstr "開發者: %s"
+
+#: views/admin/recommended-plugins.php:161
+msgid "Hide From Menu"
+msgstr "隱藏 [建議安裝的外掛]"
+
+#: views/admin/recommended-plugins.php:160
+msgid "Try out our recommended plugins"
+msgstr "不妨試試我們建議安裝的外掛"
+
+#: views/admin/customize-widget-section.php:442
+msgid "Call to action background"
+msgstr "行動號召背景色彩"
+
+#: views/admin/customize-widget-section.php:429
+msgid "Call to action text color"
+msgstr "行動號召文字色彩"
+
+#: admin/class-admin-base.php:731 admin/class-admin-base.php:732
+msgid "Recommended Plugins"
+msgstr "建議安裝的外掛"
+
+#: admin/class-social-icons.php:275
+msgid "Username"
+msgstr "使用者名稱"
+
+#: views/admin/channel.php:799 views/admin/customize-widget-section.php:627
+msgid "Background color"
+msgstr "背景色彩"
+
+#: views/admin/customize-widget-section.php:615
+msgid "Number color"
+msgstr "數量色彩"
+
+#: views/admin/customize-widget-section.php:603
+msgid "Number of messages"
+msgstr "訊息數量"
+
+#: views/admin/customize-widget-section.php:571
+msgid "Pending messages"
+msgstr "待處理的訊息"
+
+#: views/admin/chaty_widget.php:18
+msgid "Create a new Chaty widgets for your website. What can you use it for?"
+msgstr "為這個網站建立針對以下目的的全新小工具"
+
+#: admin/class-social-icons.php:331
+msgid "Slack"
+msgstr "Slack"
+
+#: admin/class-admin-base.php:692 admin/class-admin-base.php:693
+#: views/admin/upgrade.php:167
+msgid "Widget Analytics"
+msgstr "小工具分析"
+
+#: views/admin/dashboard.php:68
+msgid "Create New Widget"
+msgstr "建立小工具"
+
+#: views/admin/customize-widget-section.php:509
+msgid "Icons view"
+msgstr "圖示檢視"
+
+#: views/admin/customize-widget-section.php:382
+msgid "Message us!"
+msgstr "聯絡我們"
+
+#: admin/class-social-icons.php:197
+msgid "Enter a poptin link"
+msgstr "輸入 Poptin 連結"
+
+#: admin/class-social-icons.php:302
+msgid "Enter a waze link"
+msgstr "輸入 Waze 連結"
+
+#: admin/class-social-icons.php:322
+msgid "Link Vkontakte"
+msgstr "Vkontakte 使用者名稱"
+
+#: admin/class-social-icons.php:312
+msgid "My-Name-512b1413b"
+msgstr "My-Name-512b1413b"
+
+#: admin/class-social-icons.php:365 admin/class-social-icons.php:387
+#: admin/class-social-icons.php:409 admin/class-social-icons.php:431
+#: admin/class-social-icons.php:453
+msgid "Link"
+msgstr "連結"
+
+#: admin/class-social-icons.php:235
+msgid "Maps link"
+msgstr "地圖連結"
+
+#: admin/class-social-icons.php:256
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/class-social-icons.php:208 admin/class-social-icons.php:224
+#: admin/class-social-icons.php:264
+msgid "User Name"
+msgstr "使用者名稱"
+
+#: admin/class-social-icons.php:158
+msgid "InstagramUsername"
+msgstr "Instagram 使用者名稱"
+
+#: admin/class-social-icons.php:122
+msgid "https://m.me/Coca-Cola/"
+msgstr "https://m.me/Coca-Cola/"
+
+#: admin/class-admin-base.php:1102 admin/class-social-icons.php:109
+#: admin/class-social-icons.php:132 admin/class-social-icons.php:177
+#: admin/class-social-icons.php:244 views/admin/contact-form-feed.php:198
+#: views/admin/contact-form-feed.php:240 views/admin/popup.php:290
+msgid "Phone number"
+msgstr "電話號碼"
+
+#: admin/class-social-icons.php:65
+msgid "Pink"
+msgstr "粉紅色"
+
+#: admin/class-social-icons.php:64
+msgid "Yellow"
+msgstr "黃色"
+
+#: admin/class-social-icons.php:63
+msgid "Black"
+msgstr "黑色"
+
+#: admin/class-social-icons.php:62
+msgid "Red"
+msgstr "紅色"
+
+#: admin/class-social-icons.php:61
+msgid "Blue"
+msgstr "藍色"
+
+#: admin/class-social-icons.php:60
+msgid "Green"
+msgstr "綠色"
+
+#: admin/class-admin-base.php:658
+msgid "+ Create New Widget"
+msgstr "建立小工具"
+
+#: admin/class-admin-base.php:657 admin/class-admin-base.php:679
+msgid "Settings Admin"
+msgstr "設定管理"
+
+#: views/admin/channel.php:669
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-admin-base.php:2435
+msgid "Please enter your message"
+msgstr "請輸入訊息"
+
+#: admin/class-admin-base.php:2426
+msgid "%1$s is required"
+msgstr "[%1$s] 為必填欄位。"
+
+#: admin/class-admin-base.php:249
+msgid "Upgrade"
+msgstr "升級"
+
+#: admin/class-admin-base.php:219 admin/class-admin-base.php:224
+#: admin/class-admin-base.php:275 admin/class-admin-base.php:279
+#: admin/class-admin-base.php:284
+msgid "Your request is not valid"
+msgstr "這個要求無效。"
+
+#: views/admin/upgrade.php:566
+msgid "The plugin will always keep working even if you don't renew your license"
+msgstr "即使沒有續訂外掛約期授權，這個外掛仍能持續執行"
+
+#: views/admin/upgrade.php:562
+msgid "30 days money back guaranteed"
+msgstr "30 天無條件退費保證"
+
+#: views/admin/upgrade.php:322 views/admin/upgrade.php:508
+msgid "Agency"
+msgstr "Agency"
+
+#: views/admin/upgrade.php:302 views/admin/upgrade.php:318
+#: views/admin/upgrade.php:335 views/admin/upgrade.php:410
+#: views/admin/upgrade.php:466 views/admin/upgrade.php:521
+msgid "Buy now"
+msgstr "立即購買"
+
+#: views/admin/upgrade.php:57 views/admin/upgrade.php:80
+#: views/admin/upgrade.php:103 views/admin/upgrade.php:126
+#: views/admin/upgrade.php:149
+msgid "Updated and support for lifetime"
+msgstr "永久授權的更新及技術支援"
+
+#: views/admin/upgrade.php:50 views/admin/upgrade.php:73
+#: views/admin/upgrade.php:96 views/admin/upgrade.php:119
+#: views/admin/upgrade.php:142
+msgid "Updated and support for 2 years"
+msgstr "2 年的更新及技術支援"
+
+#: views/admin/upgrade.php:43 views/admin/upgrade.php:66
+#: views/admin/upgrade.php:89 views/admin/upgrade.php:112
+#: views/admin/upgrade.php:135
+msgid "Updated and support for 1 year"
+msgstr "1 年的更新及技術支援"
+
+#: views/admin/upgrade.php:225
+msgid "Unlock all features"
+msgstr "取得全部功能"
+
+#: views/admin/admin.php:103 views/admin/upgrade.php:219
+msgid "Back"
+msgstr "上一步"
+
+#: views/admin/chaty-deactivate-form.php:151 views/admin/dashboard.php:219
+#: views/admin/dashboard.php:253 views/admin/dashboard.php:280
+msgid "Cancel"
+msgstr "取消"
+
+#: views/admin/chaty-deactivate-form.php:145
+msgid "Anonymous feedback"
+msgstr "匿名提供意見反應"
+
+#: views/admin/chaty-deactivate-form.php:140
+msgid "Your comment"
+msgstr "請輸入意見反應"
+
+#: views/admin/channel.php:923 views/admin/chaty-deactivate-form.php:136
+msgid "Email address"
+msgstr "電子郵件地址"
+
+#: views/admin/chaty-deactivate-form.php:134
+msgid "Your feedback will help us improve the product, please tell us why did you decide to deactivate Chaty :)"
+msgstr "你的意見反應會協助我們改進外掛，請告知決定停用 Chaty 的原因 :)"
+
+#: views/admin/chaty-deactivate-form.php:131
+msgid "Quick feedback about Chaty"
+msgstr "Chaty 快速意見反應"
+
+#: views/admin/help.php:72
+msgid "Your message is sent successfully."
+msgstr "訊息已成功傳送。"
+
+#: views/admin/help.php:65
+msgid "Done!"
+msgstr "完成！"
+
+#: views/admin/help.php:48
+msgid "Sending Request..."
+msgstr "正在傳送要求..."
+
+#: admin/class-admin-base.php:248 views/admin/help.php:37
+#: views/admin/help.php:41
+msgid "Need help?"
+msgstr "需要協助？"
+
+#: views/admin/channel.php:805 views/admin/help.php:23 views/admin/help.php:59
+msgid "Chat"
+msgstr "開始交談"
+
+#: views/admin/help.php:20
+msgid "How can I help you?"
+msgstr "你好！有什麼需要協助的地方，請跟我說。:)"
+
+#: admin/class-admin-base.php:1101 admin/class-admin-base.php:2443
+#: includes/class-frontend.php:1192 views/admin/channel.php:459
+#: views/admin/contact-form-feed.php:197 views/admin/contact-form-feed.php:237
+#: views/admin/help.php:17
+msgid "Email"
+msgstr "電子郵件"
+
+#: views/admin/help.php:15
+msgid "Hello! Are you experiencing any problems with Chaty? Please let me know :)"
+msgstr "你好，如果在使用 Chaty 時遇到問題，請與我聯絡 :)"
+
+#: views/admin/customize-widget-section.php:453 views/admin/upgrade.php:207
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: views/admin/customize-widget-section.php:531
+msgid "Attention effect"
+msgstr "提示效果"
+
+#: views/admin/customize-widget-section.php:377
+msgid "Call to action"
+msgstr "行動號召"
+
+#: views/admin/customize-widget-section.php:165
+msgid "Right"
+msgstr "右側"
+
+#: views/admin/customize-widget-section.php:160
+msgid "Left"
+msgstr "左側"
+
+#: admin/class-social-icons.php:59 views/admin/customize-widget-section.php:307
+msgid "Purple"
+msgstr "紫色"
+
+#: views/admin/customize-widget-section.php:304
+#: views/admin/customize-widget-section.php:360
+msgid "Custom"
+msgstr "自訂"
+
+#: views/admin/customize-widget-section.php:279
+msgid "Ok"
+msgstr "確定"
+
+#: views/admin/pro_analytics.php:23 views/admin/pro_analytics.php:49
+msgid "Upgrade to Pro 🚀"
+msgstr "升級至 Chaty Pro 🚀"
+
+#: views/admin/customize-widget-section.php:272
+msgid "Custom color"
+msgstr "自訂色彩"
+
+#: views/admin/admin.php:158
+msgid "Customize your widget"
+msgstr "自訂小工具"
+
+#: views/admin/admin.php:258
+msgid "help"
+msgstr "線上說明"
+
+#: views/admin/admin.php:121 views/admin/admin.php:249
+msgid "Save"
+msgstr "儲存"
+
+#: views/admin/channels-section.php:147
+msgid "On hover Close button text"
+msgstr "[關閉] 按鈕的游標暫留文字。"
+
+#: views/admin/admin.php:148
+msgid "Choose your channels"
+msgstr "選取聯絡管道"
+
+#: views/admin/admin.php:261
+msgid "Preview"
+msgstr "預覽"
+
+#: views/admin/install-chatway.php:165 views/admin/recommended-plugins.php:272
+#: views/admin/trigger-and-target.php:62
+msgid "Active"
+msgstr "啟用"
+
+#: views/admin/customize-widget-section.php:144 views/admin/dashboard.php:71
+msgid "Upgrade Now"
+msgstr "立即升級"
+
+#: admin/class-admin-base.php:744 admin/class-admin-base.php:745
+#: admin/class-admin-base.php:1028 views/admin/channel.php:547
+#: views/admin/channel.php:616 views/admin/channel.php:642
+#: views/admin/channel.php:692 views/admin/channel.php:701
+#: views/admin/channel.php:916 views/admin/channel.php:970
+#: views/admin/channel.php:996 views/admin/channel.php:1012
+#: views/admin/channel.php:1044 views/admin/channel.php:1074
+#: views/admin/channel.php:1101 views/admin/chaty_widget.php:17
+#: views/admin/customize-widget-section.php:62
+#: views/admin/customize-widget-section.php:172
+#: views/admin/customize-widget-section.php:274
+#: views/admin/customize-widget-section.php:473
+#: views/admin/customize-widget-section.php:502 views/admin/first-popup.php:57
+#: views/admin/first-popup.php:94 views/admin/popup.php:181
+#: views/admin/popup.php:209 views/admin/popup.php:234
+#: views/admin/trigger-and-target.php:207
+#: views/admin/trigger-and-target.php:303
+#: views/admin/trigger-and-target.php:366
+#: views/admin/trigger-and-target.php:547
+#: views/admin/trigger-and-target.php:584
+#: views/admin/trigger-and-target.php:615
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: views/admin/trigger-and-target.php:318
+msgid "Days and hours"
+msgstr "週間日及時間"
+
+#: views/admin/trigger-and-target.php:51
+msgid "Trigger"
+msgstr "觸發程序"
+
+#: views/admin/customize-widget-section.php:211
+msgid "Show close button"
+msgstr "顯示 [關閉] 按鈕"
+
+#: views/admin/customize-widget-section.php:179
+msgid "Default state"
+msgstr "預設狀態"
+
+#: views/admin/admin.php:168
+msgid "Triggers and targeting"
+msgstr "觸發程序及顯示目標對象"
+
+#. Author URI of the plugin
+#: cht-icons.php
+msgid "https://premio.io/downloads/chaty/"
+msgstr "https://premio.io/downloads/chaty/"
+
+#. Author of the plugin
+#: cht-icons.php
+msgid "Premio"
+msgstr "Premio"
+
+#. Description of the plugin
+#: cht-icons.php
+msgid "Chat with your website visitors via their favorite channels. Show a chat icon on the bottom of your site and communicate with your website visitors."
+msgstr "網站訪客可以透過他們偏好的聯絡管道與站方聯絡，並在網站底部顯示能與網站訪客保持聯繫的交談圖示。"
+
+#. Plugin Name of the plugin
+#: cht-icons.php admin/class-admin-base.php:632 admin/class-admin-base.php:633
+msgid "Chaty"
+msgstr "Chaty"

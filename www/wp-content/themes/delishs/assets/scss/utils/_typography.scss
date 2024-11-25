@@ -1,0 +1,53 @@
+
+// font url
+$font-url: '@import url(https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap)';
+
+// font family
+$font-family: (
+    ff: (
+        "body": "'Jost', sans-serif",
+        "heading": "'Jost', sans-serif",
+        "jost": "'Jost', sans-serif",
+        "fontawesome": '"Font Awesome 6 Pro"',
+    )
+);
+
+// font weight
+$font-scale: (
+    fw: (
+        "normal": normal,
+        "thin": 100,
+        "elight": 200,
+        "light": 300,
+        "regular": 400,
+        "medium": 500,
+        "sbold": 600,
+        "bold": 700,
+        "ebold": 800,
+        "black": 900,
+    )
+);
+
+// font size
+$font-size: (
+    fs: (
+        "p": 16px,
+        "body": 16px,
+        "h1": 66px,
+        "h2": 48px,
+        "h3": 36px,
+        "h4": 30px,
+        "h5": 24px,
+        "h6": 20px,
+    ),
+    lh: (
+    "p": 26px,
+    "body": 26px,
+    "h1": 76px,
+    "h2": 58px,
+    "h3": 46px,
+    "h4": 40px,
+    "h5": 34px,
+    "h6": 30px,
+    )
+);

@@ -1,0 +1,1998 @@
+# Translation of Plugins - RY City Select for WooCommerce - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - RY City Select for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-15 12:39:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-beta.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - RY City Select for WooCommerce - Stable (latest release)\n"
+
+#: states/KW.php:9
+msgid "Kuwait City"
+msgstr "科威特省"
+
+#: states/KW.php:10
+msgid "Mubarak Al Kabeer"
+msgstr "大穆巴拉克省"
+
+#: states/KW.php:6
+msgid "Farwaniyah"
+msgstr "費爾瓦尼耶省"
+
+#: states/KW.php:5
+msgid "Ahmadi"
+msgstr "艾哈邁迪省"
+
+#: states/KW.php:7
+msgid "Hawally"
+msgstr "哈瓦利省"
+
+#: states/KW.php:8
+msgid "Jahra"
+msgstr "傑赫拉省"
+
+#: cities/TW.php:6
+msgctxt "TW Taipei City"
+msgid "Zhongzheng Dist"
+msgstr "中正區"
+
+#: cities/TW.php:7
+msgctxt "TW Taipei City"
+msgid "Datong Dist"
+msgstr "大同區"
+
+#: cities/TW.php:8
+msgctxt "TW Taipei City"
+msgid "Zhongshan Dist"
+msgstr "中山區"
+
+#: cities/TW.php:9
+msgctxt "TW Taipei City"
+msgid "Songshan Dist"
+msgstr "松山區"
+
+#: cities/TW.php:10
+msgctxt "TW Taipei City"
+msgid "Daan Dist"
+msgstr "大安區"
+
+#: cities/TW.php:11
+msgctxt "TW Taipei City"
+msgid "Wanhua Dist"
+msgstr "萬華區"
+
+#: cities/TW.php:12
+msgctxt "TW Taipei City"
+msgid "Xinyi Dist"
+msgstr "信義區"
+
+#: cities/TW.php:13
+msgctxt "TW Taipei City"
+msgid "Shilin Dist"
+msgstr "士林區"
+
+#: cities/TW.php:14
+msgctxt "TW Taipei City"
+msgid "Beitou Dist"
+msgstr "北投區"
+
+#: cities/TW.php:15
+msgctxt "TW Taipei City"
+msgid "Neihu Dist"
+msgstr "內湖區"
+
+#: cities/TW.php:16
+msgctxt "TW Taipei City"
+msgid "Nangang Dist"
+msgstr "南港區"
+
+#: cities/TW.php:17
+msgctxt "TW Taipei City"
+msgid "Wenshan Dist"
+msgstr "文山區"
+
+#: cities/TW.php:20
+msgctxt "TW Keelung City"
+msgid "Renai Dist"
+msgstr "仁愛區"
+
+#: cities/TW.php:21
+msgctxt "TW Keelung City"
+msgid "Xinyi Dist"
+msgstr "信義區"
+
+#: cities/TW.php:22
+msgctxt "TW Keelung City"
+msgid "Zhongzheng Dist"
+msgstr "中正區"
+
+#: cities/TW.php:23
+msgctxt "TW Keelung City"
+msgid "Zhongshan Dist"
+msgstr "中山區"
+
+#: cities/TW.php:24
+msgctxt "TW Keelung City"
+msgid "Anle Dist"
+msgstr "安樂區"
+
+#: cities/TW.php:25
+msgctxt "TW Keelung City"
+msgid "Nuannuan Dist"
+msgstr "暖暖區"
+
+#: cities/TW.php:26
+msgctxt "TW Keelung City"
+msgid "Qidu Dist"
+msgstr "七堵區"
+
+#: cities/TW.php:29
+msgctxt "TW New Taipei City"
+msgid "Wanli Dist"
+msgstr "萬里區"
+
+#: cities/TW.php:30
+msgctxt "TW New Taipei City"
+msgid "Jinshan Dist"
+msgstr "金山區"
+
+#: cities/TW.php:31
+msgctxt "TW New Taipei City"
+msgid "Banqiao Dist"
+msgstr "板橋區"
+
+#: cities/TW.php:32
+msgctxt "TW New Taipei City"
+msgid "Xizhi Dist"
+msgstr "汐止區"
+
+#: cities/TW.php:33
+msgctxt "TW New Taipei City"
+msgid "Shenkeng Dist"
+msgstr "深坑區"
+
+#: cities/TW.php:34
+msgctxt "TW New Taipei City"
+msgid "Shiding Dist"
+msgstr "石碇區"
+
+#: cities/TW.php:35
+msgctxt "TW New Taipei City"
+msgid "Ruifang Dist"
+msgstr "瑞芳區"
+
+#: cities/TW.php:36
+msgctxt "TW New Taipei City"
+msgid "Pingxi Dist"
+msgstr "平溪區"
+
+#: cities/TW.php:37
+msgctxt "TW New Taipei City"
+msgid "Shuangxi Dist"
+msgstr "雙溪區"
+
+#: cities/TW.php:38
+msgctxt "TW New Taipei City"
+msgid "Gongliao Dist"
+msgstr "貢寮區"
+
+#: cities/TW.php:39
+msgctxt "TW New Taipei City"
+msgid "Xindian Dist"
+msgstr "新店區"
+
+#: cities/TW.php:40
+msgctxt "TW New Taipei City"
+msgid "Pinglin Dist"
+msgstr "坪林區"
+
+#: cities/TW.php:41
+msgctxt "TW New Taipei City"
+msgid "Wulai Dist"
+msgstr "烏來區"
+
+#: cities/TW.php:42
+msgctxt "TW New Taipei City"
+msgid "Yonghe Dist"
+msgstr "永和區"
+
+#: cities/TW.php:43
+msgctxt "TW New Taipei City"
+msgid "Zhonghe Dist"
+msgstr "中和區"
+
+#: cities/TW.php:44
+msgctxt "TW New Taipei City"
+msgid "Tucheng Dist"
+msgstr "土城區"
+
+#: cities/TW.php:45
+msgctxt "TW New Taipei City"
+msgid "Sanxia Dist"
+msgstr "三峽區"
+
+#: cities/TW.php:46
+msgctxt "TW New Taipei City"
+msgid "Shulin Dist"
+msgstr "樹林區"
+
+#: cities/TW.php:47
+msgctxt "TW New Taipei City"
+msgid "Yingge Dist"
+msgstr "鶯歌區"
+
+#: cities/TW.php:48
+msgctxt "TW New Taipei City"
+msgid "Sanchong Dist"
+msgstr "三重區"
+
+#: cities/TW.php:49
+msgctxt "TW New Taipei City"
+msgid "Xinzhuang Dist"
+msgstr "新莊區"
+
+#: cities/TW.php:50
+msgctxt "TW New Taipei City"
+msgid "Taishan Dist"
+msgstr "泰山區"
+
+#: cities/TW.php:51
+msgctxt "TW New Taipei City"
+msgid "Linkou Dist"
+msgstr "林口區"
+
+#: cities/TW.php:52
+msgctxt "TW New Taipei City"
+msgid "Luzhou Dist"
+msgstr "蘆洲區"
+
+#: cities/TW.php:53
+msgctxt "TW New Taipei City"
+msgid "Wugu Dist"
+msgstr "五股區"
+
+#: cities/TW.php:54
+msgctxt "TW New Taipei City"
+msgid "Bali Dist"
+msgstr "八里區"
+
+#: cities/TW.php:55
+msgctxt "TW New Taipei City"
+msgid "Tamsui Dist"
+msgstr "淡水區"
+
+#: cities/TW.php:56
+msgctxt "TW New Taipei City"
+msgid "Sanzhi Dist"
+msgstr "三芝區"
+
+#: cities/TW.php:57
+msgctxt "TW New Taipei City"
+msgid "Shimen Dist"
+msgstr "石門區"
+
+#: cities/TW.php:60
+msgctxt "TW Lienchiang County"
+msgid "Nangan Township"
+msgstr "南竿鄉"
+
+#: cities/TW.php:61
+msgctxt "TW Lienchiang County"
+msgid "Beigan Township"
+msgstr "北竿鄉"
+
+#: cities/TW.php:62
+msgctxt "TW Lienchiang County"
+msgid "Juguang Township"
+msgstr "莒光鄉"
+
+#: cities/TW.php:63
+msgctxt "TW Lienchiang County"
+msgid "Dongyin Township"
+msgstr "東引鄉"
+
+#: cities/TW.php:66
+msgctxt "TW Yilan County"
+msgid "Yilan City"
+msgstr "宜蘭市"
+
+#: cities/TW.php:67
+msgctxt "TW Yilan County"
+msgid "Toucheng Township"
+msgstr "頭城鎮"
+
+#: cities/TW.php:68
+msgctxt "TW Yilan County"
+msgid "Jiaoxi Township"
+msgstr "礁溪鄉"
+
+#: cities/TW.php:69
+msgctxt "TW Yilan County"
+msgid "Zhuangwei Township"
+msgstr "壯圍鄉"
+
+#: cities/TW.php:70
+msgctxt "TW Yilan County"
+msgid "Yuanshan Township"
+msgstr "員山鄉"
+
+#: cities/TW.php:71
+msgctxt "TW Yilan County"
+msgid "Luodong Township"
+msgstr "羅東鎮"
+
+#: cities/TW.php:72
+msgctxt "TW Yilan County"
+msgid "Sanxing Township"
+msgstr "三星鄉"
+
+#: cities/TW.php:73
+msgctxt "TW Yilan County"
+msgid "Datong Township"
+msgstr "大同鄉"
+
+#: cities/TW.php:74
+msgctxt "TW Yilan County"
+msgid "Wujie Township"
+msgstr "五結鄉"
+
+#: cities/TW.php:75
+msgctxt "TW Yilan County"
+msgid "Dongshan Township"
+msgstr "冬山鄉"
+
+#: cities/TW.php:76
+msgctxt "TW Yilan County"
+msgid "Suao Township"
+msgstr "蘇澳鎮"
+
+#: cities/TW.php:77
+msgctxt "TW Yilan County"
+msgid "Nanao Township"
+msgstr "南澳鄉"
+
+#: cities/TW.php:80
+msgctxt "TW Hsinchu City"
+msgid "East Dist"
+msgstr "東區"
+
+#: cities/TW.php:81
+msgctxt "TW Hsinchu City"
+msgid "North Dist"
+msgstr "北區"
+
+#: cities/TW.php:82
+msgctxt "TW Hsinchu City"
+msgid "Xiangshan Dist"
+msgstr "香山區"
+
+#: cities/TW.php:85
+msgctxt "TW Hsinchu County"
+msgid "Zhubei City"
+msgstr "竹北市"
+
+#: cities/TW.php:86
+msgctxt "TW Hsinchu County"
+msgid "Hukou Township"
+msgstr "湖口鄉"
+
+#: cities/TW.php:87
+msgctxt "TW Hsinchu County"
+msgid "Xinfeng Township"
+msgstr "新豐鄉"
+
+#: cities/TW.php:88
+msgctxt "TW Hsinchu County"
+msgid "Xinpu Township"
+msgstr "新埔鎮"
+
+#: cities/TW.php:89
+msgctxt "TW Hsinchu County"
+msgid "Guanxi Township"
+msgstr "關西鎮"
+
+#: cities/TW.php:90
+msgctxt "TW Hsinchu County"
+msgid "Qionglin Township"
+msgstr "芎林鄉"
+
+#: cities/TW.php:91
+msgctxt "TW Hsinchu County"
+msgid "Baoshan Township"
+msgstr "寶山鄉"
+
+#: cities/TW.php:92
+msgctxt "TW Hsinchu County"
+msgid "Zhudong Township"
+msgstr "竹東鎮"
+
+#: cities/TW.php:93
+msgctxt "TW Hsinchu County"
+msgid "Wufeng Township"
+msgstr "五峰鄉"
+
+#: cities/TW.php:94
+msgctxt "TW Hsinchu County"
+msgid "Hengshan Township"
+msgstr "橫山鄉"
+
+#: cities/TW.php:95
+msgctxt "TW Hsinchu County"
+msgid "Jianshi Township"
+msgstr "尖石鄉"
+
+#: cities/TW.php:96
+msgctxt "TW Hsinchu County"
+msgid "Beipu Township"
+msgstr "北埔鄉"
+
+#: cities/TW.php:97
+msgctxt "TW Hsinchu County"
+msgid "Emei Township"
+msgstr "峨眉鄉"
+
+#: cities/TW.php:100
+msgctxt "TW Taoyuan City"
+msgid "Zhongli Dist"
+msgstr "中壢區"
+
+#: cities/TW.php:101
+msgctxt "TW Taoyuan City"
+msgid "Pingzhen Dist"
+msgstr "平鎮區"
+
+#: cities/TW.php:102
+msgctxt "TW Taoyuan City"
+msgid "Longtan Dist"
+msgstr "龍潭區"
+
+#: cities/TW.php:103
+msgctxt "TW Taoyuan City City"
+msgid "Yangmei Dist"
+msgstr "楊梅區"
+
+#: cities/TW.php:104
+msgctxt "TW Taoyuan City"
+msgid "Xinwu Dist"
+msgstr "新屋區"
+
+#: cities/TW.php:105
+msgctxt "TW Taoyuan City"
+msgid "Guanyin Dist"
+msgstr "觀音區"
+
+#: cities/TW.php:106
+msgctxt "TW Taoyuan City"
+msgid "Taoyuan Dist"
+msgstr "桃園區"
+
+#: cities/TW.php:107
+msgctxt "TW Taoyuan City"
+msgid "Guishan Dist"
+msgstr "龜山區"
+
+#: cities/TW.php:108
+msgctxt "TW Taoyuan City"
+msgid "Bade Dist"
+msgstr "八德區"
+
+#: cities/TW.php:109
+msgctxt "TW Taoyuan City"
+msgid "Daxi Dist"
+msgstr "大溪區"
+
+#: cities/TW.php:110
+msgctxt "TW Taoyuan City"
+msgid "Fuxing Dist"
+msgstr "復興區"
+
+#: cities/TW.php:111
+msgctxt "TW Taoyuan City"
+msgid "Dayuan Dist"
+msgstr "大園區"
+
+#: cities/TW.php:112
+msgctxt "TW Taoyuan City"
+msgid "Luzhu Dist"
+msgstr "蘆竹區"
+
+#: cities/TW.php:115
+msgctxt "TW Miaoli County"
+msgid "Zhunan Township"
+msgstr "竹南鎮"
+
+#: cities/TW.php:116
+msgctxt "TW Miaoli County"
+msgid "Toufen City"
+msgstr "頭份市"
+
+#: cities/TW.php:117
+msgctxt "TW Miaoli County"
+msgid "Sanwan Township"
+msgstr "三灣鄉"
+
+#: cities/TW.php:118
+msgctxt "TW Miaoli County"
+msgid "Nanzhuang Township"
+msgstr "南庄鄉"
+
+#: cities/TW.php:119
+msgctxt "TW Miaoli County"
+msgid "Shitan Township"
+msgstr "獅潭鄉"
+
+#: cities/TW.php:120
+msgctxt "TW Miaoli County"
+msgid "Houlong Township"
+msgstr "後龍鎮"
+
+#: cities/TW.php:121
+msgctxt "TW Miaoli County"
+msgid "Tongxiao Township"
+msgstr "通霄鎮"
+
+#: cities/TW.php:122
+msgctxt "TW Miaoli County"
+msgid "Yuanli Township"
+msgstr "苑裡鎮"
+
+#: cities/TW.php:123
+msgctxt "TW Miaoli County"
+msgid "Miaoli City"
+msgstr "苗栗市"
+
+#: cities/TW.php:124
+msgctxt "TW Miaoli County"
+msgid "Zaoqiao Township"
+msgstr "造橋鄉"
+
+#: cities/TW.php:125
+msgctxt "TW Miaoli County"
+msgid "Touwu Township"
+msgstr "頭屋鄉"
+
+#: cities/TW.php:126
+msgctxt "TW Miaoli County"
+msgid "Gongguan Township"
+msgstr "公館鄉"
+
+#: cities/TW.php:127
+msgctxt "TW Miaoli County"
+msgid "Dahu Township"
+msgstr "大湖鄉"
+
+#: cities/TW.php:128
+msgctxt "TW Miaoli County"
+msgid "Taian Township"
+msgstr "泰安鄉"
+
+#: cities/TW.php:129
+msgctxt "TW Miaoli County"
+msgid "Tongluo Township"
+msgstr "銅鑼鄉"
+
+#: cities/TW.php:130
+msgctxt "TW Miaoli County"
+msgid "Sanyi Township"
+msgstr "三義鄉"
+
+#: cities/TW.php:131
+msgctxt "TW Miaoli County"
+msgid "Xihu Township"
+msgstr "西湖鄉"
+
+#: cities/TW.php:132
+msgctxt "TW Miaoli County"
+msgid "Zhuolan Township"
+msgstr "卓蘭鎮"
+
+#: cities/TW.php:135
+msgctxt "TW Taichung City"
+msgid "Central Dist"
+msgstr "中區"
+
+#: cities/TW.php:136
+msgctxt "TW Taichung City"
+msgid "East Dist"
+msgstr "東區"
+
+#: cities/TW.php:137
+msgctxt "TW Taichung City"
+msgid "South Dist"
+msgstr "南區"
+
+#: cities/TW.php:138
+msgctxt "TW Taichung City"
+msgid "West Dist"
+msgstr "西區"
+
+#: cities/TW.php:139
+msgctxt "TW Taichung City"
+msgid "North Dist"
+msgstr "北區"
+
+#: cities/TW.php:140
+msgctxt "TW Taichung City"
+msgid "Beitun Dist"
+msgstr "北屯區"
+
+#: cities/TW.php:141
+msgctxt "TW Taichung City"
+msgid "Xitun Dist"
+msgstr "西屯區"
+
+#: cities/TW.php:142
+msgctxt "TW Taichung City"
+msgid "Nantun Dist"
+msgstr "南屯區"
+
+#: cities/TW.php:143
+msgctxt "TW Taichung City"
+msgid "Taiping Dist"
+msgstr "太平區"
+
+#: cities/TW.php:144
+msgctxt "TW Taichung City"
+msgid "Dali Dist"
+msgstr "大里區"
+
+#: cities/TW.php:145
+msgctxt "TW Taichung City"
+msgid "Wufeng Dist"
+msgstr "霧峰區"
+
+#: cities/TW.php:146
+msgctxt "TW Taichung City"
+msgid "Wuri Dist"
+msgstr "烏日區"
+
+#: cities/TW.php:147
+msgctxt "TW Taichung City"
+msgid "Fengyuan Dist"
+msgstr "豐原區"
+
+#: cities/TW.php:148
+msgctxt "TW Taichung City"
+msgid "Houli Dist"
+msgstr "后里區"
+
+#: cities/TW.php:149
+msgctxt "TW Taichung City"
+msgid "Shigang Dist"
+msgstr "石岡區"
+
+#: cities/TW.php:150
+msgctxt "TW Taichung City"
+msgid "Dongshi Dist"
+msgstr "東勢區"
+
+#: cities/TW.php:151
+msgctxt "TW Taichung City"
+msgid "Heping Dist"
+msgstr "和平區"
+
+#: cities/TW.php:152
+msgctxt "TW Taichung City"
+msgid "Xinshe Dist"
+msgstr "新社區"
+
+#: cities/TW.php:153
+msgctxt "TW Taichung City"
+msgid "Tanzi Dist"
+msgstr "潭子區"
+
+#: cities/TW.php:154
+msgctxt "TW Taichung City"
+msgid "Daya Dist"
+msgstr "大雅區"
+
+#: cities/TW.php:155
+msgctxt "TW Taichung City"
+msgid "Shengang Dist"
+msgstr "神岡區"
+
+#: cities/TW.php:156
+msgctxt "TW Taichung City"
+msgid "Dadu Dist"
+msgstr "大肚區"
+
+#: cities/TW.php:157
+msgctxt "TW Taichung City"
+msgid "Shalu Dist"
+msgstr "沙鹿區"
+
+#: cities/TW.php:158
+msgctxt "TW Taichung City"
+msgid "Longjing Dist"
+msgstr "龍井區"
+
+#: cities/TW.php:159
+msgctxt "TW Taichung City"
+msgid "Wuqi Dist"
+msgstr "梧棲區"
+
+#: cities/TW.php:160
+msgctxt "TW Taichung City"
+msgid "Qingshui Dist"
+msgstr "清水區"
+
+#: cities/TW.php:161
+msgctxt "TW Taichung City"
+msgid "Dajia Dist"
+msgstr "大甲區"
+
+#: cities/TW.php:162
+msgctxt "TW Taichung City"
+msgid "Waipu Dist"
+msgstr "外埔區"
+
+#: cities/TW.php:163
+msgctxt "TW Taichung City"
+msgid "Daan Dist"
+msgstr "大安區"
+
+#: cities/TW.php:166
+msgctxt "TW Changhua County"
+msgid "Changhua City"
+msgstr "彰化市"
+
+#: cities/TW.php:167
+msgctxt "TW Changhua County"
+msgid "Fenyuan Township"
+msgstr "芬園鄉"
+
+#: cities/TW.php:168
+msgctxt "TW Changhua County"
+msgid "Huatan Township"
+msgstr "花壇鄉"
+
+#: cities/TW.php:169
+msgctxt "TW Changhua County"
+msgid "Xiushui Township"
+msgstr "秀水鄉"
+
+#: cities/TW.php:170
+msgctxt "TW Changhua County"
+msgid "Lukang Township"
+msgstr "鹿港鎮"
+
+#: cities/TW.php:171
+msgctxt "TW Changhua County"
+msgid "Fuxing Township"
+msgstr "福興鄉"
+
+#: cities/TW.php:172
+msgctxt "TW Changhua County"
+msgid "Xianxi Township"
+msgstr "線西鄉"
+
+#: cities/TW.php:173
+msgctxt "TW Changhua County"
+msgid "Hemei Township"
+msgstr "和美鎮"
+
+#: cities/TW.php:174
+msgctxt "TW Changhua County"
+msgid "Shengang Township"
+msgstr "伸港鄉"
+
+#: cities/TW.php:175
+msgctxt "TW Changhua County"
+msgid "Yuanlin City"
+msgstr "員林市"
+
+#: cities/TW.php:176
+msgctxt "TW Changhua County"
+msgid "Shetou Township"
+msgstr "社頭鄉"
+
+#: cities/TW.php:177
+msgctxt "TW Changhua County"
+msgid "Yongjing Township"
+msgstr "永靖鄉"
+
+#: cities/TW.php:178
+msgctxt "TW Changhua County"
+msgid "Puxin Township"
+msgstr "埔心鄉"
+
+#: cities/TW.php:179
+msgctxt "TW Changhua County"
+msgid "Xihu Township"
+msgstr "溪湖鎮"
+
+#: cities/TW.php:180
+msgctxt "TW Changhua County"
+msgid "Dacun Township"
+msgstr "大村鄉"
+
+#: cities/TW.php:181
+msgctxt "TW Changhua County"
+msgid "Puyan Township"
+msgstr "埔鹽鄉"
+
+#: cities/TW.php:182
+msgctxt "TW Changhua County"
+msgid "Tianzhong Township"
+msgstr "田中鎮"
+
+#: cities/TW.php:183
+msgctxt "TW Changhua County"
+msgid "Beidou Township"
+msgstr "北斗鎮"
+
+#: cities/TW.php:184
+msgctxt "TW Changhua County"
+msgid "Tianwei Township"
+msgstr "田尾鄉"
+
+#: cities/TW.php:185
+msgctxt "TW Changhua County"
+msgid "Pitou Township"
+msgstr "埤頭鄉"
+
+#: cities/TW.php:186
+msgctxt "TW Changhua County"
+msgid "Xizhou Township"
+msgstr "溪州鄉"
+
+#: cities/TW.php:187
+msgctxt "TW Changhua County"
+msgid "Zhutang Township"
+msgstr "竹塘鄉"
+
+#: cities/TW.php:188
+msgctxt "TW Changhua County"
+msgid "Erlin Township"
+msgstr "二林鎮"
+
+#: cities/TW.php:189
+msgctxt "TW Changhua County"
+msgid "Dacheng Township"
+msgstr "大城鄉"
+
+#: cities/TW.php:190
+msgctxt "TW Changhua County"
+msgid "Fangyuan Township"
+msgstr "芳苑鄉"
+
+#: cities/TW.php:191
+msgctxt "TW Changhua County"
+msgid "Ershui Township"
+msgstr "二水鄉"
+
+#: cities/TW.php:194
+msgctxt "TW Nantou County"
+msgid "Nantou City"
+msgstr "南投市"
+
+#: cities/TW.php:195
+msgctxt "TW Nantou County"
+msgid "Zhongliao Township"
+msgstr "中寮鄉"
+
+#: cities/TW.php:196
+msgctxt "TW Nantou County"
+msgid "Caotun Township"
+msgstr "草屯鎮"
+
+#: cities/TW.php:197
+msgctxt "TW Nantou County"
+msgid "Guoxing Township"
+msgstr "國姓鄉"
+
+#: cities/TW.php:198
+msgctxt "TW Nantou County"
+msgid "Puli Township"
+msgstr "埔里鎮"
+
+#: cities/TW.php:199
+msgctxt "TW Nantou County"
+msgid "Renai Township"
+msgstr "仁愛鄉"
+
+#: cities/TW.php:200
+msgctxt "TW Nantou County"
+msgid "Mingjian Township"
+msgstr "名間鄉"
+
+#: cities/TW.php:201
+msgctxt "TW Nantou County"
+msgid "Jiji Township"
+msgstr "集集鎮"
+
+#: cities/TW.php:202
+msgctxt "TW Nantou County"
+msgid "Shuili Township"
+msgstr "水里鄉"
+
+#: cities/TW.php:203
+msgctxt "TW Nantou County"
+msgid "Yuchi Township"
+msgstr "魚池鄉"
+
+#: cities/TW.php:204
+msgctxt "TW Nantou County"
+msgid "Xinyi Township"
+msgstr "信義鄉"
+
+#: cities/TW.php:205
+msgctxt "TW Nantou County"
+msgid "Zhushan Township"
+msgstr "竹山鎮"
+
+#: cities/TW.php:206
+msgctxt "TW Nantou County"
+msgid "Lugu Township"
+msgstr "鹿谷鄉"
+
+#: cities/TW.php:209
+msgctxt "TW Chiayi City"
+msgid "East Dist"
+msgstr "東區"
+
+#: cities/TW.php:210
+msgctxt "TW Chiayi City"
+msgid "West Dist"
+msgstr "西區"
+
+#: cities/TW.php:213
+msgctxt "TW Chiayi County"
+msgid "Fanlu Township"
+msgstr "番路鄉"
+
+#: cities/TW.php:214
+msgctxt "TW Chiayi County"
+msgid "Meishan Township"
+msgstr "梅山鄉"
+
+#: cities/TW.php:215
+msgctxt "TW Chiayi County"
+msgid "Zhuqi Township"
+msgstr "竹崎鄉"
+
+#: cities/TW.php:216
+msgctxt "TW Chiayi County"
+msgid "Alishan Township"
+msgstr "阿里山鄉"
+
+#: cities/TW.php:217
+msgctxt "TW Chiayi County"
+msgid "Zhongpu Township"
+msgstr "中埔鄉"
+
+#: cities/TW.php:218
+msgctxt "TW Chiayi County"
+msgid "Dapu Township"
+msgstr "大埔鄉"
+
+#: cities/TW.php:219
+msgctxt "TW Chiayi County"
+msgid "Shuishang Township"
+msgstr "水上鄉"
+
+#: cities/TW.php:220
+msgctxt "TW Chiayi County"
+msgid "Lucao Township"
+msgstr "鹿草鄉"
+
+#: cities/TW.php:221
+msgctxt "TW Chiayi County"
+msgid "Taibao City"
+msgstr "太保市"
+
+#: cities/TW.php:222
+msgctxt "TW Chiayi County"
+msgid "Puzi City"
+msgstr "朴子市"
+
+#: cities/TW.php:223
+msgctxt "TW Chiayi County"
+msgid "Dongshi Township"
+msgstr "東石鄉"
+
+#: cities/TW.php:224
+msgctxt "TW Chiayi County"
+msgid "Liujiao Township"
+msgstr "六腳鄉"
+
+#: cities/TW.php:225
+msgctxt "TW Chiayi County"
+msgid "Xingang Township"
+msgstr "新港鄉"
+
+#: cities/TW.php:226
+msgctxt "TW Chiayi County"
+msgid "Minxiong Township"
+msgstr "民雄鄉"
+
+#: cities/TW.php:227
+msgctxt "TW Chiayi County"
+msgid "Dalin Township"
+msgstr "大林鎮"
+
+#: cities/TW.php:228
+msgctxt "TW Chiayi County"
+msgid "Xikou Township"
+msgstr "溪口鄉"
+
+#: cities/TW.php:229
+msgctxt "TW Chiayi County"
+msgid "Yizhu Township"
+msgstr "義竹鄉"
+
+#: cities/TW.php:230
+msgctxt "TW Chiayi County"
+msgid "Budai Township"
+msgstr "布袋鎮"
+
+#: cities/TW.php:233
+msgctxt "TW Yunlin County"
+msgid "Dounan Township"
+msgstr "斗南鎮"
+
+#: cities/TW.php:234
+msgctxt "TW Yunlin County"
+msgid "Dapi Township"
+msgstr "大埤鄉"
+
+#: cities/TW.php:235
+msgctxt "TW Yunlin County"
+msgid "Huwei Township"
+msgstr "虎尾鎮"
+
+#: cities/TW.php:236
+msgctxt "TW Yunlin County"
+msgid "Tuku Township"
+msgstr "土庫鎮"
+
+#: cities/TW.php:237
+msgctxt "TW Yunlin County"
+msgid "Baozhong Township"
+msgstr "褒忠鄉"
+
+#: cities/TW.php:238
+msgctxt "TW Yunlin County"
+msgid "Dongshi Township"
+msgstr "東勢鄉"
+
+#: cities/TW.php:239
+msgctxt "TW Yunlin County"
+msgid "Taixi Township"
+msgstr "臺西鄉"
+
+#: cities/TW.php:240
+msgctxt "TW Yunlin County"
+msgid "Lunbei Township"
+msgstr "崙背鄉"
+
+#: cities/TW.php:241
+msgctxt "TW Yunlin County"
+msgid "Mailiao Township"
+msgstr "麥寮鄉"
+
+#: cities/TW.php:242
+msgctxt "TW Yunlin County"
+msgid "Douliu City"
+msgstr "斗六市"
+
+#: cities/TW.php:243
+msgctxt "TW Yunlin County"
+msgid "Linnei Township"
+msgstr "林內鄉"
+
+#: cities/TW.php:244
+msgctxt "TW Yunlin County"
+msgid "Gukeng Township"
+msgstr "古坑鄉"
+
+#: cities/TW.php:245
+msgctxt "TW Yunlin County"
+msgid "Citong Township"
+msgstr "莿桐鄉"
+
+#: cities/TW.php:246
+msgctxt "TW Yunlin County"
+msgid "Xiluo Township"
+msgstr "西螺鎮"
+
+#: cities/TW.php:247
+msgctxt "TW Yunlin County"
+msgid "Erlun Township"
+msgstr "二崙鄉"
+
+#: cities/TW.php:248
+msgctxt "TW Yunlin County"
+msgid "Beigang Township"
+msgstr "北港鎮"
+
+#: cities/TW.php:249
+msgctxt "TW Yunlin County"
+msgid "Shuilin Township"
+msgstr "水林鄉"
+
+#: cities/TW.php:250
+msgctxt "TW Yunlin County"
+msgid "Kouhu Township"
+msgstr "口湖鄉"
+
+#: cities/TW.php:251
+msgctxt "TW Yunlin County"
+msgid "Sihu Township"
+msgstr "四湖鄉"
+
+#: cities/TW.php:252
+msgctxt "TW Yunlin County"
+msgid "Yuanzhang Township"
+msgstr "元長鄉"
+
+#: cities/TW.php:255
+msgctxt "TW Tainan City"
+msgid "West Central Dist"
+msgstr "中西區"
+
+#: cities/TW.php:256
+msgctxt "TW Tainan City"
+msgid "East Dist"
+msgstr "東區"
+
+#: cities/TW.php:257
+msgctxt "TW Tainan City"
+msgid "South Dist"
+msgstr "南區"
+
+#: cities/TW.php:258
+msgctxt "TW Tainan City"
+msgid "North Dist"
+msgstr "北區"
+
+#: cities/TW.php:259
+msgctxt "TW Tainan City"
+msgid "Anping Dist"
+msgstr "安平區"
+
+#: cities/TW.php:260
+msgctxt "TW Tainan City"
+msgid "Annan Dist"
+msgstr "安南區"
+
+#: cities/TW.php:261
+msgctxt "TW Tainan City"
+msgid "Yongkang Dist"
+msgstr "永康區"
+
+#: cities/TW.php:262
+msgctxt "TW Tainan City"
+msgid "Guiren Dist"
+msgstr "歸仁區"
+
+#: cities/TW.php:263
+msgctxt "TW Tainan City"
+msgid "Xinhua Dist"
+msgstr "新化區"
+
+#: cities/TW.php:264
+msgctxt "TW Tainan City"
+msgid "Zuozhen Dist"
+msgstr "左鎮區"
+
+#: cities/TW.php:265
+msgctxt "TW Tainan City"
+msgid "Yujing Dist"
+msgstr "玉井區"
+
+#: cities/TW.php:266
+msgctxt "TW Tainan City"
+msgid "Nanxi Dist"
+msgstr "楠西區"
+
+#: cities/TW.php:267
+msgctxt "TW Tainan City"
+msgid "Nanhua Dist"
+msgstr "南化區"
+
+#: cities/TW.php:268
+msgctxt "TW Tainan City"
+msgid "Rende Dist"
+msgstr "仁德區"
+
+#: cities/TW.php:269
+msgctxt "TW Tainan City"
+msgid "Guanmiao Dist"
+msgstr "關廟區"
+
+#: cities/TW.php:270
+msgctxt "TW Tainan City"
+msgid "Longqi Dist"
+msgstr "龍崎區"
+
+#: cities/TW.php:271
+msgctxt "TW Tainan City"
+msgid "Guantian Dist"
+msgstr "官田區"
+
+#: cities/TW.php:272
+msgctxt "TW Tainan City"
+msgid "Madou Dist"
+msgstr "麻豆區"
+
+#: cities/TW.php:273
+msgctxt "TW Tainan City"
+msgid "Jiali Dist"
+msgstr "佳里區"
+
+#: cities/TW.php:274
+msgctxt "TW Tainan City"
+msgid "Xigang Dist"
+msgstr "西港區"
+
+#: cities/TW.php:275
+msgctxt "TW Tainan City"
+msgid "Qigu Dist"
+msgstr "七股區"
+
+#: cities/TW.php:276
+msgctxt "TW Tainan City"
+msgid "Jiangjun Dist"
+msgstr "將軍區"
+
+#: cities/TW.php:277
+msgctxt "TW Tainan City"
+msgid "Xuejia Dist"
+msgstr "學甲區"
+
+#: cities/TW.php:278
+msgctxt "TW Tainan City"
+msgid "Beimen Dist"
+msgstr "北門區"
+
+#: cities/TW.php:279
+msgctxt "TW Tainan City"
+msgid "Xinying Dist"
+msgstr "新營區"
+
+#: cities/TW.php:280
+msgctxt "TW Tainan City"
+msgid "Houbi Dist"
+msgstr "後壁區"
+
+#: cities/TW.php:281
+msgctxt "TW Tainan City"
+msgid "Baihe Dist"
+msgstr "白河區"
+
+#: cities/TW.php:282
+msgctxt "TW Tainan City"
+msgid "Dongshan Dist"
+msgstr "東山區"
+
+#: cities/TW.php:283
+msgctxt "TW Tainan City"
+msgid "Liujia Dist"
+msgstr "六甲區"
+
+#: cities/TW.php:284
+msgctxt "TW Tainan City"
+msgid "Xiaying Dist"
+msgstr "下營區"
+
+#: cities/TW.php:285
+msgctxt "TW Tainan City"
+msgid "Liuying Dist"
+msgstr "柳營區"
+
+#: cities/TW.php:286
+msgctxt "TW Tainan City"
+msgid "Yanshui Dist"
+msgstr "鹽水區"
+
+#: cities/TW.php:287
+msgctxt "TW Tainan City"
+msgid "Shanhua Dist"
+msgstr "善化區"
+
+#: cities/TW.php:288
+msgctxt "TW Tainan City"
+msgid "Danei Dist"
+msgstr "大內區"
+
+#: cities/TW.php:289
+msgctxt "TW Tainan City"
+msgid "Shanshang Dist"
+msgstr "山上區"
+
+#: cities/TW.php:290
+msgctxt "TW Tainan City"
+msgid "Xinshi Dist"
+msgstr "新市區"
+
+#: cities/TW.php:291
+msgctxt "TW Tainan City"
+msgid "Anding Dist"
+msgstr "安定區"
+
+#: cities/TW.php:294
+msgctxt "TW Kaohsiung City"
+msgid "Xinxing Dist"
+msgstr "新興區"
+
+#: cities/TW.php:295
+msgctxt "TW Kaohsiung City"
+msgid "Qianjin Dist"
+msgstr "前金區"
+
+#: cities/TW.php:296
+msgctxt "TW Kaohsiung City"
+msgid "Lingya Dist"
+msgstr "苓雅區"
+
+#: cities/TW.php:297
+msgctxt "TW Kaohsiung City"
+msgid "Yancheng Dist"
+msgstr "鹽埕區"
+
+#: cities/TW.php:298
+msgctxt "TW Kaohsiung City"
+msgid "Gushan Dist"
+msgstr "鼓山區"
+
+#: cities/TW.php:299
+msgctxt "TW Kaohsiung City"
+msgid "Qijin Dist"
+msgstr "旗津區"
+
+#: cities/TW.php:300
+msgctxt "TW Kaohsiung City"
+msgid "Qianzhen Dist"
+msgstr "前鎮區"
+
+#: cities/TW.php:301
+msgctxt "TW Kaohsiung City"
+msgid "Sanmin Dist"
+msgstr "三民區"
+
+#: cities/TW.php:302
+msgctxt "TW Kaohsiung City"
+msgid "Nanzi Dist"
+msgstr "楠梓區"
+
+#: cities/TW.php:303
+msgctxt "TW Kaohsiung City"
+msgid "Xiaogang Dist"
+msgstr "小港區"
+
+#: cities/TW.php:304
+msgctxt "TW Kaohsiung City"
+msgid "Zuoying Dist"
+msgstr "左營區"
+
+#: cities/TW.php:305
+msgctxt "TW Kaohsiung City"
+msgid "Renwu Dist"
+msgstr "仁武區"
+
+#: cities/TW.php:306
+msgctxt "TW Kaohsiung City"
+msgid "Dashe Dist"
+msgstr "大社區"
+
+#: cities/TW.php:307
+msgctxt "TW Nanhai Islands"
+msgid "Dongsha Islands"
+msgstr "東沙群島"
+
+#: cities/TW.php:308
+msgctxt "TW Nanhai Islands"
+msgid "Nansha Islands"
+msgstr "南沙群島"
+
+#: cities/TW.php:309
+msgctxt "TW Kaohsiung City"
+msgid "Gangshan Dist"
+msgstr "岡山區"
+
+#: cities/TW.php:310
+msgctxt "TW Kaohsiung City"
+msgid "Luzhu Dist"
+msgstr "路竹區"
+
+#: cities/TW.php:311
+msgctxt "TW Kaohsiung City"
+msgid "Alian Dist"
+msgstr "阿蓮區"
+
+#: cities/TW.php:312
+msgctxt "TW Kaohsiung City"
+msgid "Tianliao Dist"
+msgstr "田寮區"
+
+#: cities/TW.php:313
+msgctxt "TW Kaohsiung City"
+msgid "Yanchao Dist"
+msgstr "燕巢區"
+
+#: cities/TW.php:314
+msgctxt "TW Kaohsiung City"
+msgid "Qiaotou Dist"
+msgstr "橋頭區"
+
+#: cities/TW.php:315
+msgctxt "TW Kaohsiung City"
+msgid "Ziguan Dist"
+msgstr "梓官區"
+
+#: cities/TW.php:316
+msgctxt "TW Kaohsiung City"
+msgid "Mituo Dist"
+msgstr "彌陀區"
+
+#: cities/TW.php:317
+msgctxt "TW Kaohsiung City"
+msgid "Yongan Dist"
+msgstr "永安區"
+
+#: cities/TW.php:318
+msgctxt "TW Kaohsiung City"
+msgid "Hunei Dist"
+msgstr "湖內區"
+
+#: cities/TW.php:319
+msgctxt "TW Kaohsiung City"
+msgid "Fengshan Dist"
+msgstr "鳳山區"
+
+#: cities/TW.php:320
+msgctxt "TW Kaohsiung City"
+msgid "Daliao Dist"
+msgstr "大寮區"
+
+#: cities/TW.php:321
+msgctxt "TW Kaohsiung City"
+msgid "Linyuan Dist"
+msgstr "林園區"
+
+#: cities/TW.php:322
+msgctxt "TW Kaohsiung City"
+msgid "Niaosong Dist"
+msgstr "鳥松區"
+
+#: cities/TW.php:323
+msgctxt "TW Kaohsiung City"
+msgid "Dashu Dist"
+msgstr "大樹區"
+
+#: cities/TW.php:324
+msgctxt "TW Kaohsiung City"
+msgid "Qishan Dist"
+msgstr "旗山區"
+
+#: cities/TW.php:325
+msgctxt "TW Kaohsiung City"
+msgid "Meinong Dist"
+msgstr "美濃區"
+
+#: cities/TW.php:326
+msgctxt "TW Kaohsiung City"
+msgid "Liugui Dist"
+msgstr "六龜區"
+
+#: cities/TW.php:327
+msgctxt "TW Kaohsiung City"
+msgid "Neimen Dist"
+msgstr "內門區"
+
+#: cities/TW.php:328
+msgctxt "TW Kaohsiung City"
+msgid "Shanlin Dist"
+msgstr "杉林區"
+
+#: cities/TW.php:329
+msgctxt "TW Kaohsiung City"
+msgid "Jiaxian Dist"
+msgstr "甲仙區"
+
+#: cities/TW.php:330
+msgctxt "TW Kaohsiung City"
+msgid "Taoyuan Dist"
+msgstr "桃源區"
+
+#: cities/TW.php:331
+msgctxt "TW Kaohsiung City"
+msgid "Namaxia Dist"
+msgstr "那瑪夏區"
+
+#: cities/TW.php:332
+msgctxt "TW Kaohsiung City"
+msgid "Maolin Dist"
+msgstr "茂林區"
+
+#: cities/TW.php:333
+msgctxt "TW Kaohsiung City"
+msgid "Qieding Dist"
+msgstr "茄萣區"
+
+#: cities/TW.php:336
+msgctxt "TW Penghu County"
+msgid "Magong City"
+msgstr "馬公市"
+
+#: cities/TW.php:337
+msgctxt "TW Penghu County"
+msgid "Xiyu Township"
+msgstr "西嶼鄉"
+
+#: cities/TW.php:338
+msgctxt "TW Penghu County"
+msgid "Wangan Township"
+msgstr "望安鄉"
+
+#: cities/TW.php:339
+msgctxt "TW Penghu County"
+msgid "Qimei Township"
+msgstr "七美鄉"
+
+#: cities/TW.php:340
+msgctxt "TW Penghu County"
+msgid "Baisha Township"
+msgstr "白沙鄉"
+
+#: cities/TW.php:341
+msgctxt "TW Penghu County"
+msgid "Huxi Township"
+msgstr "湖西鄉"
+
+#: cities/TW.php:344
+msgctxt "TW Kinmen County"
+msgid "Jinsha Township"
+msgstr "金沙鎮"
+
+#: cities/TW.php:345
+msgctxt "TW Kinmen County"
+msgid "Jinhu Township"
+msgstr "金湖鎮"
+
+#: cities/TW.php:346
+msgctxt "TW Kinmen County"
+msgid "Jinning Township"
+msgstr "金寧鄉"
+
+#: cities/TW.php:347
+msgctxt "TW Kinmen County"
+msgid "Jincheng Township"
+msgstr "金城鎮"
+
+#: cities/TW.php:348
+msgctxt "TW Kinmen County"
+msgid "Lieyu Township"
+msgstr "烈嶼鄉"
+
+#: cities/TW.php:349
+msgctxt "TW Kinmen County"
+msgid "Wuqiu Township"
+msgstr "烏坵鄉"
+
+#: cities/TW.php:352
+msgctxt "TW Pingtung County"
+msgid "Pingtung City"
+msgstr "屏東市"
+
+#: cities/TW.php:353
+msgctxt "TW Pingtung County"
+msgid "Sandimen Township"
+msgstr "三地門鄉"
+
+#: cities/TW.php:354
+msgctxt "TW Pingtung County"
+msgid "Wutai Township"
+msgstr "霧臺鄉"
+
+#: cities/TW.php:355
+msgctxt "TW Pingtung County"
+msgid "Majia Township"
+msgstr "瑪家鄉"
+
+#: cities/TW.php:356
+msgctxt "TW Pingtung County"
+msgid "Jiuru Township"
+msgstr "九如鄉"
+
+#: cities/TW.php:357
+msgctxt "TW Pingtung County"
+msgid "Ligang Township"
+msgstr "里港鄉"
+
+#: cities/TW.php:358
+msgctxt "TW Pingtung County"
+msgid "Gaoshu Township"
+msgstr "高樹鄉"
+
+#: cities/TW.php:359
+msgctxt "TW Pingtung County"
+msgid "Yanpu Township"
+msgstr "鹽埔鄉"
+
+#: cities/TW.php:360
+msgctxt "TW Pingtung County"
+msgid "Changzhi Township"
+msgstr "長治鄉"
+
+#: cities/TW.php:361
+msgctxt "TW Pingtung County"
+msgid "Linluo Township"
+msgstr "麟洛鄉"
+
+#: cities/TW.php:362
+msgctxt "TW Pingtung County"
+msgid "Zhutian Township"
+msgstr "竹田鄉"
+
+#: cities/TW.php:363
+msgctxt "TW Pingtung County"
+msgid "Neipu Township"
+msgstr "內埔鄉"
+
+#: cities/TW.php:364
+msgctxt "TW Pingtung County"
+msgid "Wandan Township"
+msgstr "萬丹鄉"
+
+#: cities/TW.php:365
+msgctxt "TW Pingtung County"
+msgid "Chaozhou Township"
+msgstr "潮州鎮"
+
+#: cities/TW.php:366
+msgctxt "TW Pingtung County"
+msgid "Taiwu Township"
+msgstr "泰武鄉"
+
+#: cities/TW.php:367
+msgctxt "TW Pingtung County"
+msgid "Laiyi Township"
+msgstr "來義鄉"
+
+#: cities/TW.php:368
+msgctxt "TW Pingtung County"
+msgid "Wanluan Township"
+msgstr "萬巒鄉"
+
+#: cities/TW.php:369
+msgctxt "TW Pingtung County"
+msgid "Kanding Township"
+msgstr "崁頂鄉"
+
+#: cities/TW.php:370
+msgctxt "TW Pingtung County"
+msgid "Xinpi Township"
+msgstr "新埤鄉"
+
+#: cities/TW.php:371
+msgctxt "TW Pingtung County"
+msgid "Nanzhou Township"
+msgstr "南州鄉"
+
+#: cities/TW.php:372
+msgctxt "TW Pingtung County"
+msgid "Linbian Township"
+msgstr "林邊鄉"
+
+#: cities/TW.php:373
+msgctxt "TW Pingtung County"
+msgid "Donggang Township"
+msgstr "東港鎮"
+
+#: cities/TW.php:374
+msgctxt "TW Pingtung County"
+msgid "Liuqiu Township"
+msgstr "琉球鄉"
+
+#: cities/TW.php:375
+msgctxt "TW Pingtung County"
+msgid "Jiadong Township"
+msgstr "佳冬鄉"
+
+#: cities/TW.php:376
+msgctxt "TW Pingtung County"
+msgid "Xinyuan Township"
+msgstr "新園鄉"
+
+#: cities/TW.php:377
+msgctxt "TW Pingtung County"
+msgid "Fangliao Township"
+msgstr "枋寮鄉"
+
+#: cities/TW.php:378
+msgctxt "TW Pingtung County"
+msgid "Fangshan Township"
+msgstr "枋山鄉"
+
+#: cities/TW.php:379
+msgctxt "TW Pingtung County"
+msgid "Chunri Township"
+msgstr "春日鄉"
+
+#: cities/TW.php:380
+msgctxt "TW Pingtung County"
+msgid "Shizi Township"
+msgstr "獅子鄉"
+
+#: cities/TW.php:381
+msgctxt "TW Pingtung County"
+msgid "Checheng Township"
+msgstr "車城鄉"
+
+#: cities/TW.php:382
+msgctxt "TW Pingtung County"
+msgid "Mudan Township"
+msgstr "牡丹鄉"
+
+#: cities/TW.php:383
+msgctxt "TW Pingtung County"
+msgid "Hengchun Township"
+msgstr "恆春鎮"
+
+#: cities/TW.php:384
+msgctxt "TW Pingtung County"
+msgid "Manzhou Township"
+msgstr "滿州鄉"
+
+#: cities/TW.php:387
+msgctxt "TW Taitung County"
+msgid "Taitung City"
+msgstr "臺東市"
+
+#: cities/TW.php:388
+msgctxt "TW Taitung County"
+msgid "Ludao Township"
+msgstr "綠島鄉"
+
+#: cities/TW.php:389
+msgctxt "TW Taitung County"
+msgid "Lanyu Township"
+msgstr "蘭嶼鄉"
+
+#: cities/TW.php:390
+msgctxt "TW Taitung County"
+msgid "Yanping Township"
+msgstr "延平鄉"
+
+#: cities/TW.php:391
+msgctxt "TW Taitung County"
+msgid "Beinan Township"
+msgstr "卑南鄉"
+
+#: cities/TW.php:392
+msgctxt "TW Taitung County"
+msgid "Luye Township"
+msgstr "鹿野鄉"
+
+#: cities/TW.php:393
+msgctxt "TW Taitung County"
+msgid "Guanshan Township"
+msgstr "關山鎮"
+
+#: cities/TW.php:394
+msgctxt "TW Taitung County"
+msgid "Haiduan Township"
+msgstr "海端鄉"
+
+#: cities/TW.php:395
+msgctxt "TW Taitung County"
+msgid "Chishang Township"
+msgstr "池上鄉"
+
+#: cities/TW.php:396
+msgctxt "TW Taitung County"
+msgid "Donghe Township"
+msgstr "東河鄉"
+
+#: cities/TW.php:397
+msgctxt "TW Taitung County"
+msgid "Chenggong Township"
+msgstr "成功鎮"
+
+#: cities/TW.php:398
+msgctxt "TW Taitung County"
+msgid "Changbin Township"
+msgstr "長濱鄉"
+
+#: cities/TW.php:399
+msgctxt "TW Taitung County"
+msgid "Taimali Township"
+msgstr "太麻里鄉"
+
+#: cities/TW.php:400
+msgctxt "TW Taitung County"
+msgid "Jinfeng Township"
+msgstr "金峰鄉"
+
+#: cities/TW.php:401
+msgctxt "TW Taitung County"
+msgid "Dawu Township"
+msgstr "大武鄉"
+
+#: cities/TW.php:402
+msgctxt "TW Taitung County"
+msgid "Daren Township"
+msgstr "達仁鄉"
+
+#: cities/TW.php:405
+msgctxt "TW Hualien County"
+msgid "Hualien City"
+msgstr "花蓮市"
+
+#: cities/TW.php:406
+msgctxt "TW Hualien County"
+msgid "Xincheng Township"
+msgstr "新城鄉"
+
+#: cities/TW.php:407
+msgctxt "TW Hualien County"
+msgid "Xiulin Township"
+msgstr "秀林鄉"
+
+#: cities/TW.php:408
+msgctxt "TW Hualien County"
+msgid "Jian Township"
+msgstr "吉安鄉"
+
+#: cities/TW.php:409
+msgctxt "TW Hualien County"
+msgid "Shoufeng Township"
+msgstr "壽豐鄉"
+
+#: cities/TW.php:410
+msgctxt "TW Hualien County"
+msgid "Fenglin Township"
+msgstr "鳳林鎮"
+
+#: cities/TW.php:411
+msgctxt "TW Hualien County"
+msgid "Guangfu Township"
+msgstr "光復鄉"
+
+#: cities/TW.php:412
+msgctxt "TW Hualien County"
+msgid "Fengbin Township"
+msgstr "豐濱鄉"
+
+#: cities/TW.php:413
+msgctxt "TW Hualien County"
+msgid "Ruisui Township"
+msgstr "瑞穗鄉"
+
+#: cities/TW.php:414
+msgctxt "TW Hualien County"
+msgid "Wanrong Township"
+msgstr "萬榮鄉"
+
+#: cities/TW.php:415
+msgctxt "TW Hualien County"
+msgid "Yuli Township"
+msgstr "玉里鎮"
+
+#: cities/TW.php:416
+msgctxt "TW Hualien County"
+msgid "Zhuoxi Township"
+msgstr "卓溪鄉"
+
+#: cities/TW.php:417
+msgctxt "TW Hualien County"
+msgid "Fuli Township"
+msgstr "富里鄉"
+
+#: states/TW.php:5
+msgid "Taipei City"
+msgstr "臺北市"
+
+#: states/TW.php:6
+msgid "New Taipei City"
+msgstr "新北市"
+
+#: states/TW.php:7
+msgid "Taoyuan City"
+msgstr "桃園市"
+
+#: states/TW.php:8
+msgid "Taichung City"
+msgstr "臺中市"
+
+#: states/TW.php:9
+msgid "Tainan City"
+msgstr "臺南市"
+
+#: states/TW.php:10
+msgid "Kaohsiung City"
+msgstr "高雄市"
+
+#: states/TW.php:11
+msgid "Keelung City"
+msgstr "基隆市"
+
+#: states/TW.php:12
+msgid "Hsinchu City"
+msgstr "新竹市"
+
+#: states/TW.php:13
+msgid "Chiayi City"
+msgstr "嘉義市"
+
+#: states/TW.php:14
+msgid "Hsinchu County"
+msgstr "新竹縣"
+
+#: states/TW.php:15
+msgid "Miaoli County"
+msgstr "苗栗縣"
+
+#: states/TW.php:16
+msgid "Changhua County"
+msgstr "彰化縣"
+
+#: states/TW.php:17
+msgid "Nantou County"
+msgstr "南投縣"
+
+#: states/TW.php:18
+msgid "Yunlin County"
+msgstr "雲林縣"
+
+#: states/TW.php:19
+msgid "Chiayi County"
+msgstr "嘉義縣"
+
+#: states/TW.php:20
+msgid "Pingtung County"
+msgstr "屏東縣"
+
+#: states/TW.php:21
+msgid "Yilan County"
+msgstr "宜蘭縣"
+
+#: states/TW.php:22
+msgid "Hualien County"
+msgstr "花蓮縣"
+
+#: states/TW.php:23
+msgid "Taitung County"
+msgstr "臺東縣"
+
+#: states/TW.php:24
+msgid "Penghu County"
+msgstr "澎湖縣"
+
+#: states/TW.php:25
+msgid "Kinmen County"
+msgstr "金門縣"
+
+#: states/TW.php:26
+msgid "Lienchiang County"
+msgstr "連江縣"
+
+#: main.php:101
+msgid "required"
+msgstr "必要欄位"
+
+#: main.php:72 main.php:138
+msgid "Select an option&hellip;"
+msgstr "選擇一個選項&hellip;"
+
+#. Author URI of the plugin
+msgid "https://richer.tw/"
+msgstr "https://richer.tw/"
+
+#. Author of the plugin
+msgid "Richer Yang"
+msgstr "Richer Yang"
+
+#. Plugin Name of the plugin
+msgid "RY WC City Select"
+msgstr "RY WC City Select"
+
+#. Description of the plugin
+msgid "Show a dropdown select as the cities input on WooCommerce. Auto set the postcode for selected city."
+msgstr "在 WooCommerce 中的鄉鎮市輸入欄位以下拉選單來呈現。且會自動輸入對應的郵遞區號。"

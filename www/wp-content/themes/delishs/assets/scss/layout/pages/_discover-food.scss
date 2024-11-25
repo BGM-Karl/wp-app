@@ -1,0 +1,58 @@
+@use '../../utils' as *;
+
+.discover-food__item {
+
+  &-left {
+    padding-right: 49px;
+    border-right: 1px solid #E9E9E9;
+    @media #{$xs, $sm, $md, $lg} {
+      padding-right: 0;
+      border-right: none;
+    }
+  }
+  &-right {
+    padding-left: 49px;
+    border-left: 1px solid #E9E9E9;
+    @media #{$xs, $sm, $md, $lg} {
+      padding-left: 0;
+      border-left: none;
+    }
+  }
+
+  &:not(&-left, &-right) {
+    padding-left: 25px;
+    padding-right: 25px;
+
+    @media #{$xs, $sm, $md, $lg} {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+  &-media {
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  &-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 32px;
+    font-family: var(--rr-ff-jost);
+    text-transform: uppercase;
+    color: var(--rr-common-black);
+  }
+
+  p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: var(--rr-text-body);
+  }
+}

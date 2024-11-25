@@ -1,0 +1,39 @@
+@use '../../utils' as *;
+
+.error {
+
+  &__content {
+
+    &-title {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 69px;
+      color: var(--rr-theme-secondary);
+
+      @media #{$lg, $md, $sm} {
+        font-size: 38px;
+        line-height:50px;
+      }
+      @media #{$xs} {
+        font-size: 30px;
+        line-height: 42px;
+      }
+      @media #{$xxs} {
+        font-size: 27px;
+        line-height: 37px;
+      }
+    }
+
+    p {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 26px;
+      color: var(--rr-text-body);
+      max-width: 573px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}

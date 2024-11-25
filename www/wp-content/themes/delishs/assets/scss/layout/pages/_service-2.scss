@@ -1,0 +1,50 @@
+@use '../../utils' as *;
+
+.service-2 {
+
+  &__item {
+    background-color: var(--rr-common-white);
+
+    &-media {
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+    }
+
+    &-text {
+      padding: 30px 30px 35px;
+
+      @media #{$xs} {
+        padding: 20px 20px 25px;
+      }
+
+      h6 {
+        font-weight: var(--rr-fw-sbold);
+        margin-bottom: 8px;
+      }
+
+      p {
+        margin-bottom: 16px;
+      }
+
+      .btn-book {
+        font-size: 14px;
+        line-height: normal;
+        padding-bottom: 2px;
+        text-transform: uppercase;
+        color: var(--rr-theme-primary);
+        font-weight: var(--rr-fw-sbold);
+        border-bottom: 1px solid var(--rr-theme-primary);
+
+        &:hover {
+          color: var(--rr-theme-secondary);
+          border-color: var(--rr-theme-secondary);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+@use '../../utils' as *;
+
+.food-menu {
+
+  &__tab {
+    margin-bottom: 14px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    button {
+      font-size: 16px;
+      padding: 10px 25px;
+      line-height: normal;
+      text-transform: uppercase;
+      border: 1px solid #E8E7E7;
+      font-weight: var(--rr-fw-sbold);
+      color: var(--rr-heading-primary);
+
+      &.active {
+        color: var(--rr-theme-primary);
+        border-color: var(--rr-theme-primary);
+      }
+
+      @media #{$xs, $sm} {
+        padding: 6px 15px;
+        font-size: 14px;
+      }
+    }
+  }
+
+  &__item-wrapper {
+    padding: 20px;
+    margin-bottom: -10px;
+    background: #F6F6F6;
+
+    @media #{$lg, $md, $sm, $xs} {
+      margin-bottom: 60px;
+    }
+  }
+
+  &__item {
+    margin-bottom: 10px;
+    border: 1px solid #DFDCDC;
+
+    &-media {
+      display: block;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-text {
+      text-align: center;
+      padding-top: 24px;
+      padding-bottom: 26px;
+      padding-left: 10px;
+      padding-right: 10px;
+      background: var(--rr-common-white);
+      border-top: 1px solid #DFDCDC;
+
+      .rating {
+        gap: 1px;
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        align-items: center;
+        justify-content: center;
+
+        li {
+          i {
+            font-size: 14px;
+            line-height: normal;
+            color: var(--rr-theme-primary);
+          }
+        }
+      }
+
+      h6 {
+        line-height: normal;
+        font-weight: var(--rr-fw-sbold);
+      }
+
+      .price {
+        font-size: 14px;
+        line-height: normal;
+        color: var(--rr-theme-primary);
+        font-weight: var(--rr-fw-sbold);
+      }
+    }
+  }
+
+  &__price-nav {
+    background: #F6F6F6;
+
+    &__media {
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &__list {
+      padding: 30px;
+      list-style: none;
+      padding-bottom: 25px;
+      @media #{$xs} {
+        padding: 10px;
+      }
+
+      li {
+        gap: 10px;
+        display: flex;
+        justify-content: space-between;
+
+        &:not(:last-child) {
+          padding-bottom: 21px;
+          margin-bottom: 25px;
+          border-bottom: 1px solid #D9D9D9;
+        }
+
+        .text {
+          h6 {
+            line-height: normal;
+          }
+          p {
+            font-size: 14px;
+            line-height: normal;
+          }
+        }
+
+        .price {
+          font-size: 16px;
+          color: var(--rr-theme-primary);
+          font-weight: var(--rr-fw-sbold);
+        }
+      }
+    }
+  }
+}

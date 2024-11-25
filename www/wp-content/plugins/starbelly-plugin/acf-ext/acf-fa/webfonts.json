@@ -1,0 +1,10 @@
+{
+  "kind": "webfonts#webfontList",
+  "items": [
+    {
+      "type": "fab",
+      "name": "500px",
+      "unicode": "\\f26e"
+    }
+  ]
+}

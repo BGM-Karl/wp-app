@@ -1,0 +1,86 @@
+@use '../../utils' as *;
+
+.most-reservation {
+
+  &__bottom-up {
+    padding-bottom: 0;
+    margin-bottom: -164px;
+    + .experience-2__space {
+      padding-top: 267px;
+
+      @media #{$md, $sm, $xs} {
+        padding-top: 244px;
+      }
+    }
+  }
+
+  &__content {
+    z-index: 2;
+    padding: 60px;
+    position: relative;
+    background: var(--rr-common-white);
+    max-width: 950px;
+
+    @media #{$sm, $xs} {
+      padding:  40px 20px;
+    }
+
+    &::before {
+      content: "";
+      top: 10px;
+      left: 10px;
+      right: -10px;
+      z-index: -1;
+      height: 96.5%;
+      position: absolute;
+      width: calc(100% - 20px);
+      border: 1.5px dashed #E9DEE0;
+
+      @media #{$xs} {
+        display: none;
+      }
+    }
+
+    p {
+      max-width: 745px;
+
+      @media #{$lg, $md, $sm, $xs} {
+        max-width: 100%;
+      }
+    }
+
+    &-list {
+      list-style: none;
+
+      li {
+        gap: 14px;
+        z-index: 3;
+        display: flex;
+        font-size: 18px;
+        padding-top: 13px;
+        padding-left: 21px;
+        padding-bottom: 14px;
+        position: relative;
+        align-items: center;
+        background: linear-gradient(90deg, #F4F1EF 5.5%, rgba(255, 255, 255, 0) 100%);
+
+        @media #{$md, $sm, $xs} {
+          font-size: 16px;
+          align-items: baseline;
+        }
+        @media #{$sm, $xs} {
+          padding-top: 5px;
+          padding-left: 10px;
+          padding-bottom: 5px;
+        }
+        @media #{$xs} {
+          gap: 10px;
+        }
+
+        &:not(:last-child) {
+          margin-bottom: 15px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.zcpri_module_rules > .rn-ui-block{
+    padding-top:5px!important;
+}
+
+.zcpri_module_title{
+    border-bottom: 0!important;
+}
+
+.zcpri_module_title .rn-ui-block{
+   padding-top:19px!important;
+}
+
+.rn-container .rn-ui-section.rn-ui-big-section.zcpri_module_title>.rn-ui-block>.rn-ui-head{
+     padding-bottom:14px!important;
+}
+
+.zcpri_module_max .rn-ui-block{
+    padding-top:9px!important;
+}
+
+.zcpri_module_max > .rn-ui-block{
+    padding-top:0px!important;
+}
+
+#woopricely_page.rn-option-page .rn-option-page-tool:not(.rn-option-page-footer) {
+    position: sticky;
+    top: 31px;
+    z-index: 410;
+    background-color: #fff;
+}

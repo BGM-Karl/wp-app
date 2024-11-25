@@ -1,0 +1,9 @@
+@use '../../utils' as *;
+
+.customer-feedback {
+
+  &__bg {
+    background-position: center;
+    background-size: cover;
+  }
+}

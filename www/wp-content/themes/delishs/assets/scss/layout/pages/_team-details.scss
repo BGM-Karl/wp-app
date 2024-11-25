@@ -1,0 +1,129 @@
+@use '../../utils' as *;
+
+.team-details {
+
+  &-wrapper {
+    background-color: #F6F6F6;
+    padding: 100px 0;
+
+    @media #{$lg, $md, $sm, $xs} {
+      padding: 60px 40px;
+    }
+    @media #{$xs} {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  &__title {
+    font-size: 40px;
+    font-weight: var(--rr-fw-bold);
+    margin-bottom: 6px;
+  }
+
+  &__sub-title {
+    font-size: 16px;
+    font-weight: var(--rr-fw-medium);
+    color: var(--rr-theme-primary);
+  }
+
+  &__content {
+    margin-left: -9px;
+    margin-right: -17px;
+    line-height: 0;
+
+    @media #{$lg, $md, $sm, $xs} {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .table-bordered>:not(caption)>*>* {
+      @media #{$sm, $xs} {
+        border: none;
+      }
+    }
+    &-table {
+      border-color: #E5E3E3;
+      --bs-table-bg: none;
+      margin-bottom: 40px;
+
+      tr {
+        border-left: hidden;
+        border-right: hidden;
+        border-color: #E5E3E3;
+
+        @media #{$sm, $xs} {
+          border: none;
+        }
+
+        td {
+          padding: 28px 0;
+
+          @media #{$sm, $xs} {
+            display: flex;
+            flex-direction: column;
+          }
+        }
+      }
+
+      &__item {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+
+        @media #{$sm, $xs} {
+          padding-left: 0;
+        }
+
+        .icon {
+          width: 50px;
+          height: 50px;
+          display: flex;
+          color: var(--rr-theme-primary);
+          align-items: center;
+          justify-content: center;
+          @include border-radius(500px);
+          background: var(--rr-common-white);
+        }
+
+        .text {
+          display: flex;
+          flex-direction: column;
+          span {
+            line-height: 20px;
+            line-height: 26px;
+            color: var(--rr-text-body);
+          }
+
+          h6 {
+            font-size: 18px;
+            font-weight: var(--rr-fw-medium);
+          }
+          a {
+            font-size: 18px;
+            line-height: 26px;
+            font-weight: var(--rr-fw-medium);
+          }
+        }
+      }
+    }
+
+    .rr-btn-solid {
+      display: inline-block;
+      padding: 13.5px 39.5px;
+    }
+  }
+
+  &__media {
+    display: flex;
+    margin-right: -9px;
+    margin-left: 24px;
+    justify-content: end;
+
+    @media #{$lg, $md, $sm, $xs} {
+      margin-right: 0;
+      margin-left: 0;
+      justify-content: center;
+      margin-top: 60px;
+    }
+  }
+}
