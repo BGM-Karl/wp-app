@@ -24,7 +24,8 @@
 
 .git
 .gitignore
-.www
+
+www/
 
 # Node.js dependencies:
 

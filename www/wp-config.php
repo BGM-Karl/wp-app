@@ -1,5 +1,7 @@
 <?php
-
+if (file_exists(__DIR__ . '/vendor/autoload.php')) {
+    require_once __DIR__ . '/vendor/autoload.php';
+}
 
 /**
  * The base configuration for WordPress
@@ -38,6 +40,10 @@ if ($onGae) {
 	define('WP_HOME','https://wpjs-442309.de.r.appspot.com');
 	define('WP_SITEURL','https://wpjs-442309.de.r.appspot.com');
 	$_SERVER['HTTPS'] = 'on';
+
+	// define('WP_PLUGIN_DIR', 'gs://wpjs-442309.appspot.com/wordpress/plugin');
+	// define('WP_PLUGIN_URL', 'https://storage.googleapis.com/wpjs-442309.appspot.com/wordpress/plugin');
+
 } else {
     /** Local environment */
     define('DB_HOST', 'serverless-us-central1.sysp0000.db2.skysql.com:4009');

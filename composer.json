@@ -1,0 +1,12 @@
+{
+    "name": "bgm-karl/wp-app",
+    "repositories": [
+        {
+            "url": "https://github.com/BGM-Karl/wp-app",
+            "type": "vcs"
+        }
+    ],
+    "require": {
+        "bgm-karl/wp-app": "*"
+    }
+}

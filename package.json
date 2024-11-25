@@ -8,7 +8,7 @@
     "build": "rimraf dist && tsc && tsc-alias",
     "start": "node dist/app.js",
     "dev": "npm run build && node dist/app.js",
-    "deploy": "gcloud app deploy app.yaml --project=wpjs-442309 --quiet"
+    "deploy": "gcloud app deploy app.yaml --project=wpjs-442309 --quiet --no-cache"
   },
   "author": "",
   "license": "ISC",
