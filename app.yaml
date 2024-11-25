@@ -1,8 +1,7 @@
 runtime: php83  # 選擇 PHP 8.3 執行環境
 
 instance_class: F1  # 指定實例類型 (依需求調整)
-# composer 會將套件安裝在 vendor/bgm-karl/wp-app
-entrypoint: php -S 0.0.0.0:8080 -t /app/vendor/bgm-karl/wp-app/www
+entrypoint: php -S 0.0.0.0:8080 -t wp-app/www
 
 env_variables:
   # WordPress 與 Cloud SQL 的相關設定

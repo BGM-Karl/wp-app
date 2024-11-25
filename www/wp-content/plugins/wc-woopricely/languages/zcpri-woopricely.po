@@ -1,0 +1,3549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooPricely - WooCommerce Dynamic Pricing & Discounts 1.3.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-woopricely-premium\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-30T01:45:02+02:00\n"
+"PO-Revision-Date: 2023-07-30 00:46+0100\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: zcpri-woopricely\n"
+
+#. Plugin Name of the plugin
+#: D:\My
+#: Projects\Website
+#: Projects\CodeCanyon\wc-woopricely-premium\woo-pricely.php
+msgid "WooPricely - WooCommerce Dynamic Pricing & Discounts"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: D:\My
+#: Projects\Website
+#: Projects\CodeCanyon\wc-woopricely-premium\woo-pricely.php
+msgid "https://codecanyon.net/item/woopricely-dynamic-pricing-fees-discounts/23844181?ref=zendcrew"
+msgstr ""
+
+#. Description of the plugin
+#: D:\My
+#: Projects\Website
+#: Projects\CodeCanyon\wc-woopricely-premium\woo-pricely.php
+msgid "A multi-purpose pricing and discount toolkit for your WooCommerce store."
+msgstr ""
+
+#. Author of the plugin
+#: D:\My
+#: Projects\Website
+#: Projects\CodeCanyon\wc-woopricely-premium\woo-pricely.php
+msgid "zendcrew"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\My
+#: Projects\Website
+#: Projects\CodeCanyon\wc-woopricely-premium\woo-pricely.php
+msgid "https://codecanyon.net/user/zendcrew?ref=zendcrew"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-functions.php:28
+#: extensions/woopricely/admin/admin-functions.php:95
+msgid "Optional"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-functions.php:29
+#: extensions/woopricely/admin/admin-functions.php:96
+msgid "Required"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:12
+msgid "Checkout Discount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:52
+msgid "Controls discount title on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:54
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:54
+#: extensions/woopricely/admin/settings-general.php:352
+#: extensions/woopricely/admin/settings-general.php:355
+#: extensions/woopricely/admin/settings-general.php:927
+#: extensions/woopricely/admin/settings-general.php:1071
+msgid "Title"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:56
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:66
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:143
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:208
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:56
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:66
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:143
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:212
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:113
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:131
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:103
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:71
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:350
+#: extensions/woopricely/admin/settings-general.php:854
+#: extensions/woopricely/admin/settings-general.php:930
+#: extensions/woopricely/admin/settings-general.php:940
+#: extensions/woopricely/admin/settings-general.php:950
+#: extensions/woopricely/admin/settings-general.php:1074
+#: extensions/woopricely/admin/settings-general.php:1084
+#: extensions/woopricely/admin/settings-general.php:1094
+msgid "Type here..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:62
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:62
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:99
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:67
+msgid "Adds a private note for reference purposes"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:64
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:64
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:101
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:69
+msgid "Admin Note"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:73
+msgid "Send Discount To Groups"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:74
+msgid "Allows you to add the calculated discount to a group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:77
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:77
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:55
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:170
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:99
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:82
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:274
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:71
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-is-logged-in.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:72
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-downloadable.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-featured.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-virtual.php:24
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:73
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-on-sale.php:24
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:69
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:115
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:161
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:65
+#: extensions/woopricely/admin/settings-general.php:50
+#: extensions/woopricely/admin/settings-general.php:95
+#: extensions/woopricely/admin/settings-general.php:168
+#: extensions/woopricely/admin/settings-general.php:228
+#: extensions/woopricely/admin/settings-general.php:241
+#: extensions/woopricely/admin/settings-general.php:254
+#: extensions/woopricely/admin/settings-general.php:283
+#: extensions/woopricely/admin/settings-general.php:393
+#: extensions/woopricely/admin/settings-general.php:407
+#: extensions/woopricely/admin/settings-general.php:535
+#: extensions/woopricely/admin/settings-general.php:548
+#: extensions/woopricely/admin/settings-general.php:561
+#: extensions/woopricely/admin/settings-general.php:691
+#: extensions/woopricely/admin/settings-general.php:727
+#: extensions/woopricely/admin/settings-general.php:747
+#: extensions/woopricely/admin/settings-general.php:1001
+#: extensions/woopricely/admin/settings-general.php:1151
+#: extensions/woopricely/admin/settings-general.php:1234
+#: extensions/woopricely/admin/settings-general.php:1268
+#: extensions/woopricely/admin/settings-general.php:1302
+#: extensions/woopricely/admin/settings-general.php:1336
+#: extensions/woopricely/admin/settings-general.php:1369
+#: extensions/woopricely/admin/settings-general.php:1402
+#: extensions/woopricely/admin/settings-general.php:1427
+msgid "No"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:78
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:78
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:56
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:171
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:100
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:83
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:275
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:72
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-is-logged-in.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:73
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-downloadable.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-featured.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-virtual.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:74
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-on-sale.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:70
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:116
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:162
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:66
+#: extensions/woopricely/admin/settings-general.php:51
+#: extensions/woopricely/admin/settings-general.php:96
+#: extensions/woopricely/admin/settings-general.php:169
+#: extensions/woopricely/admin/settings-general.php:229
+#: extensions/woopricely/admin/settings-general.php:242
+#: extensions/woopricely/admin/settings-general.php:255
+#: extensions/woopricely/admin/settings-general.php:284
+#: extensions/woopricely/admin/settings-general.php:394
+#: extensions/woopricely/admin/settings-general.php:408
+#: extensions/woopricely/admin/settings-general.php:536
+#: extensions/woopricely/admin/settings-general.php:549
+#: extensions/woopricely/admin/settings-general.php:562
+#: extensions/woopricely/admin/settings-general.php:692
+#: extensions/woopricely/admin/settings-general.php:728
+#: extensions/woopricely/admin/settings-general.php:748
+#: extensions/woopricely/admin/settings-general.php:1002
+#: extensions/woopricely/admin/settings-general.php:1152
+#: extensions/woopricely/admin/settings-general.php:1235
+#: extensions/woopricely/admin/settings-general.php:1269
+#: extensions/woopricely/admin/settings-general.php:1303
+#: extensions/woopricely/admin/settings-general.php:1337
+#: extensions/woopricely/admin/settings-general.php:1370
+#: extensions/woopricely/admin/settings-general.php:1403
+#: extensions/woopricely/admin/settings-general.php:1428
+msgid "Yes"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:101
+msgid "Discount Group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:102
+msgid "Allows you to specify which discount group to send the calculated discount to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:105
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:105
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:52
+msgid "Select group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:112
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:112
+msgid "Include Method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:113
+msgid "Controls how the calculated discount should be added to the group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:116
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:116
+msgid "Add amount to group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:117
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:117
+msgid "Subtract amount from group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:118
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:118
+msgid "Set group amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:140
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:140
+#: extensions/woopricely/admin/settings-general.php:937
+#: extensions/woopricely/admin/settings-general.php:1081
+msgid "Description"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:141
+msgid "Controls discount description on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:150
+#: extensions/woopricely/admin/settings-general.php:987
+msgid "Coupon Code"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:151
+msgid "Applies coupon code the discount rule on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:153
+#: extensions/woopricely/admin/settings-general.php:990
+msgid "xx-xxxxx"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:161
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:151
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:25
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:91
+msgid "Minimum"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:162
+msgid "Controls discount minimum value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:164
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:154
+msgid "0 minimum"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:176
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:166
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:92
+msgid "Maximum"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:177
+msgid "Controls discount maximum value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:179
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:169
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:39
+msgid "No maximum"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:205
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:209
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:128
+#: extensions/woopricely/admin/settings-general.php:947
+#: extensions/woopricely/admin/settings-general.php:1091
+msgid "Cart/Checkout Notification"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:206
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:210
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:129
+#: extensions/woopricely/admin/settings-general.php:948
+#: extensions/woopricely/admin/settings-general.php:1092
+msgid "Controls the notification message on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:222
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:93
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:93
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:22
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:22
+msgid "Discount Type"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:223
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:94
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:23
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:23
+msgid "Controls discount amount type"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:228
+msgid "Fixed discount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:229
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:54
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:101
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:30
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:30
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:119
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:198
+msgid "Percentage discount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:235
+msgid "Fix discount per line item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:236
+msgid "Fix discount per item unit"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:237
+msgid "Percentage discount per item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:249
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:270
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:253
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:274
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:111
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:40
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:40
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:130
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:209
+msgid "Base On"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:250
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:271
+msgid "Controls how to calculate the discount amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:252
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:256
+#: extensions/woopricely/admin/settings-checkout-discounts.php:85
+#: extensions/woopricely/admin/settings-checkout-fees.php:86
+#: extensions/woopricely/admin/settings-checkout-pricing.php:85
+msgid "Subtotal including tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:253
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:257
+#: extensions/woopricely/admin/settings-checkout-discounts.php:86
+#: extensions/woopricely/admin/settings-checkout-fees.php:87
+#: extensions/woopricely/admin/settings-checkout-pricing.php:86
+msgid "Subtotal excluding tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:273
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:277
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:114
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:25
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:43
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:43
+msgid "Cart item price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:277
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:281
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:118
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:29
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:47
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:47
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:136
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:215
+msgid "Source regular price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:278
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:282
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:119
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:30
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:48
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:48
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:137
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:216
+msgid "Source sale price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:284
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:288
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:125
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:36
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:54
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:54
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:143
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:222
+msgid "Computed regular price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:285
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:289
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:126
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:37
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:55
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:55
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:144
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:223
+msgid "Computed sale price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:305
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:309
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:146
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:94
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:75
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:75
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:164
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:243
+msgid "Amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:306
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:147
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:76
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:76
+msgid "Controls the amount to apply based on the Discount Type method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:308
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:312
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:67
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:149
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:78
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:78
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:167
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:246
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:53
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:50
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:50
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:75
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:75
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:128
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:127
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:129
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:128
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:52
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:50
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:60
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:49
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:49
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:94
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:140
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:45
+#: extensions/woopricely/admin/settings-checkout-discounts.php:63
+#: extensions/woopricely/admin/settings-checkout-fees.php:64
+#: extensions/woopricely/admin/settings-checkout-pricing.php:63
+#: extensions/woopricely/admin/settings-general.php:705
+#: extensions/woopricely/admin/settings-general.php:767
+#: extensions/woopricely/admin/settings-products-pricing.php:62
+msgid "0.00"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:323
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:327
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:148
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:361
+msgid "Product Filters"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:324
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:328
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:149
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:362
+msgid "List of product filters, empty filters will include all products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:342
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:346
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:203
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:235
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:140
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:161
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:374
+msgid "Add Filter"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:364
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:368
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:128
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:396
+msgid "Conditions"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:365
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:369
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:129
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:397
+msgid "List of conditions in which this rule should apply, empty conditions will apply in all cases"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:377
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:382
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:141
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:409
+msgid "Add Condition"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:402
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:406
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:165
+msgid "Apply this and other rules"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:403
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:407
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:166
+msgid "Apply only this rule"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:404
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:408
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:167
+msgid "Apply if other rules are valid"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:405
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:409
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:168
+msgid "Apply if no other valid rules"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:414
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:418
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:177
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:445
+#: extensions/woopricely/admin/settings-general.php:44
+#: extensions/woopricely/admin/settings-general.php:46
+#: extensions/woopricely/admin/settings-general.php:162
+#: extensions/woopricely/admin/settings-general.php:164
+#: extensions/woopricely/admin/settings-general.php:279
+#: extensions/woopricely/admin/settings-general.php:687
+msgid "Enable"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-dicscounts/rules-template.php:415
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:419
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:178
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:446
+msgid "Disable"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:12
+msgid "Checkout Fee"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:52
+msgid "Controls fee title on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:73
+msgid "Send Fee To Groups"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:74
+msgid "Allows you to add the calculated fee to a group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:101
+msgid "Fee Group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:102
+msgid "Allows to specify which fee group to send the calculated fee to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:113
+msgid "Controls how the calculated fee should be added to the group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:141
+msgid "Controls fee description on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:152
+msgid "Controls fee minimum value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:167
+msgid "Controls fee maximum value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:180
+msgid "Taxable"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:181
+msgid "Controls fee tax class"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:184
+#: extensions/woopricely/admin/settings-general.php:1135
+msgid "Not Taxable"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:185
+#: extensions/woopricely/admin/settings-general.php:1136
+msgid "Standard"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:226
+msgid "Fee Type"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:227
+msgid "Controls fee amount type"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:232
+msgid "Fixed fee"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:233
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:120
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:199
+msgid "Percentage fee"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:239
+msgid "Fix fee per line item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:240
+msgid "Fix fee per item unit"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:241
+msgid "Percentage fee per item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:254
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:275
+msgid "Controls how to calculate the fee amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-fees/rules-template.php:310
+msgid "Controls the amount to apply based on the Fee Type method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/products-group-template.php:25
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:26
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:41
+msgid "Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:52
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:98
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:27
+msgid "Fixed price per unit"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/quantity-ranges-template.php:53
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:100
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:29
+msgid "Fixed discount amount per unit"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:23
+msgid "Purchased Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:24
+msgid "Controls the minimum product quantity for the discount to apply"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:38
+msgid "Received Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:39
+msgid "Controls the total number of products to apply the discount to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:52
+msgid "Auto Add"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:53
+msgid "Automatically adds more discounted products if quantity is less than Received Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:96
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:25
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:25
+msgid "Free"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:97
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:26
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:116
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:195
+msgid "Fixed price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:99
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:28
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:117
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:196
+msgid "Fixed discount amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:112
+msgid "Controls how to calculate the discount pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:167
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:96
+msgid "Repeating"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:168
+msgid "Allows the discounts to apply more than once"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:190
+msgid "Purchased Product Filters"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:191
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:226
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:157
+msgid "List of product filters, empty filters will not include any product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bogo.php:225
+msgid "Discount Product Filters"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:22
+msgid "Range Discounts Base On"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:23
+msgid "Controls how to calculate the range discount pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:48
+msgid "Metrics Table"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:49
+msgid "Controls the metric tables to display on single product page"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:69
+msgid "Quantity Ranges"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:70
+msgid "Controls quantity range discounts pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-bulk.php:100
+msgid "Add Quantity Range"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:26
+msgid "Fixed price per item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:27
+msgid "Fixed price per group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:28
+msgid "Fixed discount per item"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:29
+msgid "Fixed discount per group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:41
+msgid "Controls how to calculate the products group discount pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:97
+msgid "Allows group discount pricing to apply discounts more than once"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:119
+msgid "Products In Group"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:120
+msgid "List of group product filters, empty filters will not include any product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:156
+msgid "Other Product Filters"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-group.php:169
+msgid "Add Rule"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:41
+msgid "Controls how to calculate the simple discount pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:110
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:347
+msgid "Promo Message"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template-simple.php:111
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:348
+msgid "Controls the promotional message on single product page"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:17
+#: extensions/woopricely/admin/settings-checkout-pricing.php:7
+msgid "Checkout Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:58
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:53
+msgid "Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:59
+msgid "Controls the checkout pricing mode"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:62
+msgid "Simple Discount Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:63
+msgid "Bulk Discount Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:64
+msgid "Tiered Discount Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:65
+msgid "Products Group Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:66
+msgid "Buy x Get x Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:67
+msgid "Buy x Get y Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:76
+msgid "Quantities Based On"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:77
+msgid "Controls how to count cart item quantities"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:79
+msgid "Product ID"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:80
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-variation.php:7
+msgid "Product Variations"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:81
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:8
+msgid "Product Categories"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:82
+msgid "Cart Line Items"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/checkout-prices/rules-template.php:83
+msgid "All Cart Items"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:12
+msgid "Product Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:54
+msgid "Controls the products pricing mode, you can choose either Regular Price Adjustment, Sale Price Adjustment or Regular / Sale Price Adjustment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:57
+msgid "Sale Price Adjusment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:58
+msgid "Regular Price Adjusment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:59
+msgid "Regular / Sale Price Adjusment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:78
+msgid "Clear Sale Price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:79
+msgid "Clears sale prices on applied products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:113
+msgid "Regular Price Adjustment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:114
+msgid "Controls regular pricing adjustment method on applied products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:118
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:197
+msgid "Fixed fee amount"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:131
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:210
+msgid "Controls how to calculate the product prices, calculations can be based on product regular price, sale price or previously calculated prices"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:134
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:213
+msgid "Source Prices"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:141
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:220
+msgid "Computed Prices"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:165
+msgid "Controls the amount to apply based on the Regular Price Adjustment method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:192
+msgid "Sale Price Adjustment"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:193
+msgid "Controls sale pricing adjustment method on applied products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:244
+msgid "Controls the amount to apply based on the Sale Price Adjustment method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:271
+msgid "Schedule Sale Price"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:272
+msgid "Controls product sale schedule dates, work like WooCommerce schedule sale dates, enabling this option allows you to set the 'From' and 'To' date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:285
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:25
+msgid "From"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:286
+msgid "Controls product sale schedule from date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:312
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:26
+msgid "To"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:313
+msgid "Controls product sale schedule to date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:433
+msgid "Apply this and other rules (per product)"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:434
+msgid "Apply only this rule (per product)"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:435
+msgid "Apply if other rules are valid (per product)"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/products-prices/rules-template.php:436
+msgid "Apply if no other valid rules (per product)"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-country.php:7
+msgid "Billing Country"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-country.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-payment-method.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-state.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-month.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-country.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-state.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-customers.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-shipping-class.php:24
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-specific.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-status.php:24
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-types.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-variation.php:26
+msgid "Any in the list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-country.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-payment-method.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-state.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-month.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-country.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-state.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-customers.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-shipping-class.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-specific.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-status.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-types.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-variation.php:27
+msgid "None in the list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-country.php:38
+msgid "Billing Countries..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-payment-method.php:7
+msgid "Payment Method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-payment-method.php:36
+msgid "Payment methods..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-postcode.php:7
+msgid "Billing Postcode"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-postcode.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-postcode.php:26
+msgid "Match"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-postcode.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-postcode.php:27
+msgid "Not match"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-postcode.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-postcode.php:37
+msgid "e.g 1815, 870*, [1870 - 9999], DSE, LDS"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-state.php:7
+msgid "Billing State"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-billing-state.php:38
+msgid "Billing States..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:8
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:112
+msgid "Date & Time"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:27
+msgid "Between"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date-time.php:84
+msgid "yy-mm-dd 00:00:00"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:7
+msgid "Date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:25
+msgid "Specific date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:59
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-date.php:80
+msgid "yy-mm-dd"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-month.php:8
+msgid "Days Of Month"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-month.php:23
+msgid "Day [0]"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:7
+msgid "Days Of Week"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:38
+msgid "Monday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:39
+msgid "Tuesday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:40
+msgid "Wednesday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:41
+msgid "Thursday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:42
+msgid "Friday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:43
+msgid "Saturday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-days-of-week.php:44
+msgid "Sunday"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:7
+msgid "Months Of Year"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:39
+msgid "January"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:40
+msgid "February"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:41
+msgid "March"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:42
+msgid "April"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:43
+msgid "May"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:44
+msgid "June"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:45
+msgid "July"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:46
+msgid "August"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:47
+msgid "September"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:48
+msgid "October"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:49
+msgid "November"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-months-of-year.php:50
+msgid "December"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:7
+msgid "Time"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:54
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-calendar-time.php:71
+msgid "00:00:00"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:7
+msgid "Applied Coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:25
+msgid "Any list?"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:27
+msgid "All in the list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:28
+msgid "Only in the list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-coupons.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-categories.php:31
+msgid "Only all in the list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:7
+msgid "Attributes Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:60
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:60
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:82
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:104
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:29
+msgid "More than or equal to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:61
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:61
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:30
+msgid "More than"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:31
+msgid "Less than or equal to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:88
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:110
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:32
+msgid "Less than"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:64
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:64
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:88
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:110
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:89
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:111
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:88
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:110
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:49
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:33
+msgid "Equal to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:65
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:65
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:89
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:111
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:88
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:110
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:90
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:112
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:88
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:110
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:109
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:89
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:111
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:50
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:34
+msgid "Not equal to"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-attributes.php:51
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:57
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:64
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:72
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:65
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:127
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:126
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:64
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:64
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:63
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:62
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:61
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:52
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:50
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:49
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:58
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:42
+msgid "0"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-categories.php:7
+msgid "Categories Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-products.php:7
+msgid "Products Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-tags.php:7
+msgid "Tags Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-quantity-variations.php:7
+msgid "Variations Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-attributes.php:7
+msgid "Attributes Subtotal"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-categories.php:7
+msgid "Categories Subtotal"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-products.php:7
+msgid "Products Subtotal"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-tags.php:7
+msgid "Tags Subtotal"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-item-subtotal-variations.php:7
+msgid "Variations Subtotal"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-attributes.php:7
+msgid "Attributes In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-categories.php:8
+msgid "Categories In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:7
+msgid "Product Meta Field In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:24
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:26
+msgid "Meta field key"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:28
+msgid "Empty"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:36
+msgid "Contains"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:35
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:37
+msgid "Not contains"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:38
+msgid "Begins with"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:39
+msgid "Ends with"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:46
+msgid "Checked"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-meta-field.php:55
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:56
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:57
+msgid "Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-products.php:8
+msgid "Products In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-tags.php:7
+msgid "Tags In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-items-variations.php:7
+msgid "Variations In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-line-item-count.php:7
+msgid "Number Of Cart Items"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:7
+msgid "Subtotals Including Tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-subtotals.php:8
+msgid "Subtotals Excluding Tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-quantity.php:7
+msgid "Cart Total Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:7
+msgid "Cart Total Weight ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-total-weight.php:41
+msgid "0.0"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:7
+msgid "Totals Including Tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-cart-totals.php:8
+msgid "Totals Excluding Tax"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:8
+msgid "Average ([0]) Per Order"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:25
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:24
+msgid "All time"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:36
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:26
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:25
+msgid "Current"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:37
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:27
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:26
+#: extensions/woopricely/admin/settings-general.php:299
+#: extensions/woopricely/inc/class-woopricely-views.php:164
+msgid "Hours"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:38
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:28
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:27
+#: extensions/woopricely/admin/settings-general.php:300
+#: extensions/woopricely/inc/class-woopricely-views.php:163
+msgid "Days"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:39
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:28
+#: extensions/woopricely/admin/settings-general.php:301
+msgid "Weeks"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:40
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:30
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:29
+#: extensions/woopricely/admin/settings-general.php:302
+msgid "Months"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:41
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:34
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:33
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:32
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:31
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:30
+msgid "Years"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:52
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:42
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:41
+msgid "Day"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:53
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:43
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:42
+msgid "Week"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:54
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:44
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:43
+msgid "Month"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-average-spent.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:55
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:48
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:47
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:46
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:45
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:44
+msgid "Year"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:7
+msgid "Last Order Date"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:25
+msgid "Earlier than"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-order.php:26
+msgid "Within the past"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-last-spent.php:8
+msgid "Last Order Amount ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-max-spent.php:8
+msgid "Maximum ([0]) Per Order"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-min-spent.php:8
+msgid "Minimum ([0]) Per Order"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-orders-count.php:7
+msgid "Number Of Orders"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-reviews-count.php:7
+msgid "Number Of Reviews"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-total-spent.php:8
+msgid "Total Spent ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:7
+msgid "Used Coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-customer-value-used-coupons.php:8
+msgid "Never Use Coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:7
+msgid "Bought Attributes"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:82
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:103
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:82
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:103
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:104
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:82
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:103
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:81
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:102
+msgid "Any in list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:104
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:104
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:104
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:82
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:103
+msgid "All in list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:105
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:83
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:104
+msgid "Only in list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:106
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:84
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:105
+msgid "Only all in list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-attributes.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:87
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:108
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:86
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:107
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:85
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:106
+msgid "None in list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-categories.php:7
+msgid "Bought Categories"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-products.php:8
+msgid "Bought Products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-tags.php:7
+msgid "Bought Tags"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-item-variations.php:6
+msgid "Bought Variations"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-attributes.php:7
+msgid "Bought Attributes Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-categories.php:7
+msgid "Bought Categories Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-products.php:7
+msgid "Bought Products Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-tags.php:7
+msgid "Bought Tags Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-quantity-variations.php:7
+msgid "Bought Variations Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-attributes.php:7
+msgid "Bought Attributes Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-categories.php:7
+msgid "Bought Categories Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-products.php:8
+msgid "Bought Products Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-tags.php:7
+msgid "Bought Tags Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-purchased-history-value-variations.php:7
+msgid "Bought Variations Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-cost.php:7
+msgid "Shipping Cost"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-country.php:7
+msgid "Shipping Country"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-country.php:38
+msgid "Shipping Countries..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:7
+msgid "Shipping Method"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-method.php:39
+msgid "Shipping methods..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-postcode.php:7
+msgid "Shipping Postcode"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:7
+msgid "Shipping Rate"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-rate.php:39
+msgid "Shipping rates..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-state.php:7
+msgid "Shipping State"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-state.php:39
+msgid "Shipping States..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:7
+msgid "Shipping Zone"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-shipping-zone.php:40
+msgid "Shipping zones..."
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-caps.php:8
+msgid "User Capabilities"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-customers.php:8
+msgid "Customers"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-is-logged-in.php:8
+msgid "User Is Logged In"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-meta-field.php:7
+msgid "User Meta Field"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions-user-roles.php:7
+msgid "User Roles"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:90
+msgid "Billing & Shipping"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:94
+msgid "Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:97
+msgid "Items In Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:100
+msgid "Cart Item Subtotals"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:103
+msgid "Cart Item Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:106
+msgid "Customer"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:109
+msgid "Customer Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:115
+msgid "Purchase History"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:118
+msgid "Purchase History Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/conditions/conditions.php:121
+msgid "Purchase History Value"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:7
+msgid "Product Attributes"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-attributes.php:29
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:29
+msgid "Only all list"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-best-selling.php:7
+msgid "Best Selling Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-downloadable.php:7
+msgid "Downloadable Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-featured.php:7
+msgid "Featured Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-is-virtual.php:7
+msgid "Virtual Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-meta-field.php:7
+msgid "Product Meta Field"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-on-sale.php:7
+msgid "Product Is On Sale"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:8
+msgid "Product Regular Price ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:9
+msgid "Product Sales Price ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-prices.php:10
+msgid "Product Price ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:7
+msgid "Product Average Rating"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-rating.php:8
+msgid "Product Rating Count"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-reviews.php:7
+msgid "Product Reviews"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-shipping-class.php:7
+msgid "Product Shipping Class"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-specific.php:7
+msgid "Specific Products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-quantity.php:7
+msgid "Product Stock Quantity"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-stock-status.php:7
+msgid "Product Stock Status"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-tags.php:7
+msgid "Product Tags"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-top-free.php:7
+msgid "Top Free Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-top-paid.php:7
+msgid "Top Paid Product"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-total-sold.php:7
+msgid "Product Total Sold"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-types.php:7
+msgid "Product Types"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules-weight.php:7
+msgid "Product Weight ([0])"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules.php:28
+msgid "Products"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules.php:31
+msgid "Product Prices"
+msgstr ""
+
+#: extensions/woopricely/admin/admin-hooks/rule-filters/products-rules/product-rules.php:34
+msgid "Product Properties"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:7
+msgid "Checkout Discounts"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:22
+msgid "Checkout Discount Rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:23
+msgid "Create unlimited number checkout discount rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:44
+#: extensions/woopricely/admin/settings-checkout-pricing.php:44
+msgid "Discounts Limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:45
+msgid "Controls checkout discounts limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:48
+#: extensions/woopricely/admin/settings-checkout-fees.php:49
+#: extensions/woopricely/admin/settings-checkout-pricing.php:48
+#: extensions/woopricely/admin/settings-products-pricing.php:47
+msgid "No limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:49
+#: extensions/woopricely/admin/settings-checkout-pricing.php:49
+#: extensions/woopricely/admin/settings-products-pricing.php:48
+msgid "Discount amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:50
+#: extensions/woopricely/admin/settings-checkout-pricing.php:50
+#: extensions/woopricely/admin/settings-products-pricing.php:49
+msgid "Percentage Discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:60
+#: extensions/woopricely/admin/settings-checkout-fees.php:61
+#: extensions/woopricely/admin/settings-checkout-pricing.php:60
+#: extensions/woopricely/admin/settings-products-pricing.php:59
+msgid "Limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:61
+msgid "Controls checkout discounts limit amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:81
+#: extensions/woopricely/admin/settings-checkout-fees.php:82
+#: extensions/woopricely/admin/settings-checkout-pricing.php:81
+msgid "Limit Based On"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:82
+msgid "Controls checkout percentage discount limit bases on cart totals"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:102
+#: extensions/woopricely/admin/settings-checkout-fees.php:103
+#: extensions/woopricely/admin/settings-checkout-pricing.php:102
+msgid "Rules Apply Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:103
+msgid "Controls checkout discounts rules apply mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:106
+#: extensions/woopricely/admin/settings-checkout-fees.php:107
+#: extensions/woopricely/admin/settings-checkout-pricing.php:106
+#: extensions/woopricely/admin/settings-products-pricing.php:84
+msgid "Apply all valid rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:107
+msgid "Apply rules/groups with bigger discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:108
+msgid "Apply rules/groups with smaller discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:109
+#: extensions/woopricely/admin/settings-checkout-fees.php:110
+msgid "Apply first valid rule/group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:110
+#: extensions/woopricely/admin/settings-checkout-fees.php:111
+msgid "Apply last valid rule/group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:111
+#: extensions/woopricely/admin/settings-checkout-fees.php:112
+#: extensions/woopricely/admin/settings-checkout-pricing.php:111
+#: extensions/woopricely/admin/settings-products-pricing.php:89
+msgid "Do not apply any rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:142
+msgid "Add Discount Rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-discounts.php:167
+#: extensions/woopricely/admin/settings-general.php:880
+#: extensions/woopricely/admin/settings-general.php:889
+msgid "Grouped Discounts"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:7
+msgid "Checkout Fees"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:23
+msgid "Checkout Fee Rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:24
+msgid "Create unlimited number checkout fee rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:45
+msgid "Fees Limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:46
+msgid "Controls checkout fees limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:50
+msgid "Fee amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:51
+msgid "Percentage Fee"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:62
+msgid "Controls fees limit amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:83
+msgid "Controls checkout percentage fees limit based on cart totals"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:104
+msgid "Controls checkout fees rules apply mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:108
+msgid "Apply rules/groups with bigger fee"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:109
+msgid "Apply rules/groups with smaller fee"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:141
+msgid "Add Fee Rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-fees.php:166
+#: extensions/woopricely/admin/settings-general.php:1024
+#: extensions/woopricely/admin/settings-general.php:1033
+msgid "Grouped Fees"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:21
+msgid "Checkout Pricing Rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:22
+msgid "Create unlimited number of checkout discount pricing rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:45
+msgid "Controls pricing discounts limit"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:61
+msgid "Controls pricing discounts limit amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:82
+msgid "Controls percentage pricing discount based on cart totals"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:103
+#: extensions/woopricely/admin/settings-products-pricing.php:81
+msgid "Controls pricing rules apply mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:107
+msgid "Apply rules with bigger discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:108
+msgid "Apply rules with smaller discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:109
+msgid "Apply first valid rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:110
+msgid "Apply last valid rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:140
+#: extensions/woopricely/admin/settings-products-pricing.php:121
+msgid "Add Pricing Rule"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-checkout-pricing.php:165
+#: extensions/woopricely/admin/settings-general.php:1175
+#: extensions/woopricely/admin/settings-general.php:1184
+#: extensions/woopricely/inc/class-woopricely-views.php:552
+msgid "Volume Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:7
+msgid "General Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:32
+msgid "Quantity Metrics Table"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:33
+msgid "Use this panel to apply volume metrics table settings on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:47
+msgid "Enables all volume metrics tables on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:59
+#: extensions/woopricely/admin/settings-general.php:177
+#: extensions/woopricely/admin/settings-general.php:333
+msgid "Position"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:60
+msgid "Controls metrics tables position on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:64
+#: extensions/woopricely/admin/settings-general.php:182
+#: extensions/woopricely/admin/settings-general.php:337
+msgid "Before Product Title"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:65
+#: extensions/woopricely/admin/settings-general.php:183
+#: extensions/woopricely/admin/settings-general.php:338
+msgid "After Product Title"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:66
+#: extensions/woopricely/admin/settings-general.php:184
+#: extensions/woopricely/admin/settings-general.php:339
+msgid "After Price"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:67
+#: extensions/woopricely/admin/settings-general.php:185
+#: extensions/woopricely/admin/settings-general.php:340
+msgid "After Short Description"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:68
+#: extensions/woopricely/admin/settings-general.php:186
+#: extensions/woopricely/admin/settings-general.php:341
+msgid "After Add To Cart"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:69
+#: extensions/woopricely/admin/settings-general.php:187
+#: extensions/woopricely/admin/settings-general.php:342
+msgid "After Product Meta"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:70
+#: extensions/woopricely/admin/settings-general.php:188
+#: extensions/woopricely/admin/settings-general.php:343
+msgid "After Share Buttons"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:78
+msgid "Layout"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:79
+msgid "Controls metrics tables layout on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:82
+msgid "Horizontal"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:83
+msgid "Vertical"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:91
+msgid "Show Headers"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:92
+msgid "Shows all table headers"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:108
+msgid "Metrics Tables"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:109
+msgid "Use this panel to create multiple volume metrics tables"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:129
+msgid "Add New Table"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:150
+msgid "Promo Message Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:151
+msgid "Use this panel to apply promo message settings on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:165
+msgid "Enables promo message on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:178
+msgid "Controls promo message position on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:211
+msgid "Cart/Checkout Notification Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:212
+msgid "Use this panel to apply notification messages on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:224
+msgid "Enable Checkout Pricing Notifications"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:225
+msgid "Enables checkout pricing notifications on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:237
+msgid "Enable Checkout Discounts Notifications"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:238
+msgid "Enables checkout discounts notifications on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:250
+msgid "Enable Checkout Fees Notifications"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:251
+msgid "Enables checkout fees notifications on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:271
+msgid "Countdown Timer Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:272
+msgid "Use this panel to apply countdown timer settings on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:280
+msgid "Enables countdoun timer on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:292
+msgid "Time Left Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:293
+#: extensions/woopricely/admin/settings-general.php:313
+msgid "Time left controls when to show the countdown timer"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:296
+msgid "Unlimited"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:297
+#: extensions/woopricely/inc/class-woopricely-views.php:166
+msgid "Seconds"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:298
+#: extensions/woopricely/inc/class-woopricely-views.php:165
+msgid "Minutes"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:312
+msgid "Time Left"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:315
+msgid "00"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:334
+msgid "Controls countdoun timer position on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:353
+msgid "Controls countdoun timer title on single product pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:375
+msgid "Discounts Total Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:376
+msgid "Use this panel to apply discounts total settings on cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:381
+msgid "Show Discounts Total"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:382
+msgid "Enables discounts total amount on both cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:389
+msgid "On Cart:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:395
+#: extensions/woopricely/admin/settings-general.php:409
+msgid "Yes (with minus)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:403
+msgid "On Checkout:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:418
+msgid "Titles"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:419
+msgid "Controls discounts total titles on both cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:426
+#: extensions/woopricely/admin/settings-general.php:455
+msgid "Cart:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:429
+#: extensions/woopricely/admin/settings-general.php:439
+msgid "Discounts Total"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:436
+#: extensions/woopricely/admin/settings-general.php:470
+msgid "Checkout:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:447
+msgid "Positions"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:448
+msgid "Controls discounts total position on both cart and checkout pages"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:459
+#: extensions/woopricely/admin/settings-general.php:476
+msgid "Shipping (Before)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:460
+#: extensions/woopricely/admin/settings-general.php:477
+msgid "Shipping (After)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:461
+#: extensions/woopricely/admin/settings-general.php:478
+msgid "Totals (Before)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:462
+#: extensions/woopricely/admin/settings-general.php:479
+msgid "Totals (After)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:474
+msgid "Products (Before)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:475
+msgid "Products (After)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:502
+msgid "Grouped Discounts Apply Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:503
+msgid "Controls checkout grouped discounts apply mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:506
+msgid "Apply all group discounts"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:507
+msgid "Apply bigger discount per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:508
+msgid "Apply smaller discount per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:509
+msgid "Apply first discount per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:510
+msgid "Apply last discount  per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:524
+msgid "Checkout Discount Coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:525
+msgid "Use this panel to apply discounts as coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:531
+msgid "Apply As Coupons"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:532
+msgid "Applys checkout discounts as coupon codes"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:544
+msgid "Allow other coupon codes"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:545
+msgid "Allows other coupons on the cart"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:557
+msgid "Replace coupon labels"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:558
+msgid "Replaces coupon codes with discount labels"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:574
+msgid "Checkout Discount Groups"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:575
+msgid "Multiple discounts can be assigned to a single group, use this controls to create those groups"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:595
+msgid "Add Discount Group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:615
+msgid "Grouped Fees Apply Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:616
+msgid "Controls checkout grouped fees apply mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:619
+msgid "Apply all group fees"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:620
+msgid "Apply bigger fee per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:621
+msgid "Apply smaller fee per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:622
+msgid "Apply first fee per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:623
+msgid "Apply last fee  per group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:633
+msgid "Checkout Fee Groups"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:634
+msgid "Multiple fees can be assigned to a single group, use this controls to create those groups"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:654
+msgid "Add Fee Group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:674
+msgid "Products On Sale Query Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:675
+msgid "Use this panel to apply products on sale query settings, use <a href=\"https://docs.woocommerce.com/document/woocommerce-shortcodes/\" target=\"_blank\">WooCommerce shortcodes</a> to display your products"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:688
+msgid "Enables products on sale query"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:702
+msgid "Number of Products"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:703
+msgid "Controls the maximum total number of products to query"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:723
+msgid "Replace Default Products"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:724
+msgid "Replaces woocommerce default products on sale"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:743
+msgid "Debug Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:744
+msgid "Enables/Disables query cache"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:764
+msgid "Cache Duration (in minutes)"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:765
+msgid "Controls the cache duration on the query in minutes"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:801
+msgid "Checkout Pricing: Conditions Validation Modes"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:802
+msgid "Use this panel to control checkout pricing validation mode for conditions"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:815
+msgid "Add Validation Mode"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:851
+msgid "Custom CSS"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:852
+msgid "Additional css for, promo message, metric tables, count down timer, discounts and fees html"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:928
+msgid "Controls the discounts group label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:938
+msgid "Controls the discounts group description"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:958
+msgid "Minimum Discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:959
+msgid "Controls the discounts group minimum value"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:961
+#: extensions/woopricely/admin/settings-general.php:1105
+msgid "0 Minimum"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:973
+msgid "Maximum Discount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:974
+msgid "Controls the discounts group maximum value"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:976
+#: extensions/woopricely/admin/settings-general.php:1120
+msgid "No Maximum"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:988
+msgid "Specify the coupon code for this discounts group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:997
+#: extensions/woopricely/admin/settings-general.php:1147
+msgid "Always Show"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:998
+msgid "Hide this discount group if discount value is zero"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1072
+msgid "Controls the fee group label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1082
+msgid "Controls the fee group description"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1102
+msgid "Minimum Fee"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1103
+msgid "Controls the fees group minimum value"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1117
+msgid "Maximum Fee"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1118
+msgid "Controls the fees group maximum value"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1131
+msgid "Tax Class"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1132
+msgid "Specify the tax class for this fees group"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1148
+msgid "Hide this fee group if fee value is zero"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1222
+msgid "Table Title"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1223
+msgid "Controls metrics table title"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1230
+#: extensions/woopricely/admin/settings-general.php:1264
+#: extensions/woopricely/admin/settings-general.php:1298
+#: extensions/woopricely/admin/settings-general.php:1332
+#: extensions/woopricely/admin/settings-general.php:1365
+#: extensions/woopricely/admin/settings-general.php:1398
+msgid "Show:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1243
+msgid "Text:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1246
+msgid "Table title"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1256
+msgid "Quantity Row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1257
+msgid "Controls metrics table quantity row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1277
+#: extensions/woopricely/admin/settings-general.php:1311
+#: extensions/woopricely/admin/settings-general.php:1345
+#: extensions/woopricely/admin/settings-general.php:1378
+#: extensions/woopricely/admin/settings-general.php:1411
+msgid "Row Label:"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1280
+msgid "Quantity row label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1290
+msgid "Price Row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1291
+#: extensions/woopricely/admin/settings-general.php:1325
+msgid "Controls metrics table price row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1314
+msgid "Price row label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1324
+msgid "Price Percent Row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1348
+msgid "Price (%) row label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1357
+msgid "Discount Row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1358
+msgid "Controls metrics table discount amount row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1381
+msgid "Discount row label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1390
+msgid "Discount Percent Row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1391
+msgid "Controls metrics table discount percentage row"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1414
+msgid "Discount (%) row label"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1423
+msgid "Show Missing Ranges"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1424
+msgid "Controls missing ranges visibility"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1462
+msgid "All Conditions"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1483
+msgid "Validate on cart, checkout and products page"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-general.php:1484
+msgid "Validate on cart and checkout page only"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:21
+#: extensions/woopricely/admin/settings-page.php:40
+#: extensions/woopricely/admin/settings-page.php:41
+msgid "WooPricely"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:32
+#: extensions/woopricely/admin/settings-page.php:34
+msgid "Done!!"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:33
+msgid "Unable to save your settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:35
+msgid "Unable to reset reset your settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:36
+msgid "invalid nonce"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:50
+msgid "Import / Export"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:52
+msgid "Import Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:53
+msgid "Here you can import new settings. Simply paste the settings url or data on the field below."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:54
+msgid "Import from url"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:55
+msgid "Paste the url to another site's settings below and click the 'Import Now' button."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:56
+msgid "Paste the url to another site's settings here..."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:57
+msgid "Import Data"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:58
+msgid "Paste your backup settings below and click the 'Import Now' button."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:59
+msgid "Paste your backup settings here..."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:60
+msgid "Import Now"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:61
+msgid "Warning! This will override all existing settings. proceed with caution!"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:64
+msgid "Export Settings"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:65
+msgid "Here you can backup your current settings. You can later use it to restore your settings."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:66
+msgid "Download Data"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:67
+msgid "Export url"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:68
+msgid "Copy the url below, use it to transfer the settings from this site."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:69
+msgid "Export Data"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:70
+msgid "Copy the data below, use it as your backup."
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:74
+#: extensions/woopricely/admin/settings-page.php:80
+msgid "Reset All"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:75
+#: extensions/woopricely/admin/settings-page.php:81
+msgid "Reset Section"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:76
+#: extensions/woopricely/admin/settings-page.php:82
+msgid "Save All"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:77
+#: extensions/woopricely/admin/settings-page.php:83
+msgid "Save Section"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:88
+msgid "Help"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:96
+msgid "Documentation"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:106
+msgid "Facebook"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:113
+msgid "LinkedIn"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:120
+msgid "Stack Overflow"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-page.php:127
+msgid "Instagram"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:7
+msgid "Products Pricing"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:21
+msgid "Product Pricing Rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:22
+msgid "Create unlimited number product pricing rules"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:43
+msgid "Discount Limit Per Product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:44
+msgid "Controls discount pricing limit per product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:60
+msgid "Controls discount limit amount"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:80
+msgid "Rules Apply Mode Per Product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:85
+msgid "Apply rules with bigger price per product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:86
+msgid "Apply rules with smaller price per product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:87
+msgid "Apply first valid rule per product"
+msgstr ""
+
+#: extensions/woopricely/admin/settings-products-pricing.php:88
+msgid "Apply last valid rule per product"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:276
+msgid "Discounts Total:"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:556
+msgid "Qty"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:560
+msgid "Price"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:564
+msgid "Price (%)"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:568
+msgid "Discount"
+msgstr ""
+
+#: extensions/woopricely/inc/class-woopricely-views.php:572
+msgid "Discount (%)"
+msgstr ""
+
+#: extensions/woopricely/inc/views/views-metrics-table.php:22
+#: extensions/woopricely/inc/views/views-metrics-table.php:45
+#: extensions/woopricely/inc/views/views-metrics-table.php:91
+#: extensions/woopricely/inc/views/views-metrics-table.php:173
+#: extensions/woopricely/inc/views/views-metrics-table.php:186
+#: extensions/woopricely/inc/views/views-metrics-table.php:209
+msgid "[0] - [1]"
+msgstr ""
+
+#: extensions/woopricely/inc/views/views-metrics-table.php:25
+#: extensions/woopricely/inc/views/views-metrics-table.php:176
+msgid "[0] +"
+msgstr ""
+
+#: extensions/woopricely/inc/views/views-metrics-table.php:66
+#: extensions/woopricely/inc/views/views-metrics-table.php:115
+#: extensions/woopricely/inc/views/views-metrics-table.php:195
+#: extensions/woopricely/inc/views/views-metrics-table.php:219
+msgid "[0]%"
+msgstr ""
+
+#: extensions/woopricely/inc/views/views-metrics-table.php:68
+#: extensions/woopricely/inc/views/views-metrics-table.php:117
+#: extensions/woopricely/inc/views/views-metrics-table.php:197
+#: extensions/woopricely/inc/views/views-metrics-table.php:221
+msgid "[0]% - [1]%"
+msgstr ""
+
+#: extensions/woopricely/inc/views/views-metrics-table.php:89
+#: extensions/woopricely/inc/views/views-metrics-table.php:207
+msgid "[0]"
+msgstr ""

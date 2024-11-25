@@ -1,0 +1,150 @@
+= 1.3.15 - 29/08/2024 =
+[Check] - WordPress 6.6 compatibility check
+[Check] - WooCommerce 9.2 compatibility check
+
+= 1.3.14 - 13/12/2023 =
+[Update] - Updated framework
+[Check] - WooCommerce 8.2 compatibility check
+
+= 1.3.13 - 22/09/2023 =
+[Fix] - Fixed "WooCommerce Multi Currency – Currency Switcher" compatibility issue
+[Fix] - Fixed cart object bug
+[Fix] - Fixed PHP warning message issues
+[Update] - Updated Framework
+
+= 1.3.12 - 30/07/2023 =
+[Update] - WooCommerce 7.9 &amp; HPOS update
+
+= 1.3.11 - 07/06/2023 =
+[Update] - Updated Framework
+
+= 1.3.10 - 28/04/2023 =
+[Fix] - Fixed Taxes issue
+[New] - Added Sort Product By Prices Action Hooks
+[Update] - Updated Core
+[Update] - Updated admin page
+
+= 1.3.9 - 2/12/2022 =
+[Fix] - Fixed cart object bug
+[Fix] - Fixed PHP session_start bug
+[Update] - Updated Framework
+
+= 1.3.8 - 27/09/2022 =
+[Update] - Updated translation text
+[Update] - Changed text-domain
+[Update] - Updated Framework
+
+= 1.3.7 - 05/09/2022 =
+[Fix] - Fixed Product prices issue on Ajax calls
+[Fix] - Fixed admin coupons screen issue
+[Update] - Updated Framework
+
+= 1.3.6 - 30/11/2021 =
+[New] - Added Compatibility with Polylang
+[New] - Added Compatibility with WPML
+[New] - Added Compatibility with WOOCS - WooCommerce Currency Switcher
+[New] - Added Compatibility with WooCommerce Multi Currency - Currency Switcher
+[Fix] - Fixed Checkout Pricing issues 
+[Fix] - Fixed Product Variation minor issue
+[Update] - Updated Framework
+
+= 1.3.5 - 21/11/2020 =
+[Fix] - Fixed Products Group Pricing bugs
+[Fix] - Fixed cart & checkout pages bugs
+[Fix] - Fixed cart notification bugs
+[Update] - Framework update
+
+= 1.3.4 - 01/10/2020 =
+[Update] - Framework update
+
+= 1.3.3 - 16/09/2020 =
+[Fix] - Fixed Checkout Pricing bugs
+[Fix] - Fixed Product Pricing bugs
+[Remove] - Removed Total Including Tax condition
+[Remove] - Removed Total Excluding Tax condition 
+[Update] - Framework update
+
+= 1.3.2 - 13/11/2019 =
+[Update] - Updated Purchase History query
+[Fix] - Fixed Specific Products filter bug (Ajax issue on the framework)
+[Update] - Framework update
+
+= 1.3.1 - 03/11/2019 =
+[Fix] - Fixed Variable products sales price display
+[Update] - Updated Buy x Get x Purchase Quantity counting mode
+
+= 1.3.0 - 23/09/2019 =
+[Fix] - Fixed Purchase History Bugs
+[Fix] - Fixed Discount per line item bugs
+[New] - Added Shipping Rates conditional logic
+
+= 1.2.1 - 20/07/2019 =
+[Fix] - Fixed Settings page bugs
+
+= 1.2.0 - 03/07/2019 =
+[New] - Added zcpri/get-checkout-prices-quantity-based-on-{based-on} (API filter)
+[New] - Added zcpri/get-checkout-prices-{mode}-product-data (API filter)
+[New] - Added zcpri/get-checkout-prices-{mode}-discounts (API filter)
+[New] - Added zcpri/process-checkout-prices-{mode}-rule (API filter)
+[New] - Added zcpri/sanitize-checkout-prices-{mode}-rule-settings (API filter)
+[New] - Added zcpri/get-checkout-prices-settings-fields (API filter)
+[New] - Added zcpri/get-checkout-prices-settings-product-filters-folds (API filter)
+[New] - Added zcpri/get-checkout-prices-settings-quantity-based-on-folds (API filter)
+[New] - Added zcpri/get-checkout-prices-settings-quantity-based-on-options (API filter)
+[New] - Added zcpri/get-checkout-prices-settings-modes (API filter)
+
+[Update] - Updated zcpri/validate-condition-{rule_type} (API filter)
+[Update] - Updated zcpri/get-products-{rule_type} (API filter)
+[Update] - Updated zcpri/validate-product-filter-{rule_type} (API filter)
+[Update] - Updated zcpri/get-condition-type-fields (API filter)
+[Update] - Updated zcpri/get-condition-type-group-{rule_group} (API filter)
+[Update] - Updated zcpri/get-condition-type-groups (API filter)
+[Update] - Updated zcpri/get-product-rule-type-fields (API filter)
+[Update] - Updated zcpri/get-product-rule-type-group-{rule_group} (API filter)
+[Update] - Updated zcpri/get-product-rule-type-groups (API filter)
+
+[Fix] - Fixed bulk & tiered discount pricing bugs
+[Update] - Updated cart & mini cart prices html
+[Update] - Updated checkout pricing core
+
+= 1.1.4 - 20/06/2019 =
+[Update] - Minor Checkout Pricing update
+
+= 1.1.3 - 16/06/2019 =
+[Update] - Update Product Categories 
+[Update] - Updated Mini cart AJAX
+
+= 1.1.2 - 10/06/2019 =
+[Update] - Other minor updates
+[Fix] - Fixed Mini cart bugs
+
+= 1.1.1 - 08/06/2019 =
+[Update] - Minor framework update
+[Fix] - Fixed price rounding issue 
+[Fix] - Fixed other minor bug fixes 
+[Fix] - Fixed Group Discount Pricing bugs
+
+= 1.1 - 04/06/2019 =
+[Update] - Framework update
+[Update] - Modified Admin Settings Page
+[New] - Added Product Deals feature to Product Pricing Module
+[Fix] - Fixed bulk pricing missing quantity ranges
+
+= 1.0.4 - 02/06/2019 =
+[Update] - Framework update
+[Fix] - Fixed payment gateways issue
+
+= 1.0.3 - 31/05/2019 =
+[Update] - Framework update
+[Fix] - Fixed JavaScript error
+[New] - Added countdown timer to product pricing module
+
+= 1.0.2 - 26/05/2019 =
+[Update] - Checkout Discounts and Checkout Fees minor update
+[Fix] - Fixed WooCommerce menu
+
+= 1.0.1 - 23/05/2019 =
+[Update] - Minor Framework update
+
+= 1.0 - 22/05/2019 =
+[Release] - Initial Release
