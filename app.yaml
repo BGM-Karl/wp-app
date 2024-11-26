@@ -1,14 +1,14 @@
 runtime: php83  # 選擇 PHP 8.3 執行環境
 
-instance_class: F1  # 指定實例類型 (依需求調整)
-entrypoint: php -S 0.0.0.0:8080 -t wp-app/www
+instance_class: F2  # 指定實例類型 (依需求調整)
+entrypoint: php -S 0.0.0.0:8080 -t vendor/smokedgoose/wordpress
 
 env_variables:
   # WordPress 與 Cloud SQL 的相關設定
   DB_NAME: 'wordpress'
-  DB_USER: 'dbpgf09274233'
-  DB_PASSWORD: 'Aa3345678!'
-  DB_HOST: 'serverless-us-central1.sysp0000.db2.skysql.com:4009'
+  DB_USER: 'karl'
+  DB_PASSWORD: 'Aa3345678'
+  DB_HOST: 'local.bgmotion.com.tw:3333'
 
 handlers:
   # 讓 WordPress 正常處理請求

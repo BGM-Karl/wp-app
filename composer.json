@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BGM-Karl/smokedgoose-wordpress"
+        }
+    ],
+    "require": {
+        "smokedgoose/wordpress": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
